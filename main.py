@@ -37,30 +37,38 @@ def cassandra_menu():
 def mongo_menu():
     while True:
         op = int(input("""Select a query:
-        1.
-        2.
-        3.
-        4.
-        5.
-        6.
-        7.
-        8.
+        1. Search games by genre
+        2. Search games by platform
+        3. Top rated games
+        4. Games by developer
+        5. Games by age rating
+        6. Average price per platform
+        7. Games with multiplayer mode
+        8. PC games by minimum RAM requirement
         9. Return\n"""))
         if op == 1:
+            print("Search games by genre")
             pass
         elif op == 2:
+            print("Search games by platform")
             pass
         elif op == 3:
+            print("Top rated games")
             pass
         elif op == 4:
+            print("Games by developer")
             pass
         elif op == 5:
+            print("Games by age rating")
             pass
         elif op == 6:
+            print("Average price per platform")
             pass
         elif op == 7:
+            print("Games with multiplayer mode")
             pass
         elif op == 8:
+            print("PC games by minimum RAM requirement")
             pass
         elif op == 9:
             break
