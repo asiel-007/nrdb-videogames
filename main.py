@@ -1,4 +1,4 @@
-from connect import connect_cassandra, connect_dgraph
+from connect import connect_cassandra, connect_dgraph, connect_mongo
 
 def cassandra_menu():
     while True:
@@ -127,6 +127,10 @@ def main():
         cassandra_session = connect_cassandra()
     except Exception as e:
         print(f"Error connecting to Cassandra: {e}")
+    try:
+        mongo_db = connect_mongo()
+    except Exception as e:
+        print(f"Error connecting to MongoDB: {e}")
     while True:
         op = int(input("""Select :
         1. Sessions, activity and achievements
