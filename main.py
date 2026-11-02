@@ -1,33 +1,33 @@
-from connect import connect_dgraph
+from connect import connect_cassandra, connect_dgraph
 
 def cassandra_menu():
     while True:
         op = int(input("""Select a query:
-        1.
-        2.
-        3.
-        4.
-        5.
-        6.
-        7.
-        8.
-        9 Return\n"""))
+        1. Last 20 game sessions of a user
+        2. User sessions within a date range
+        3. User session history for a specific game
+        4. Daily playtime of a user during a month
+        5. Last 100 sessions of a game on a specific date
+        6. Last 30 achievements unlocked by a user
+        7. Last 25 sessions of a user on a specific platform
+        8. Hourly activity of a game on a specific day
+        9. Return\n"""))
         if op == 1:
-            pass
+            print("Last 20 game sessions of a user (table: sessions_by_user) - not implemented yet")
         elif op == 2:
-            pass
+            print("User sessions within a date range (table: sessions_by_user) - not implemented yet")
         elif op == 3:
-            pass
+            print("User session history for a specific game (table: sessions_by_user_game) - not implemented yet")
         elif op == 4:
-            pass
+            print("Daily playtime of a user during a month (table: playtime_by_user_day) - not implemented yet")
         elif op == 5:
-            pass
+            print("Last 100 sessions of a game on a specific date (table: sessions_by_game_day) - not implemented yet")
         elif op == 6:
-            pass
+            print("Last 30 achievements unlocked by a user (table: achievements_by_user) - not implemented yet")
         elif op == 7:
-            pass
+            print("Last 25 sessions of a user on a specific platform (table: sessions_by_user_platform) - not implemented yet")
         elif op == 8:
-            pass
+            print("Hourly activity of a game on a specific day (table: activity_by_game_hour) - not implemented yet")
         elif op == 9:
             break
         else:
@@ -114,7 +114,11 @@ def main():
     try:
         dgraph_client = connect_dgraph()
     except Exception as e:
-        print(f"Error connecting to db: {e}")
+        print(f"Error connecting to Dgraph: {e}")
+    try:
+        cassandra_session = connect_cassandra()
+    except Exception as e:
+        print(f"Error connecting to Cassandra: {e}")
     while True:
         op = int(input("""Select :
         1. Sessions, activity and achievements
