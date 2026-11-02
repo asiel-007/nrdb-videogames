@@ -69,10 +69,6 @@ def mongo_menu():
 
 
 def dgraph_menu():
-    try:
-        dgraph_client = connect_dgraph()
-    except Exception as e:
-        print(f"Error connecting to db: {e}")
     while True:
         op = int(input("""Select a query:
         1. Games liked by people I follow
@@ -115,6 +111,10 @@ def dgraph_menu():
 
 
 def main():
+    try:
+        dgraph_client = connect_dgraph()
+    except Exception as e:
+        print(f"Error connecting to db: {e}")
     while True:
         op = int(input("""Select :
         1. Sessions, activity and achievements
