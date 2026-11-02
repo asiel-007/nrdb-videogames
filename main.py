@@ -1,3 +1,5 @@
+from connect import connect_dgraph
+
 def cassandra_menu():
     while True:
         op = int(input("""Select a query:
@@ -67,6 +69,10 @@ def mongo_menu():
 
 
 def dgraph_menu():
+    try:
+        dgraph_client = connect_dgraph()
+    except Exception as e:
+        print(f"Error connecting to db: {e}")
     while True:
         op = int(input("""Select a query:
         1. Games liked by people I follow
