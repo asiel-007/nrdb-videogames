@@ -119,3 +119,77 @@ juego es parecido a otro, el otro también es parecido al primero.
 Platform ya no se guarda en Dgraph porque ninguna consulta del grafo la usa y esa información ya
 vive en MongoDB.
 """
+
+from pydgraph import DgraphClient
+from connect import connect_cassandra, connect_mongo, connect_dgraph
+from dgraph.dgraph_schema import create_schema
+import pandas as pd
+import os
+
+SRC_CSV = "./data/games.csv"
+CLEAN_CSV = "./data/games_sample.csv"
+COLS = ["Name", "Year_of_Release", "Developer", "Rating", "Critic_Score", "User_Score"]
+
+
+def get_sample(n_games=400) -> pd.DataFrame:
+    if os.path.exists(CLEAN_CSV):
+        df = pd.read_csv(CLEAN_CSV)
+        df["platforms"] = df["platforms"].apply(
+            lambda s: [p for p in s.split("|") if p]
+        )
+        return df
+    df = pd.read_csv(SRC_CSV)
+    # Reemplazar los valores nulos escritos para que sean eliminados
+    for c in COLS:
+        df[c] = df[c].astype(str).str.strip().replace({"N/A": pd.NA})
+    df = df.dropna()
+    # Eliminar "tbd" del score
+    drop_tbd = df[df["User_Score"] == "tbd"].index
+    df = df.drop(drop_tbd)
+    # Tomar el primer Developer si aparecen varios
+    df["Developer"] = df["Developer"].astype(str).str.split(",").str[0].str.strip()
+    # Reconvertir columnas numéricas
+    df["User_Score"] = pd.to_numeric(df["User_Score"])
+    df["Critic_Score"] = pd.to_numeric(df["Critic_Score"])
+    df["Year_of_Release"] = pd.to_numeric(df["Year_of_Release"])
+    df["Year_of_Release"] = df["Year_of_Release"].astype(int)
+    # Calcular el promedio de score de los críticos (1-100) y usuarios (1-10)
+    # y regularizarlo al rango 1-5
+    critic_1_5 = df["Critic_Score"] / 20.0
+    user_1_5 = df["User_Score"] / 2.0
+    df["average_rating"] = ((critic_1_5 + user_1_5) / 2.0)
+    # Agrupar por título para obtener todas las plataformas y
+    # el primer developer
+    agg = df.groupby(["Name"], as_index=False).agg(
+            platforms=("Platform", lambda s: "|".join(sorted(set(s.astype(str))))),
+            release_year=("Year_of_Release", "first"),
+            genre=("Genre", "first"),
+            publisher=("Publisher", "first"),
+            developer=("Developer", "first"),
+            age_rating=("Rating", "first"),
+            average_rating=("average_rating", "mean")
+        )
+    agg["average_rating"] = agg["average_rating"].round(2)
+    # Obtener muestra de n videojuegos
+    n = min(n_games, len(agg))
+    sample = agg.sample(n=n, random_state=42)
+    # Generar los ids
+    sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
+    sample.to_csv(CLEAN_CSV, index=False)
+    return sample
+
+
+def populate_dgraph(client: DgraphClient):
+    pass
+
+
+def main():
+    get_sample()
+    try:
+        dgraph_client = connect_dgraph()
+    except Exception as e:
+        print(f"Error al conectar base de datos: {e}")
+
+
+if __name__ == "__main__":
+    main()

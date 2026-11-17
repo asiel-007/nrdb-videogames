@@ -4,8 +4,12 @@ deprecated==3.0.1
 dnspython==2.9.1
 geomet==1.1.0
 grpcio==1.85.1
+numpy==2.5.5
+pandas==3.1.1
 protobuf==6.33.6
 pydgraph==25.2.0
 pymongo==4.19.0
+python-dateutil==4.0.0
 typing-extensions==4.16.0
+tzdata==2026.6
 wrapt==2.5.2

@@ -17,12 +17,9 @@ def connect_mongo():
 
 
 def connect_dgraph():
-    try:
-        client_stub = pydgraph.DgraphClientStub(DGRAPH_ADDR)
-        dgraph_client = pydgraph.DgraphClient(client_stub)
-        return dgraph_client
-    except Exception as e:
-        pass
+    client_stub = pydgraph.DgraphClientStub(DGRAPH_ADDR)
+    dgraph_client = pydgraph.DgraphClient(client_stub)
+    return dgraph_client
 
 
 CASSANDRA_HOST = os.getenv("CASSANDRA_HOST", "127.0.0.1")
