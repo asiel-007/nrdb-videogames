@@ -122,13 +122,14 @@ vive en MongoDB.
 
 from pydgraph import DgraphClient
 from connect import connect_cassandra, connect_mongo, connect_dgraph
-from dgraph.dgraph_schema import create_schema
 import pandas as pd
 import os
+import dgraph.dgraph_schema as dgraph_schema
 
 SRC_CSV = "./data/games.csv"
 CLEAN_CSV = "./data/games_sample.csv"
-COLS = ["Name", "Year_of_Release", "Developer", "Rating", "Critic_Score", "User_Score"]
+COLS = ["Name", "Year_of_Release", "Developer", "Rating",
+        "Critic_Score", "User_Score", "User_Count"]
 
 
 def get_sample(n_games=400) -> pd.DataFrame:
@@ -153,6 +154,8 @@ def get_sample(n_games=400) -> pd.DataFrame:
     df["Critic_Score"] = pd.to_numeric(df["Critic_Score"])
     df["Year_of_Release"] = pd.to_numeric(df["Year_of_Release"])
     df["Year_of_Release"] = df["Year_of_Release"].astype(int)
+    df["User_Count"] = pd.to_numeric(df["User_Count"])
+    df["User_Count"] = df["User_Count"].astype(int)
     # Calcular el promedio de score de los críticos (1-100) y usuarios (1-10)
     # y regularizarlo al rango 1-5
     critic_1_5 = df["Critic_Score"] / 20.0
@@ -167,6 +170,7 @@ def get_sample(n_games=400) -> pd.DataFrame:
             publisher=("Publisher", "first"),
             developer=("Developer", "first"),
             age_rating=("Rating", "first"),
+            total_players=("User_Count", "first"),
             average_rating=("average_rating", "mean")
         )
     agg["average_rating"] = agg["average_rating"].round(2)
@@ -175,20 +179,40 @@ def get_sample(n_games=400) -> pd.DataFrame:
     sample = agg.sample(n=n, random_state=42)
     # Generar los ids
     sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
+    sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
+    # Renombrar columnas para coincidir con los modelos de datos
+    sample = sample.rename(columns={"Name": "title"})
     sample.to_csv(CLEAN_CSV, index=False)
     return sample
 
 
-def populate_dgraph(client: DgraphClient):
-    pass
+def populate_dgraph(client: DgraphClient, data: pd.DataFrame):
+    games_cols = ["game_id", "title", "release_year",
+                  "average_rating", "total_players"]
+    games = dgraph_schema.parse_df(df=data, entity="Game", cols=games_cols)
+    games_uids = dgraph_schema.insert_data(client=client, data=games,
+                                           id_key="game_id")
+    genres_values = data["genre"].unique().tolist()
+    genres = [{"uid": f"_:genre_{i}",
+               "genre_name": g,
+               "genre_id": f"ge_{i + 1}"}
+              for i, g in genres_values]
+    genres_uids = dgraph_schema.insert_data(client=client, data=genres,
+                                            id_key="genre_id")
 
 
 def main():
-    get_sample()
     try:
         dgraph_client = connect_dgraph()
+        dgraph_schema.create_schema(client=dgraph_client)
     except Exception as e:
         print(f"Error al conectar base de datos: {e}")
+
+    try:
+        data = get_sample()
+        populate_dgraph(dgraph_client, data)
+    except Exception as e:
+        print(f"Error al poblar Dgraph: {e}")
 
 
 if __name__ == "__main__":
