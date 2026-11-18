@@ -193,12 +193,20 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame):
     games_uids = dgraph_schema.insert_data(client=client, data=games,
                                            id_key="game_id")
     genres_values = data["genre"].unique().tolist()
-    genres = [{"uid": f"_:genre_{i}",
+    genres = [{"uid": f"_:ge_{i}",
                "genre_name": g,
-               "genre_id": f"ge_{i + 1}"}
-              for i, g in genres_values]
+               "genre_id": f"ge_{i}"}
+              for i, g in enumerate(genres_values, start=1)]
     genres_uids = dgraph_schema.insert_data(client=client, data=genres,
                                             id_key="genre_id")
+    developer_values = data["developer"].unique().tolist()
+    developers = [{"uid": f"_:d_{i}",
+                   "dev_name": d,
+                   "dev_id": f"d_{i}"}
+                  for i, d in enumerate(developer_values, start=1)]
+    developers_uids = dgraph_schema.insert_data(client=client, data=developers,
+                                                id_key="dev_id")
+
 
 
 def main():
