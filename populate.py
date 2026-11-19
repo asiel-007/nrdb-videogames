@@ -120,21 +120,25 @@ Platform ya no se guarda en Dgraph porque ninguna consulta del grafo la usa y es
 vive en MongoDB.
 """
 
-from pydgraph import DgraphClient
 from connect import connect_cassandra, connect_mongo, connect_dgraph
+import dgraph.dgraph_schema as dgraph_schema
+from pydgraph import DgraphClient
+from pydgraph.errors import ConnectionError, TransactionError
+from faker import Faker
 import pandas as pd
 import os
-import dgraph.dgraph_schema as dgraph_schema
+import json
 
 SRC_CSV = "./data/games.csv"
-CLEAN_CSV = "./data/games_sample.csv"
+JSON_GAMES = "./data/games_sample.json"
+JSON_USERS = "./data/users.json"
 COLS = ["Name", "Year_of_Release", "Developer", "Rating",
         "Critic_Score", "User_Score", "User_Count"]
 
 
 def get_sample(n_games=400) -> pd.DataFrame:
-    if os.path.exists(CLEAN_CSV):
-        df = pd.read_csv(CLEAN_CSV)
+    if os.path.exists(JSON_GAMES):
+        df = pd.read_json(JSON_GAMES, orient="records")
         df["platforms"] = df["platforms"].apply(
             lambda s: [p for p in s.split("|") if p]
         )
@@ -157,7 +161,7 @@ def get_sample(n_games=400) -> pd.DataFrame:
     df["User_Count"] = pd.to_numeric(df["User_Count"])
     df["User_Count"] = df["User_Count"].astype(int)
     # Calcular el promedio de score de los críticos (1-100) y usuarios (1-10)
-    # y regularizarlo al rango 1-5
+    # y regularDiagramaizarlo al rango 1-5
     critic_1_5 = df["Critic_Score"] / 20.0
     user_1_5 = df["User_Score"] / 2.0
     df["average_rating"] = ((critic_1_5 + user_1_5) / 2.0)
@@ -182,16 +186,34 @@ def get_sample(n_games=400) -> pd.DataFrame:
     sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
     # Renombrar columnas para coincidir con los modelos de datos
     sample = sample.rename(columns={"Name": "title"})
-    sample.to_csv(CLEAN_CSV, index=False)
+    sample.to_json(JSON_GAMES, index=False, indent=2, orient="records")
     return sample
 
 
-def populate_dgraph(client: DgraphClient, data: pd.DataFrame):
+def get_users(path: str, n: int) -> pd.DataFrame:
+    if os.path.exists(path):
+        return pd.read_json(path, orient="records")
+    fake = Faker()
+    data = []
+    for i in range(n):
+        data.append({"user_id": f"u_{i+1:04d}", "username": fake.name()})
+    users_json = json.dumps(data, indent=2)
+    with open(path, "w") as f:
+        f.write(users_json)
+    return pd.read_json(path, orient="records")
+
+
+def generate_edges(path: str, entity: str, src: pd.DataFrame, dest: pd.DataFrame) -> None:
+    pass
+
+
+def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
     games_cols = ["game_id", "title", "release_year",
                   "average_rating", "total_players"]
     games = dgraph_schema.parse_df(df=data, entity="Game", cols=games_cols)
     games_uids = dgraph_schema.insert_data(client=client, data=games,
                                            id_key="game_id")
+    print(games_uids)
     genres_values = data["genre"].unique().tolist()
     genres = [{"uid": f"_:ge_{i}",
                "genre_name": g,
@@ -199,6 +221,7 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame):
               for i, g in enumerate(genres_values, start=1)]
     genres_uids = dgraph_schema.insert_data(client=client, data=genres,
                                             id_key="genre_id")
+    print(genres_uids)
     developer_values = data["developer"].unique().tolist()
     developers = [{"uid": f"_:d_{i}",
                    "dev_name": d,
@@ -206,6 +229,13 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame):
                   for i, d in enumerate(developer_values, start=1)]
     developers_uids = dgraph_schema.insert_data(client=client, data=developers,
                                                 id_key="dev_id")
+    print(developers_uids)
+    users_df = get_users(JSON_USERS, 200)
+    users_cols = ["user_id", "username"]
+    users = dgraph_schema.parse_df(df=users_df, entity="User", cols=users_cols)
+    users_uids = dgraph_schema.insert_data(client=client, data=users,
+                                           id_key="user_id")
+    print(users_uids)
 
 
 
@@ -213,14 +243,12 @@ def main():
     try:
         dgraph_client = connect_dgraph()
         dgraph_schema.create_schema(client=dgraph_client)
-    except Exception as e:
-        print(f"Error al conectar base de datos: {e}")
-
-    try:
         data = get_sample()
         populate_dgraph(dgraph_client, data)
-    except Exception as e:
-        print(f"Error al poblar Dgraph: {e}")
+    except ConnectionError as e:
+        print(f"Error al conectar Dgraph: {e}")
+    except TransactionError as e:
+        print(f"Error al cargar datos de Dgraph: {e}")
 
 
 if __name__ == "__main__":

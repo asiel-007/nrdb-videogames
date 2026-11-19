@@ -63,7 +63,7 @@ def parse_df(df: DataFrame, entity: str, cols: list) -> list:
     subset = df[cols]
     for i, row in enumerate(subset.itertuples(name=entity), start=0):
         item = row._asdict()
-        item["uid"] = f"_:game_{i}"
+        item["uid"] = f"_:{entity.lower()}_{i}"
         data.append(item)
     return data
 
