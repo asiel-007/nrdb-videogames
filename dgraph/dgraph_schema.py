@@ -1,6 +1,8 @@
-import csv
-
-from pandas import DataFrame
+import pandas as pd
+import os
+import json
+from faker import Faker
+import random
 from pydgraph import DgraphClient, Operation
 
 
@@ -58,7 +60,7 @@ def create_schema(client: DgraphClient) -> None:
         print(f"Error al crear schema de Dgraph: {e}")
 
 
-def parse_df(df: DataFrame, entity: str, cols: list) -> list:
+def parse_df(df: pd.DataFrame, entity: str, cols: list) -> list:
     data = []
     subset = df[cols]
     for i, row in enumerate(subset.itertuples(name=entity), start=0):
@@ -100,6 +102,58 @@ def insert_edges(client: DgraphClient, edges: list, from_key: str, to_key: str, 
         txn.commit()
     finally:
         txn.discard()
+
+
+def get_users(path: str, n: int) -> pd.DataFrame:
+    if os.path.exists(path):
+        return pd.read_json(path, orient="records")
+    fake = Faker()
+    data = []
+    for i in range(n):
+        data.append({"user_id": f"u_{i+1:04d}", "username": fake.name()})
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+    return pd.read_json(path, orient="records")
+
+
+def get_follows(path: str, user_ids: list) -> list:
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            return json.load(f)
+    data = []
+    for uid in user_ids:
+        candidates = [u for u in user_ids if u != uid]
+        n = random.randint(5, min(20, len(candidates)))
+        for followed in random.sample(candidates, n):
+            data.append({"follower": uid, "follows": followed})
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+    return data
+
+
+def get_similar_to(path: str, games: pd.DataFrame) -> list:
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    by_genre = {}
+    for _, g in games.iterrows():
+        by_genre.setdefault(g["genre"], []).append(g["game_id"])
+    pairs = set()
+    for _, ids in by_genre.items():
+        if len(ids) < 2:
+            continue
+        for gid in ids:
+            others = [x for x in ids if x != gid]
+            # Muestra de 2-4 juegos del mismo género
+            k = random.randint(2, min(4, len(others)))
+            for other in random.sample(others, k):
+                # construir cada par con los videojuegos seleccionados
+                pairs.add(tuple(sorted((gid, other))))
+
+    data = [{"g_id": a, "similar": b} for a, b in pairs]
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+    return data
 
 
 def drop_schema(client: DgraphClient):

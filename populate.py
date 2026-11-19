@@ -125,7 +125,6 @@ from connect import connect_cassandra, connect_mongo, connect_dgraph
 import dgraph.dgraph_schema as dgraph_schema
 from pydgraph import DgraphClient
 from pydgraph.errors import ConnectionError, TransactionError
-from faker import Faker
 import pandas as pd
 import os
 import json
@@ -136,6 +135,7 @@ JSON_GAMES = "./data/games.json"
 JSON_USERS = "./data/users.json"
 JSON_FOLLOWS = "./data/follows.json"
 JSON_PLAYED = "./data/played.json"
+JSON_SIMILAR = "./data/similar_to.json"
 COLS = ["Name", "Year_of_Release", "Developer", "Rating",
         "Critic_Score", "User_Score", "User_Count"]
 
@@ -194,33 +194,6 @@ def get_sample(n_games=400) -> pd.DataFrame:
     return sample
 
 
-def get_users(path: str, n: int) -> pd.DataFrame:
-    if os.path.exists(path):
-        return pd.read_json(path, orient="records")
-    fake = Faker()
-    data = []
-    for i in range(n):
-        data.append({"user_id": f"u_{i+1:04d}", "username": fake.name()})
-    with open(path, "w") as f:
-        json.dump(data, f, indent=2)
-    return pd.read_json(path, orient="records")
-
-
-def get_follows(path: str, user_ids: list) -> list:
-    if os.path.exists(path):
-        with open(path, "r") as f:
-            return json.load(f)
-    data = []
-    for uid in user_ids:
-        candidates = [u for u in user_ids if u != uid]
-        n = random.randint(5, min(20, len(candidates)))
-        for followed in random.sample(candidates, n):
-            data.append({"follower": uid, "follows": followed})
-    with open(path, "w") as f:
-        json.dump(data, f, indent=2)
-    return data
-
-
 def get_played(path: str, games: pd.DataFrame, users: pd.DataFrame) -> list:
     if os.path.exists(path):
         with open(path) as f:
@@ -233,7 +206,7 @@ def get_played(path: str, games: pd.DataFrame, users: pd.DataFrame) -> list:
     data = []
     for _, u in users.iterrows():
         n_total = random.randint(10, 30)
-        # 2-3 favorite genres, 2-3 extra genres
+        # Elegir 2-3 géneros favoritos y 2-3 géneros extras
         n_fav = random.randint(2, min(3, len(all_genres)))
         fav_genres = random.sample(all_genres, n_fav)
         other_genres = [g for g in all_genres if g not in fav_genres]
@@ -246,14 +219,14 @@ def get_played(path: str, games: pd.DataFrame, users: pd.DataFrame) -> list:
         pool_other = list({gid for g in other_genres for gid in by_genre[g]})
 
         fav_games = random.sample(pool_fav, min(n_fav, len(pool_fav)))
-        # if pool is not big enough, take extra games
+        # Si el conjunto elegido no es suficiente, tomar más juegos del resto
         other_games = random.sample(pool_other, min(n_other, len(pool_other)))
         if len(fav_games) + len(other_games) < n_total:
             used = set(fav_games) | set(other_games)
             rest = [g for g in games["game_id"] if g not in used]
             extra = random.sample(rest, n_total - len(fav_games) - len(other_games))
             other_games += extra
-        # build objects
+        # Construir los objetos para insertar
         for gid in fav_games:
             avg = rating_by_game[gid]
             rating = max(1, min(5, int(round(random.gauss(avg, 0.7)))))
@@ -270,7 +243,7 @@ def get_played(path: str, games: pd.DataFrame, users: pd.DataFrame) -> list:
 
 
 def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
-    # inserting nodes
+    # Insertar nodos
     games_cols = ["game_id", "title", "release_year",
                   "average_rating", "total_players"]
     games = dgraph_schema.parse_df(df=data, entity="Game", cols=games_cols)
@@ -290,20 +263,20 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
                   for i, d in enumerate(developer_values, start=1)]
     developers_uids = dgraph_schema.insert_data(client=client, data=developers,
                                                 id_key="dev_name")
-    users_df = get_users(JSON_USERS, 200)
+    users_df = dgraph_schema.get_users(JSON_USERS, 200)
     users_cols = ["user_id", "username"]
     users = dgraph_schema.parse_df(df=users_df, entity="User", cols=users_cols)
     users_uids = dgraph_schema.insert_data(client=client, data=users,
                                            id_key="user_id")
-    # inserting edges
-    follows = get_follows(JSON_FOLLOWS, users_uids)
+    # Insertar aristas
+    follows = dgraph_schema.get_follows(JSON_FOLLOWS, users_uids)
     follows_edges = [{
         "follower": users_uids[f["follower"]],
         "follows": users_uids[f["follows"]]
     } for f in follows]
     dgraph_schema.insert_edges(client=client, edges=follows_edges,
                                from_key="follower", to_key="follows", pred="follows")
-    # map every game to its developer and genre
+    # Mapear cada juego con su developer y genre
     genre_id = {g: uid for g, uid in genres_uids.items()}
     dev_id = {d: uid for d, uid in developers_uids.items()}
     genre_edges = []
@@ -328,6 +301,16 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
     dgraph_schema.insert_edges(client=client, edges=played_edges,
                                from_key="user_id", to_key="g_id",
                                facets=["favorite", "rating"], pred="played")
+    # Crear relaciones simetricas de SIMILAR_TO para insertar
+    similar = dgraph_schema.get_similar_to(JSON_SIMILAR, data)
+    similar_edges = []
+    for s in similar:
+        src = games_uids[s["g_id"]]
+        dest = games_uids[s["similar"]]
+        similar_edges.append({"g_id": src, "similar": dest})
+        similar_edges.append({"g_id": dest, "similar": src})
+    dgraph_schema.insert_edges(client=client, edges=similar_edges,
+                               from_key="g_id", to_key="similar", pred="similar_to")
 
 
 def main():
