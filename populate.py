@@ -132,9 +132,10 @@ import json
 import random
 
 SRC_CSV = "./data/games.csv"
-JSON_GAMES = "./data/games_sample.json"
+JSON_GAMES = "./data/games.json"
 JSON_USERS = "./data/users.json"
 JSON_FOLLOWS = "./data/follows.json"
+JSON_PLAYED = "./data/played.json"
 COLS = ["Name", "Year_of_Release", "Developer", "Rating",
         "Critic_Score", "User_Score", "User_Count"]
 
@@ -220,6 +221,54 @@ def get_follows(path: str, user_ids: list) -> list:
     return data
 
 
+def get_played(path: str, games: pd.DataFrame, users: pd.DataFrame) -> list:
+    if os.path.exists(path):
+        with open(path) as f:
+            return json.load(f)
+    by_genre = {}
+    for _, g in games.iterrows():
+        by_genre.setdefault(g["genre"], []).append(g["game_id"])
+    all_genres = list(by_genre.keys())
+    rating_by_game = dict(zip(games["game_id"], games["average_rating"]))
+    data = []
+    for _, u in users.iterrows():
+        n_total = random.randint(10, 30)
+        # 2-3 favorite genres, 2-3 extra genres
+        n_fav = random.randint(2, min(3, len(all_genres)))
+        fav_genres = random.sample(all_genres, n_fav)
+        other_genres = [g for g in all_genres if g not in fav_genres]
+        n_other = random.randint(2, min(3, len(other_genres)))
+        other_genres = random.sample(other_genres, n_other)
+        # choose number of favorite games, leave at least 1 non-favorite
+        n_fav = random.randint(1, n_total - 1)
+        n_other = n_total - n_fav
+        pool_fav = list({gid for g in fav_genres for gid in by_genre[g]})
+        pool_other = list({gid for g in other_genres for gid in by_genre[g]})
+
+        fav_games = random.sample(pool_fav, min(n_fav, len(pool_fav)))
+        # if pool is not big enough, take extra games
+        other_games = random.sample(pool_other, min(n_other, len(pool_other)))
+        if len(fav_games) + len(other_games) < n_total:
+            used = set(fav_games) | set(other_games)
+            rest = [g for g in games["game_id"] if g not in used]
+            extra = random.sample(rest, n_total - len(fav_games) - len(other_games))
+            other_games += extra
+        # build objects
+        for gid in fav_games:
+            avg = rating_by_game[gid]
+            rating = max(1, min(5, int(round(random.gauss(avg, 0.7)))))
+            data.append({"user_id": u["user_id"], "g_id": gid,
+                         "rating": rating, "favorite": True})
+        for gid in other_games:
+            avg = rating_by_game[gid]
+            rating = max(1, min(5, int(round(random.gauss(avg, 0.7)))))
+            data.append({"user_id": u["user_id"], "g_id": gid,
+                         "rating": rating, "favorite": False})
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+    return data
+
+
 def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
     # inserting nodes
     games_cols = ["game_id", "title", "release_year",
@@ -233,14 +282,14 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
                "genre_id": f"ge_{i}"}
               for i, g in enumerate(genres_values, start=1)]
     genres_uids = dgraph_schema.insert_data(client=client, data=genres,
-                                            id_key="genre_id")
+                                            id_key="genre_name")
     developer_values = data["developer"].unique().tolist()
     developers = [{"uid": f"_:d_{i}",
                    "dev_name": d,
                    "dev_id": f"d_{i}"}
                   for i, d in enumerate(developer_values, start=1)]
     developers_uids = dgraph_schema.insert_data(client=client, data=developers,
-                                                id_key="dev_id")
+                                                id_key="dev_name")
     users_df = get_users(JSON_USERS, 200)
     users_cols = ["user_id", "username"]
     users = dgraph_schema.parse_df(df=users_df, entity="User", cols=users_cols)
@@ -251,10 +300,34 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
     follows_edges = [{
         "follower": users_uids[f["follower"]],
         "follows": users_uids[f["follows"]]
-        } for f in follows]
+    } for f in follows]
     dgraph_schema.insert_edges(client=client, edges=follows_edges,
                                from_key="follower", to_key="follows", pred="follows")
-
+    # map every game to its developer and genre
+    genre_id = {g: uid for g, uid in genres_uids.items()}
+    dev_id = {d: uid for d, uid in developers_uids.items()}
+    genre_edges = []
+    dev_edges = []
+    for _, row in data.iterrows():
+        g_uid = games_uids[row["game_id"]]
+        ge_uid = genre_id[row["genre"]]
+        d_uid = dev_id[row["developer"]]
+        genre_edges.append({"g_id": g_uid, "ge_id": ge_uid})
+        dev_edges.append({"g_id": g_uid, "d_id": d_uid})
+    dgraph_schema.insert_edges(client=client, edges=dev_edges,
+                               from_key="g_id", to_key="d_id", pred="developed_by")
+    dgraph_schema.insert_edges(client=client, edges=genre_edges,
+                               from_key="g_id", to_key="ge_id", pred="belongs_to_genre")
+    played = get_played(JSON_PLAYED, games=data, users=users_df)
+    played_edges = [{
+        "user_id": users_uids[p["user_id"]],
+        "g_id": games_uids[p["g_id"]],
+        "rating": int(p["rating"]),
+        "favorite": bool(p["favorite"]),
+    } for p in played]
+    dgraph_schema.insert_edges(client=client, edges=played_edges,
+                               from_key="user_id", to_key="g_id",
+                               facets=["favorite", "rating"], pred="played")
 
 
 def main():
