@@ -80,5 +80,27 @@ def insert_data(client: DgraphClient, data: list, id_key: str) -> dict:
     return uids
 
 
+def insert_edges(client: DgraphClient, edges: list, from_key: str, to_key: str, pred: str, facets=None) -> None:
+    grouped = {}
+    for e in edges:
+        grouped.setdefault(e[from_key], []).append(e)
+    edges_obj = []
+    for src, items in grouped.items():
+        obj = {"uid": src, pred: []}
+        for it in items:
+            link = {"uid": it[to_key]}
+            if facets:
+                for f in facets:
+                    link[f] = it[f]
+            obj[pred].append(link)
+        edges_obj.append(obj)
+    txn = client.txn()
+    try:
+        txn.mutate(set_obj=edges_obj)
+        txn.commit()
+    finally:
+        txn.discard()
+
+
 def drop_schema(client: DgraphClient):
     client.alter(Operation(drop_all=True))

@@ -120,6 +120,7 @@ Platform ya no se guarda en Dgraph porque ninguna consulta del grafo la usa y es
 vive en MongoDB.
 """
 
+
 from connect import connect_cassandra, connect_mongo, connect_dgraph
 import dgraph.dgraph_schema as dgraph_schema
 from pydgraph import DgraphClient
@@ -128,10 +129,12 @@ from faker import Faker
 import pandas as pd
 import os
 import json
+import random
 
 SRC_CSV = "./data/games.csv"
 JSON_GAMES = "./data/games_sample.json"
 JSON_USERS = "./data/users.json"
+JSON_FOLLOWS = "./data/follows.json"
 COLS = ["Name", "Year_of_Release", "Developer", "Rating",
         "Critic_Score", "User_Score", "User_Count"]
 
@@ -197,23 +200,33 @@ def get_users(path: str, n: int) -> pd.DataFrame:
     data = []
     for i in range(n):
         data.append({"user_id": f"u_{i+1:04d}", "username": fake.name()})
-    users_json = json.dumps(data, indent=2)
     with open(path, "w") as f:
-        f.write(users_json)
+        json.dump(data, f, indent=2)
     return pd.read_json(path, orient="records")
 
 
-def generate_edges(path: str, entity: str, src: pd.DataFrame, dest: pd.DataFrame) -> None:
-    pass
+def get_follows(path: str, user_ids: list) -> list:
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            return json.load(f)
+    data = []
+    for uid in user_ids:
+        candidates = [u for u in user_ids if u != uid]
+        n = random.randint(5, min(20, len(candidates)))
+        for followed in random.sample(candidates, n):
+            data.append({"follower": uid, "follows": followed})
+    with open(path, "w") as f:
+        json.dump(data, f, indent=2)
+    return data
 
 
 def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
+    # inserting nodes
     games_cols = ["game_id", "title", "release_year",
                   "average_rating", "total_players"]
     games = dgraph_schema.parse_df(df=data, entity="Game", cols=games_cols)
     games_uids = dgraph_schema.insert_data(client=client, data=games,
                                            id_key="game_id")
-    print(games_uids)
     genres_values = data["genre"].unique().tolist()
     genres = [{"uid": f"_:ge_{i}",
                "genre_name": g,
@@ -221,7 +234,6 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
               for i, g in enumerate(genres_values, start=1)]
     genres_uids = dgraph_schema.insert_data(client=client, data=genres,
                                             id_key="genre_id")
-    print(genres_uids)
     developer_values = data["developer"].unique().tolist()
     developers = [{"uid": f"_:d_{i}",
                    "dev_name": d,
@@ -229,13 +241,19 @@ def populate_dgraph(client: DgraphClient, data: pd.DataFrame) -> None:
                   for i, d in enumerate(developer_values, start=1)]
     developers_uids = dgraph_schema.insert_data(client=client, data=developers,
                                                 id_key="dev_id")
-    print(developers_uids)
     users_df = get_users(JSON_USERS, 200)
     users_cols = ["user_id", "username"]
     users = dgraph_schema.parse_df(df=users_df, entity="User", cols=users_cols)
     users_uids = dgraph_schema.insert_data(client=client, data=users,
                                            id_key="user_id")
-    print(users_uids)
+    # inserting edges
+    follows = get_follows(JSON_FOLLOWS, users_uids)
+    follows_edges = [{
+        "follower": users_uids[f["follower"]],
+        "follows": users_uids[f["follows"]]
+        } for f in follows]
+    dgraph_schema.insert_edges(client=client, edges=follows_edges,
+                               from_key="follower", to_key="follows", pred="follows")
 
 
 
