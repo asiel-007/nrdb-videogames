@@ -187,7 +187,6 @@ def get_sample(n_games=400) -> pd.DataFrame:
     sample = agg.sample(n=n, random_state=42)
     # Generar los ids
     sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
-    sample["game_id"] = [f"g_{i+1:04d}" for i in range(len(sample))]
     # Renombrar columnas para coincidir con los modelos de datos
     sample = sample.rename(columns={"Name": "title"})
     sample.to_json(JSON_GAMES, index=False, indent=2, orient="records")
