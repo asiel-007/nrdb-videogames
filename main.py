@@ -1,4 +1,6 @@
 from connect import connect_cassandra, connect_dgraph, connect_mongo
+import dgraph.dgraph_queries as dgq
+import json
 
 def cassandra_menu():
     while True:
@@ -76,7 +78,7 @@ def mongo_menu():
             print("Invalid option")
 
 
-def dgraph_menu():
+def dgraph_menu(client):
     while True:
         op = int(input("""Select a query:
         1. Games liked by people I follow
@@ -90,6 +92,9 @@ def dgraph_menu():
         9. Return\n"""))
         if op == 1:
             print("Games liked by people I follow")
+            user_id = input("Type user id: ")
+            res = dgq.query1(client, user_id=user_id)
+            print(json.dumps(res, indent=2))
             pass
         elif op == 2:
             print("Similar games")
@@ -142,7 +147,7 @@ def main():
         elif op == 2:
             mongo_menu()
         elif op == 3:
-            dgraph_menu()
+            dgraph_menu(dgraph_client)
         elif op == 4:
             break
 

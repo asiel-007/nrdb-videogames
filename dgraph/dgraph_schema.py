@@ -83,25 +83,42 @@ def insert_data(client: DgraphClient, data: list, id_key: str) -> dict:
 
 
 def insert_edges(client: DgraphClient, edges: list, from_key: str, to_key: str, pred: str, facets=None) -> None:
-    grouped = {}
+    nqads = ""
     for e in edges:
-        grouped.setdefault(e[from_key], []).append(e)
-    edges_obj = []
-    for src, items in grouped.items():
-        obj = {"uid": src, pred: []}
-        for it in items:
-            link = {"uid": it[to_key]}
-            if facets:
-                for f in facets:
-                    link[f] = it[f]
-            obj[pred].append(link)
-        edges_obj.append(obj)
+        nqads += f"<{e[from_key]}> <{pred}> <{e[to_key]}> "
+        if facets:
+            nqads += "("
+            for f in facets:
+                nqads += f"{f}={str(e[f]).lower()},"
+            nqads = nqads[:-1]
+            nqads += ")"
+        nqads += " .\n"
+    print(nqads)
     txn = client.txn()
     try:
-        txn.mutate(set_obj=edges_obj)
+        txn.mutate(set_nquads=nqads)
         txn.commit()
     finally:
         txn.discard()
+    # grouped = {}
+    # for e in edges:
+    #     grouped.setdefault(e[from_key], []).append(e)
+    # edges_obj = []
+    # for src, items in grouped.items():
+    #     obj = {"uid": src, pred: []}
+    #     for it in items:
+    #         link = {"uid": it[to_key]}
+    #         if facets:
+    #             for f in facets:
+    #                 link[f] = it[f]
+    #         obj[pred].append(link)
+    #     edges_obj.append(obj)
+    # txn = client.txn()
+    # try:
+    #     txn.mutate(set_obj=edges_obj)
+    #     txn.commit()
+    # finally:
+    #     txn.discard()
 
 
 def get_users(path: str, n: int) -> pd.DataFrame:

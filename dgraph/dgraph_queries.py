@@ -9,40 +9,29 @@ def query1(client: DgraphClient, user_id: str):
     que sigo marcaron como favoritos
     """
     query = """
-    query followed_liked($uid: string) {
-        # Encontrar usuarios seguidos y juegos jugados
-        var(func: eq(user_id, $uid)) {
-            follows {
-                friend_uid as uid
-            }
-            played {
-                played_uid as uid
-            }
+    {
+      var(func: eq(user_id, "u_0001")) {
+        followed as follows {
+          uid
         }
-        # Encontrar los juegos que marcaron como favoritos
-        var(func: uid(friend_uid)) {
-            played @facets(favorite) @filter(eq(favorite, true)){
-                g as uid
-            }
+        my_played as played {
+          uid
         }
-        # Contar los usuarios que marcaron cada juego como
-        # favorito
-        var(func: uid(g)) @groupby(uid(g)) {
-            c as count(uid)
+      }
+      # Encontrar los juegos que marcaron como favoritos y el usuario
+      # no ha jugado
+      result(func: uid(followed)) @filter(NOT uid(my_played)) {
+        username
+        played(orderdesc: total_players, first: 3) @facets(eq(favorite, true)) {
+          title
+          total_players
         }
-        # Regresar los juegos para los que se hayan contado
-        # dos facets favorite y no haya sido jugados por el usuario
-        result(func: uid(c), orderdesc: val(c), first: 10)
-            @filter(ge(val(c), 2) AND NOT uid(played_uid)) {
-            game_id
-            title
-            friends_who_liked: val(c)
-        }
+      }
     }
     """
     try:
         res = client.txn(read_only=True).query(query=query,
-                                               variables={'$user_id': user_id})
+                                               variables={'$u_id': user_id})
         return json.loads(res.json)
     except Exception as e:
         print(f'Error al obtener "Juegos que les gustan a las personas que sigo": {e}')
