@@ -95,8 +95,12 @@ def query2(client: DgraphClient, game_id: str):
         print(f'Error al obtener "": {e}')
 
 
-def query3(client: DgraphClient):
-    pass
+def query3(client: DgraphClient, user_id: str):
+    """
+    Identificar los 3 géneros más jugados por el usuario
+    y recomendar hasta 15 videojuegos de estos géneros,
+    ordenados por total_players
+    """
 
 
 def query4(client: DgraphClient):
@@ -111,5 +115,46 @@ def query6(client: DgraphClient):
     pass
 
 
-def query7(client: DgraphClient):
+def query7(client: DgraphClient, user_id: str):
+    """
+    Recomendar videojuegos de los desarrolladores
+    de los videojuegos que el usuario calificó con 5 estrellas
+    """
+    query = """
+    query liked_devs($u_id: string) {
+        # Obtener juegos jugados por el usuario
+        var (func: eq(user_id, $u_id)) {
+            my_played as played { uid }
+        }
+        var (func: eq(user_id, $u_id)) {
+            liked as played @facets(ge(rating, 4)) {
+                uid
+            }
+        }
+        var (func: uid(liked)) {
+            dev as developed_by { uid }
+        }
+        result(func: uid(dev)) {
+            dev_name
+            games: ~developed_by @filter(NOT uid(my_played)){
+                game_id
+                title
+                release_year
+            }
+        }
+    }
+    """
+    try:
+        res = client.txn(read_only=True).query(query=query,
+                                               variables={"$u_id": user_id})
+        # Eliminar los desarrolladores de los que no se encontraron juegos
+        # sin jugar
+        res_json = json.loads(res.json)
+        devs = [dev for dev in res_json["result"] if "games" in dev]
+        return devs
+    except Exception as e:
+        print(f'Error al obtener "": {e}')
+
+
+def query8(client: DgraphClient):
     pass

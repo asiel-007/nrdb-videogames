@@ -94,7 +94,7 @@ def dgraph_menu(client):
             print("Games liked by people I follow")
             user_id = input("Type user id: ")
             res = dgq.query1(client, user_id=user_id)
-            print(json.dumps(res, indent=2))
+            print(json.dumps(res["result"], indent=2))
             pass
         elif op == 2:
             print("Similar games")
@@ -104,6 +104,9 @@ def dgraph_menu(client):
             pass
         elif op == 3:
             print("Recommendations by favorite genre")
+            user_id = input("Type user id: ")
+            res = dgq.query3(client, user_id=user_id)
+            print(json.dumps(res, indent=2))
             pass
         elif op == 4:
             print("Follow suggestions")
@@ -116,6 +119,9 @@ def dgraph_menu(client):
             pass
         elif op == 7:
             print("More games from liked developers")
+            user_id = input("Type user_id: ")
+            res = dgq.query7(client, user_id=user_id)
+            print(json.dumps(res, indent=2))
             pass
         elif op == 8:
             print("People i follow and play this game")
