@@ -98,6 +98,9 @@ def dgraph_menu(client):
             pass
         elif op == 2:
             print("Similar games")
+            game_id = input("Type game id: ")
+            res = dgq.query2(client, game_id=game_id)
+            print(json.dumps(res, indent=2))
             pass
         elif op == 3:
             print("Recommendations by favorite genre")
@@ -128,14 +131,14 @@ def main():
         dgraph_client = connect_dgraph()
     except Exception as e:
         print(f"Error connecting to Dgraph: {e}")
-    try:
-        cassandra_session = connect_cassandra()
-    except Exception as e:
-        print(f"Error connecting to Cassandra: {e}")
-    try:
-        mongo_db = connect_mongo()
-    except Exception as e:
-        print(f"Error connecting to MongoDB: {e}")
+    # try:
+    #     cassandra_session = connect_cassandra()
+    # except Exception as e:
+    #     print(f"Error connecting to Cassandra: {e}")
+    # try:
+    #     mongo_db = connect_mongo()
+    # except Exception as e:
+    #     print(f"Error connecting to MongoDB: {e}")
     while True:
         op = int(input("""Select :
         1. Sessions, activity and achievements
