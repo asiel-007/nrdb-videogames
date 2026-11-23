@@ -125,6 +125,10 @@ def dgraph_menu(client):
             pass
         elif op == 8:
             print("People i follow and play this game")
+            user_id = input("Type user id: ")
+            game_id = input("Type game id: ")
+            res = dgq.query8(client, user_id=user_id, game_id=game_id)
+            print(json.dumps(res, indent=2))
             pass
         elif op == 9:
             break

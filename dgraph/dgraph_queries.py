@@ -1,6 +1,8 @@
 from pydgraph import DgraphClient
 import json
 
+from pydgraph.async_client import _validate_parsed_url
+
 
 def query1(client: DgraphClient, user_id: str):
     """
@@ -156,5 +158,39 @@ def query7(client: DgraphClient, user_id: str):
         print(f'Error al obtener "": {e}')
 
 
-def query8(client: DgraphClient):
-    pass
+def query8(client: DgraphClient, user_id: str, game_id: str):
+    """
+    Buscar a las personas que sigo y que juegan un videojuego
+    específico
+    """
+    query = """
+    query coop_candidates($u_id: string, $g_id: string) {
+        # Encontrar a todas las personas que sigue el usuario
+        var (func: eq(user_id, $u_id)) {
+            me as uid
+            followed as follows { uid }
+        }
+        # Obtener los jugadores del juego y filtrar a los seguidos
+        # por el usuario, comprobar si la relación es mutua
+        result(func: eq(game_id, $g_id)) {
+            ~played @filter(uid(followed)) {
+                user_id
+                username
+                mutual: follows @filter(uid(me)) { uid }
+            }
+        }
+    }
+    """
+    try:
+        res = client.txn(read_only=True).query(query=query,
+                                               variables={"$u_id": user_id,
+                                                          "$g_id": game_id})
+        res_json = json.loads(res.json)
+        users = []
+        # Indicar si los usuarios se siguen mutuamente
+        for u in res_json["result"][0]["~played"]:
+            u["mutual"] = True if "mutual" in u else False
+            users.append(u)
+        return users
+    except Exception as e:
+        print(f'Error al obtener "": {e}')
