@@ -1,8 +1,39 @@
 from connect import connect_cassandra, connect_dgraph, connect_mongo
+from Cassandra import queries as cq
 
-def cassandra_menu():
+def print_rows(rows):
+    # imprime los resultados como una tabla sencilla
+    if not rows:
+        print("no hay resultados\n")
+        return
+    columns = rows[0]._fields
+    print(" | ".join(columns))
+    print("-" * 80)
+    for row in rows:
+        print(" | ".join(str(value) for value in row))
+    print(f"\n{len(rows)} filas\n")
+
+
+def ask(text, default):
+    # pide un valor y si se deja vacio usa el de ejemplo
+    value = input(f"{text} [{default}]: ").strip()
+    return value or default
+
+
+def cassandra_menu(session):
+    if session is None:
+        print("no hay conexion con cassandra")
+        return
+
+    # valores de ejemplo que si existen en la base, para no tener que adivinar
+    sample = cq.sample_values(session) or {
+        "user_id": "u_0001", "game_id": "g_0001", "platform": "PC",
+        "date": "2026-10-15", "month": "2026-10",
+    }
+
     while True:
-        op = int(input("""Select a query:
+        try:
+            op = int(input("""Select a query:
         1. Last 20 game sessions of a user
         2. User sessions within a date range
         3. User session history for a specific game
@@ -12,26 +43,49 @@ def cassandra_menu():
         7. Last 25 sessions of a user on a specific platform
         8. Hourly activity of a game on a specific day
         9. Return\n"""))
-        if op == 1:
-            print("Last 20 game sessions of a user (table: sessions_by_user) - not implemented yet")
-        elif op == 2:
-            print("User sessions within a date range (table: sessions_by_user) - not implemented yet")
-        elif op == 3:
-            print("User session history for a specific game (table: sessions_by_user_game) - not implemented yet")
-        elif op == 4:
-            print("Daily playtime of a user during a month (table: playtime_by_user_day) - not implemented yet")
-        elif op == 5:
-            print("Last 100 sessions of a game on a specific date (table: sessions_by_game_day) - not implemented yet")
-        elif op == 6:
-            print("Last 30 achievements unlocked by a user (table: achievements_by_user) - not implemented yet")
-        elif op == 7:
-            print("Last 25 sessions of a user on a specific platform (table: sessions_by_user_platform) - not implemented yet")
-        elif op == 8:
-            print("Hourly activity of a game on a specific day (table: activity_by_game_hour) - not implemented yet")
-        elif op == 9:
-            break
-        else:
+        except ValueError:
             print("Invalid option")
+            continue
+
+        try:
+            if op == 1:
+                user_id = ask("user_id", sample["user_id"])
+                print_rows(cq.last_sessions(session, user_id))
+            elif op == 2:
+                user_id = ask("user_id", sample["user_id"])
+                start = ask("start date (YYYY-MM-DD)", "2026-09-01")
+                end = ask("end date (YYYY-MM-DD)", "2026-09-30")
+                print_rows(cq.sessions_in_range(session, user_id, start, end))
+            elif op == 3:
+                user_id = ask("user_id", sample["user_id"])
+                game_id = ask("game_id", sample["game_id"])
+                print_rows(cq.sessions_by_game(session, user_id, game_id))
+            elif op == 4:
+                user_id = ask("user_id", sample["user_id"])
+                month = ask("month (YYYY-MM)", sample["month"])
+                print_rows(cq.playtime_by_day(session, user_id, month))
+            elif op == 5:
+                game_id = ask("game_id", sample["game_id"])
+                date = ask("date (YYYY-MM-DD)", sample["date"])
+                print_rows(cq.game_sessions_on_date(session, game_id, date))
+            elif op == 6:
+                user_id = ask("user_id", sample["user_id"])
+                print_rows(cq.last_achievements(session, user_id))
+            elif op == 7:
+                user_id = ask("user_id", sample["user_id"])
+                platform = ask("platform", sample["platform"])
+                print_rows(cq.sessions_by_platform(session, user_id, platform))
+            elif op == 8:
+                game_id = ask("game_id", sample["game_id"])
+                date = ask("date (YYYY-MM-DD)", sample["date"])
+                print_rows(cq.activity_by_hour(session, game_id, date))
+            elif op == 9:
+                break
+            else:
+                print("Invalid option")
+        except ValueError:
+            # pasa cuando la fecha no tiene el formato correcto
+            print("formato de fecha incorrecto\n")
 
 
 def mongo_menu():
@@ -119,6 +173,7 @@ def dgraph_menu():
 
 
 def main():
+    cassandra_session = None
     try:
         dgraph_client = connect_dgraph()
     except Exception as e:
@@ -138,7 +193,7 @@ def main():
         3. Videogame recommendation
         4. Exit\n"""))
         if op == 1:
-            cassandra_menu()
+            cassandra_menu(cassandra_session)
         elif op == 2:
             mongo_menu()
         elif op == 3:
