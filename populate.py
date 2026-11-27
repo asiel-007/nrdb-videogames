@@ -21,11 +21,12 @@ le asignan 2 o 3 géneros favoritos y entre 10 y 30 juegos jugados, la mayoría 
 que las recomendaciones tengan sentido. Por cada juego jugado se genera una calificación del 1 al 5
 cercana al average_rating del juego, y se marca como favorito si la calificación es 5. También se
 genera a quién sigue cada usuario (entre 5 y 20 personas) y las relaciones de similitud entre
-juegos, tomando para cada juego de 2 a 4 juegos del mismo género. El total_players de cada juego se
-calcula contando cuántos usuarios lo jugaron.
+juegos. Para la similitud se comparan los juegos del mismo género con un puntaje (mismo developer
++2, plataforma en común +1, años cercanos +1, calificación parecida +1) y se toman los 3 mejores.
+El total_players de cada juego se calcula contando cuántos usuarios lo jugaron.
 
-Todo esto se guarda en data/ como games.json, users.json, follows.json y played.json. Las tres
-secciones de abajo leen estos archivos.
+Todo esto lo hace generate_data.py y lo guarda en data/ como games.json, users.json, follows.json,
+played.json y similar.json. Las tres secciones de abajo leen estos archivos.
 """
 
 # CASSANDRA
@@ -122,8 +123,14 @@ vive en MongoDB.
 
 # EJECUCION
 if __name__ == "__main__":
+    import os
     from connect import connect_cassandra
     from Cassandra.populate_cassandra import populate_cassandra
+    from generate_data import generate_data
+
+    # si todavia no existen los json compartidos se generan primero
+    if not os.path.exists(os.path.join("data", "played.json")):
+        generate_data()
 
     # cassandra
     cassandra_session = connect_cassandra()

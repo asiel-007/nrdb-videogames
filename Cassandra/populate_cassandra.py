@@ -1,4 +1,3 @@
-import csv
 import json
 import os
 import random
@@ -34,46 +33,12 @@ def platform_names(game):
 
 
 def load_shared_data():
-    # usa los archivos que genera el paso de datos compartidos
-    games_path = os.path.join(DATA_DIR, "games.json")
-    played_path = os.path.join(DATA_DIR, "played.json")
-
-    if os.path.exists(games_path) and os.path.exists(played_path):
-        with open(games_path, encoding="utf-8") as f:
-            games = json.load(f)
-        with open(played_path, encoding="utf-8") as f:
-            played = json.load(f)
-        print(f"usando data/games.json ({len(games)} juegos) y data/played.json ({len(played)} relaciones)")
-        return games, played
-
-    # si todavia no existen, se arma una muestra pequeña desde el csv
-    print("no se encontraron games.json y played.json, se genera una muestra desde games.csv")
-    return sample_from_csv()
-
-
-def sample_from_csv(num_games=150, num_users=50):
-    # agrupa el csv por nombre para tener cada juego una sola vez con sus plataformas
-    grouped = {}
-    with open(os.path.join(DATA_DIR, "games.csv"), encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            if not row["Developer"] or not row["Year_of_Release"] or row["Year_of_Release"] == "N/A":
-                continue
-            name = row["Name"]
-            if name not in grouped:
-                grouped[name] = []
-            if row["Platform"] not in grouped[name]:
-                grouped[name].append(row["Platform"])
-
-    names = random.sample(sorted(grouped), num_games)
-    games = []
-    for i, name in enumerate(names, start=1):
-        games.append({"game_id": f"g_{i:04d}", "title": name, "platforms": grouped[name]})
-
-    # cada usuario juega entre 5 y 15 juegos al azar
-    played = []
-    for u in range(1, num_users + 1):
-        for game in random.sample(games, random.randint(5, 15)):
-            played.append({"user_id": f"u_{u:04d}", "game_id": game["game_id"]})
+    # usa los archivos que crea generate_data.py, asi coincide con mongodb y dgraph
+    with open(os.path.join(DATA_DIR, "games.json"), encoding="utf-8") as f:
+        games = json.load(f)
+    with open(os.path.join(DATA_DIR, "played.json"), encoding="utf-8") as f:
+        played = json.load(f)
+    print(f"usando {len(games)} juegos y {len(played)} relaciones de data/played.json")
     return games, played
 
 

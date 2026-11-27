@@ -18,8 +18,14 @@ docker run --name cassandra -p 9042:9042 -d cassandra:4.1
 ```
 Cassandra tarda como un minuto en arrancar. Se puede revisar si ya está lista con `docker exec cassandra nodetool status` (debe aparecer `UN`).
 
-### Cargar datos
+### Generar los datos
 Desde la carpeta principal del proyecto:
+```
+python generate_data.py
+```
+Lee `data/games.csv` y crea `games.json`, `users.json`, `follows.json`, `played.json` y `similar.json` en `data/`. Usa una semilla fija, así que siempre salen los mismos datos y las tres bases comparten los mismos ids. Los json ya vienen en el repo, así que este paso solo hace falta si se cambia el script.
+
+### Cargar datos
 ```
 python populate.py
 ```
@@ -50,7 +56,7 @@ Todo lo de Cassandra está en la carpeta `Cassandra/`:
 | 7 | Últimas 25 sesiones en una plataforma | sessions_by_user_platform | user_id, platform | session_start DESC |
 | 8 | Actividad por hora de un juego en un día | activity_by_game_hour | game_id, play_date | hour ASC |
 
-Las sesiones se generan a partir de `data/played.json` y `data/games.json`, así coinciden con lo que hay en Dgraph y MongoDB. Si esos archivos todavía no existen, el script arma una muestra pequeña directo de `data/games.csv` para poder probar.
+Las sesiones se generan a partir de `data/played.json` y `data/games.json`, así coinciden con lo que hay en Dgraph y MongoDB.
 
 Cada sesión se escribe en las 4 tablas de sesiones (desnormalización) y los totales de las tablas 4 y 8 se calculan en el script antes de insertar, porque Cassandra no está pensada para sumar al consultar. Para insertar rápido se usan prepared statements y `execute_concurrent_with_args`, y todas las consultas usan la partition key completa, así que ninguna necesita `ALLOW FILTERING`.
 
