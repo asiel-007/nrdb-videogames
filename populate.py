@@ -119,3 +119,15 @@ juego es parecido a otro, el otro también es parecido al primero.
 Platform ya no se guarda en Dgraph porque ninguna consulta del grafo la usa y esa información ya
 vive en MongoDB.
 """
+
+# EJECUCION
+if __name__ == "__main__":
+    from connect import connect_cassandra
+    from Cassandra.populate_cassandra import populate_cassandra
+
+    # cassandra
+    cassandra_session = connect_cassandra()
+    populate_cassandra(cassandra_session)
+    cassandra_session.cluster.shutdown()
+
+    # mongodb y dgraph se agregan aqui cuando esten listos
