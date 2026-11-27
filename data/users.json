@@ -1,0 +1,1892 @@
+[
+  {
+    "user_id": "u_0001",
+    "username": "stacie60",
+    "name": "Joshua Diaz",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0002",
+    "username": "browningjason",
+    "name": "Jason Allen",
+    "favorite_genres": [
+      "Platform",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0003",
+    "username": "kbrown",
+    "name": "Daniel Burton",
+    "favorite_genres": [
+      "Action",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0004",
+    "username": "rayrandy",
+    "name": "Amber Garrison",
+    "favorite_genres": [
+      "Shooter",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0005",
+    "username": "robert81",
+    "name": "Kristina Fleming",
+    "favorite_genres": [
+      "Role-Playing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0006",
+    "username": "perkinsdanielle",
+    "name": "Joshua Brown",
+    "favorite_genres": [
+      "Sports",
+      "Role-Playing",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0007",
+    "username": "montgomerytyler",
+    "name": "Paula Owens",
+    "favorite_genres": [
+      "Shooter",
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0008",
+    "username": "pward",
+    "name": "Melissa Sanchez",
+    "favorite_genres": [
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0009",
+    "username": "alicia57",
+    "name": "William Wilson",
+    "favorite_genres": [
+      "Racing",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0010",
+    "username": "vmartin",
+    "name": "John Williams",
+    "favorite_genres": [
+      "Fighting",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0011",
+    "username": "duranashley",
+    "name": "Emily Dominguez",
+    "favorite_genres": [
+      "Sports",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0012",
+    "username": "driley",
+    "name": "Brandon Nelson",
+    "favorite_genres": [
+      "Fighting",
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0013",
+    "username": "brownjacqueline",
+    "name": "Wendy Short",
+    "favorite_genres": [
+      "Shooter",
+      "Sports",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0014",
+    "username": "jennifer50",
+    "name": "Heather Carr",
+    "favorite_genres": [
+      "Strategy",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0015",
+    "username": "xbrown",
+    "name": "Oscar Sanders",
+    "favorite_genres": [
+      "Role-Playing",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0016",
+    "username": "cmiller",
+    "name": "Donald Taylor",
+    "favorite_genres": [
+      "Platform",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0017",
+    "username": "rshields",
+    "name": "Victoria Vega",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0018",
+    "username": "jrosario",
+    "name": "Christian Barrett",
+    "favorite_genres": [
+      "Shooter",
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0019",
+    "username": "washingtonbrianna",
+    "name": "Aaron Barnes",
+    "favorite_genres": [
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0020",
+    "username": "chelsea52",
+    "name": "Kaylee Williamson",
+    "favorite_genres": [
+      "Fighting",
+      "Action",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0021",
+    "username": "bryantmonica",
+    "name": "Melanie Hansen",
+    "favorite_genres": [
+      "Adventure",
+      "Role-Playing",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0022",
+    "username": "gross",
+    "name": "Mr. Connor Rollins",
+    "favorite_genres": [
+      "Misc",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0023",
+    "username": "garciaashley1",
+    "name": "Tiffany Austin",
+    "favorite_genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0024",
+    "username": "sawyerchristina",
+    "name": "David Reed",
+    "favorite_genres": [
+      "Racing",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0025",
+    "username": "thomas17",
+    "name": "Julie Webb MD",
+    "favorite_genres": [
+      "Racing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0026",
+    "username": "bradyjoy",
+    "name": "Michael Black",
+    "favorite_genres": [
+      "Platform",
+      "Sports",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0027",
+    "username": "stephanierice",
+    "name": "Joshua Johnson",
+    "favorite_genres": [
+      "Simulation",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0028",
+    "username": "tiffany14",
+    "name": "Susan Kelly",
+    "favorite_genres": [
+      "Sports",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0029",
+    "username": "amandamaxwell",
+    "name": "Daniel Cain",
+    "favorite_genres": [
+      "Puzzle",
+      "Role-Playing",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0030",
+    "username": "lindacardenas",
+    "name": "Cristina Holmes",
+    "favorite_genres": [
+      "Strategy",
+      "Simulation",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0031",
+    "username": "jessica04",
+    "name": "Cory Jacobs",
+    "favorite_genres": [
+      "Strategy",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0032",
+    "username": "seth55",
+    "name": "Brian Harrison",
+    "favorite_genres": [
+      "Strategy",
+      "Shooter",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0033",
+    "username": "james99",
+    "name": "Karen Delgado",
+    "favorite_genres": [
+      "Sports",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0034",
+    "username": "davenportdavid",
+    "name": "Michael Gonzalez",
+    "favorite_genres": [
+      "Adventure",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0035",
+    "username": "ryanfields",
+    "name": "Tracy Bowen",
+    "favorite_genres": [
+      "Fighting",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0036",
+    "username": "fmorales",
+    "name": "Carolyn Martinez",
+    "favorite_genres": [
+      "Adventure",
+      "Racing",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0037",
+    "username": "brittanymarshall",
+    "name": "Lisa Carlson",
+    "favorite_genres": [
+      "Sports",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0038",
+    "username": "wsandoval",
+    "name": "Joshua Smith",
+    "favorite_genres": [
+      "Role-Playing",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0039",
+    "username": "rosesarah",
+    "name": "Shane Mckenzie",
+    "favorite_genres": [
+      "Role-Playing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0040",
+    "username": "anthonylewis",
+    "name": "Pamela Nguyen",
+    "favorite_genres": [
+      "Sports",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0041",
+    "username": "dflowers",
+    "name": "Heather Ellis",
+    "favorite_genres": [
+      "Strategy",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0042",
+    "username": "gwilcox",
+    "name": "Christian Dixon",
+    "favorite_genres": [
+      "Adventure",
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0043",
+    "username": "mfrank",
+    "name": "Robert Jackson",
+    "favorite_genres": [
+      "Misc",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0044",
+    "username": "hharvey",
+    "name": "Erika Holmes",
+    "favorite_genres": [
+      "Role-Playing",
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0045",
+    "username": "gmueller",
+    "name": "Amy Lee",
+    "favorite_genres": [
+      "Sports",
+      "Platform",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0046",
+    "username": "bartonwilliam",
+    "name": "Olivia Gaines",
+    "favorite_genres": [
+      "Adventure",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0047",
+    "username": "gnguyen",
+    "name": "Christina Ramirez",
+    "favorite_genres": [
+      "Puzzle",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0048",
+    "username": "promero",
+    "name": "Sherri Dunlap",
+    "favorite_genres": [
+      "Simulation",
+      "Strategy",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0049",
+    "username": "sandra37",
+    "name": "Bryan Ramos",
+    "favorite_genres": [
+      "Role-Playing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0050",
+    "username": "lambertross",
+    "name": "Eric Martinez",
+    "favorite_genres": [
+      "Platform",
+      "Sports",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0051",
+    "username": "sheilaschneider",
+    "name": "David Taylor",
+    "favorite_genres": [
+      "Sports",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0052",
+    "username": "grobinson",
+    "name": "John Fritz",
+    "favorite_genres": [
+      "Strategy",
+      "Shooter",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0053",
+    "username": "evanreynolds",
+    "name": "Gina Gonzalez",
+    "favorite_genres": [
+      "Role-Playing",
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0054",
+    "username": "christopher50",
+    "name": "Jimmy Warner",
+    "favorite_genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0055",
+    "username": "nrivera",
+    "name": "Tyler Rodriguez",
+    "favorite_genres": [
+      "Action",
+      "Platform",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0056",
+    "username": "teresagarcia",
+    "name": "Andrew Maxwell",
+    "favorite_genres": [
+      "Shooter",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0057",
+    "username": "katelyn64",
+    "name": "Joshua Robertson",
+    "favorite_genres": [
+      "Racing",
+      "Misc",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0058",
+    "username": "fgraves",
+    "name": "Robert White",
+    "favorite_genres": [
+      "Simulation",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0059",
+    "username": "adamsandre",
+    "name": "David Franklin",
+    "favorite_genres": [
+      "Strategy",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0060",
+    "username": "carlroy",
+    "name": "Gerald Tran",
+    "favorite_genres": [
+      "Puzzle",
+      "Fighting",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0061",
+    "username": "christy08",
+    "name": "Teresa Costa",
+    "favorite_genres": [
+      "Adventure",
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0062",
+    "username": "brent34",
+    "name": "Kiara Harris",
+    "favorite_genres": [
+      "Role-Playing",
+      "Racing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0063",
+    "username": "lporter",
+    "name": "Robert Vang",
+    "favorite_genres": [
+      "Action",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0064",
+    "username": "smithjessica",
+    "name": "Chelsey Wells",
+    "favorite_genres": [
+      "Racing",
+      "Platform",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0065",
+    "username": "prodriguez",
+    "name": "Jon Davenport",
+    "favorite_genres": [
+      "Puzzle",
+      "Racing",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0066",
+    "username": "twaller",
+    "name": "Vickie Cooper",
+    "favorite_genres": [
+      "Puzzle",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0067",
+    "username": "richardbailey",
+    "name": "Carlos Jones",
+    "favorite_genres": [
+      "Puzzle",
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0068",
+    "username": "ryan01",
+    "name": "Jane Hunter",
+    "favorite_genres": [
+      "Strategy",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0069",
+    "username": "carol40",
+    "name": "Christopher Griffin",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0070",
+    "username": "michael58",
+    "name": "Andrew Khan",
+    "favorite_genres": [
+      "Racing",
+      "Simulation",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0071",
+    "username": "michaelsmith",
+    "name": "John Shaw",
+    "favorite_genres": [
+      "Racing",
+      "Platform",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0072",
+    "username": "johnparsons",
+    "name": "Robert Thomas",
+    "favorite_genres": [
+      "Adventure",
+      "Action",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0073",
+    "username": "longkevin",
+    "name": "Angela Rosario",
+    "favorite_genres": [
+      "Misc",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0074",
+    "username": "dianebaldwin",
+    "name": "Jean Nguyen",
+    "favorite_genres": [
+      "Shooter",
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0075",
+    "username": "uhernandez",
+    "name": "Brianna Summers",
+    "favorite_genres": [
+      "Racing",
+      "Action",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0076",
+    "username": "zgross",
+    "name": "Susan Mullins",
+    "favorite_genres": [
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0077",
+    "username": "mckenziebrandy",
+    "name": "Melanie Steele",
+    "favorite_genres": [
+      "Strategy",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0078",
+    "username": "christopherwilliams",
+    "name": "Tina Bennett",
+    "favorite_genres": [
+      "Simulation",
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0079",
+    "username": "ohansen",
+    "name": "Joseph Sanchez",
+    "favorite_genres": [
+      "Action",
+      "Shooter",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0080",
+    "username": "aaron18",
+    "name": "Anna Fox",
+    "favorite_genres": [
+      "Role-Playing",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0081",
+    "username": "eking",
+    "name": "Cynthia Avila",
+    "favorite_genres": [
+      "Platform",
+      "Strategy",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0082",
+    "username": "jodidaugherty",
+    "name": "James Mendoza DDS",
+    "favorite_genres": [
+      "Racing",
+      "Sports",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0083",
+    "username": "jensendawn",
+    "name": "Charles King",
+    "favorite_genres": [
+      "Role-Playing",
+      "Shooter",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0084",
+    "username": "christine20",
+    "name": "Mr. William Garcia",
+    "favorite_genres": [
+      "Fighting",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0085",
+    "username": "emmacarter",
+    "name": "Julie Owens",
+    "favorite_genres": [
+      "Adventure",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0086",
+    "username": "holderana",
+    "name": "Brady Kennedy",
+    "favorite_genres": [
+      "Shooter",
+      "Misc",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0087",
+    "username": "stephen87",
+    "name": "Jasmine Rangel DVM",
+    "favorite_genres": [
+      "Role-Playing",
+      "Racing",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0088",
+    "username": "perkinsdonald",
+    "name": "Tiffany Anderson",
+    "favorite_genres": [
+      "Misc",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0089",
+    "username": "olivia53",
+    "name": "Dr. James Moore DVM",
+    "favorite_genres": [
+      "Puzzle",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0090",
+    "username": "usullivan",
+    "name": "Gregory Stewart",
+    "favorite_genres": [
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0091",
+    "username": "aaron56",
+    "name": "Timothy Marquez",
+    "favorite_genres": [
+      "Platform",
+      "Simulation",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0092",
+    "username": "jon16",
+    "name": "Sergio Jones",
+    "favorite_genres": [
+      "Strategy",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0093",
+    "username": "dcampos",
+    "name": "Anthony Stanley",
+    "favorite_genres": [
+      "Racing",
+      "Shooter",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0094",
+    "username": "johnbaker",
+    "name": "Cheryl Brooks",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0095",
+    "username": "zhenson",
+    "name": "Jennifer Liu",
+    "favorite_genres": [
+      "Platform",
+      "Simulation",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0096",
+    "username": "jenniferwilliams",
+    "name": "Joanne Goodwin",
+    "favorite_genres": [
+      "Sports",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0097",
+    "username": "todd82",
+    "name": "Jason Campbell",
+    "favorite_genres": [
+      "Adventure",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0098",
+    "username": "joanne46",
+    "name": "Elizabeth Grant",
+    "favorite_genres": [
+      "Racing",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0099",
+    "username": "pwilson",
+    "name": "Daniel Bullock",
+    "favorite_genres": [
+      "Racing",
+      "Platform",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0100",
+    "username": "cpierce",
+    "name": "Whitney Cole",
+    "favorite_genres": [
+      "Action",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0101",
+    "username": "amysanchez",
+    "name": "Justin Flores",
+    "favorite_genres": [
+      "Simulation",
+      "Role-Playing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0102",
+    "username": "jonathan93",
+    "name": "Nicole Gutierrez",
+    "favorite_genres": [
+      "Racing",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0103",
+    "username": "nreese",
+    "name": "George Brown",
+    "favorite_genres": [
+      "Role-Playing",
+      "Misc",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0104",
+    "username": "autumn52",
+    "name": "Kendra Tyler",
+    "favorite_genres": [
+      "Fighting",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0105",
+    "username": "christophermosley",
+    "name": "Matthew Reynolds",
+    "favorite_genres": [
+      "Strategy",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0106",
+    "username": "melinda02",
+    "name": "Michael Huang",
+    "favorite_genres": [
+      "Adventure",
+      "Shooter",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0107",
+    "username": "fdonaldson",
+    "name": "James Mcintosh",
+    "favorite_genres": [
+      "Fighting",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0108",
+    "username": "pcompton",
+    "name": "Courtney Hernandez",
+    "favorite_genres": [
+      "Sports",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0109",
+    "username": "davidjennifer",
+    "name": "Pamela Ellis",
+    "favorite_genres": [
+      "Sports",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0110",
+    "username": "smithdavid",
+    "name": "Amanda Espinoza",
+    "favorite_genres": [
+      "Strategy",
+      "Adventure",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0111",
+    "username": "courtneyrice",
+    "name": "Phillip Garcia",
+    "favorite_genres": [
+      "Platform",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0112",
+    "username": "alice93",
+    "name": "Danny Burke",
+    "favorite_genres": [
+      "Racing",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0113",
+    "username": "medinawendy",
+    "name": "Eugene Franco",
+    "favorite_genres": [
+      "Simulation",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0114",
+    "username": "thomasyoung",
+    "name": "Tyler Bush",
+    "favorite_genres": [
+      "Shooter",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0115",
+    "username": "brian37",
+    "name": "Maria Miller",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0116",
+    "username": "elizabethbuckley",
+    "name": "Andrew Morgan",
+    "favorite_genres": [
+      "Shooter",
+      "Misc",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0117",
+    "username": "zcox",
+    "name": "Robert Stevenson",
+    "favorite_genres": [
+      "Action",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0118",
+    "username": "harristara",
+    "name": "Robert Hall",
+    "favorite_genres": [
+      "Action",
+      "Strategy",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0119",
+    "username": "josephsmall",
+    "name": "Marcus Bishop",
+    "favorite_genres": [
+      "Sports",
+      "Strategy",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0120",
+    "username": "toddlozano",
+    "name": "Kurt Weeks",
+    "favorite_genres": [
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0121",
+    "username": "lewisterri",
+    "name": "Anthony Brown",
+    "favorite_genres": [
+      "Puzzle",
+      "Misc",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0122",
+    "username": "tcole",
+    "name": "Morgan Bright",
+    "favorite_genres": [
+      "Strategy",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0123",
+    "username": "marklopez",
+    "name": "Nicole Johnson",
+    "favorite_genres": [
+      "Puzzle",
+      "Sports",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0124",
+    "username": "vcombs",
+    "name": "Brian Miller",
+    "favorite_genres": [
+      "Action",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0125",
+    "username": "bellstephanie",
+    "name": "Victor Clark",
+    "favorite_genres": [
+      "Misc",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0126",
+    "username": "kayla46",
+    "name": "Michael Gonzalez",
+    "favorite_genres": [
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0127",
+    "username": "xlee",
+    "name": "Karen Welch",
+    "favorite_genres": [
+      "Role-Playing",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0128",
+    "username": "lisawang",
+    "name": "Andrew Brown",
+    "favorite_genres": [
+      "Platform",
+      "Adventure",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0129",
+    "username": "scottjulie",
+    "name": "Gina Nelson",
+    "favorite_genres": [
+      "Simulation",
+      "Fighting",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0130",
+    "username": "bakerjennifer",
+    "name": "Donald Smith",
+    "favorite_genres": [
+      "Racing",
+      "Sports",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0131",
+    "username": "johnsonjesus",
+    "name": "Tyler Finley",
+    "favorite_genres": [
+      "Racing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0132",
+    "username": "bclarke",
+    "name": "Brandi Crawford",
+    "favorite_genres": [
+      "Action",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0133",
+    "username": "langjoanna",
+    "name": "Patricia Lawson",
+    "favorite_genres": [
+      "Racing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0134",
+    "username": "michelle75",
+    "name": "Linda Hunt",
+    "favorite_genres": [
+      "Fighting",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0135",
+    "username": "pmullins",
+    "name": "Matthew Olson",
+    "favorite_genres": [
+      "Strategy",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0136",
+    "username": "eugene61",
+    "name": "Deborah Miller MD",
+    "favorite_genres": [
+      "Fighting",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0137",
+    "username": "cmcneil",
+    "name": "Casey Murray",
+    "favorite_genres": [
+      "Fighting",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0138",
+    "username": "julieboone",
+    "name": "Barbara Randall",
+    "favorite_genres": [
+      "Action",
+      "Platform",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0139",
+    "username": "joshua45",
+    "name": "David Gonzales",
+    "favorite_genres": [
+      "Puzzle",
+      "Role-Playing",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0140",
+    "username": "johnhernandez",
+    "name": "Laura Nguyen",
+    "favorite_genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0141",
+    "username": "pking",
+    "name": "Crystal Stokes",
+    "favorite_genres": [
+      "Adventure",
+      "Puzzle",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0142",
+    "username": "gritter",
+    "name": "Stephen Hall",
+    "favorite_genres": [
+      "Shooter",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0143",
+    "username": "crocha",
+    "name": "Crystal Williams",
+    "favorite_genres": [
+      "Puzzle",
+      "Platform",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0144",
+    "username": "sarahwatson",
+    "name": "Joann Green",
+    "favorite_genres": [
+      "Action",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0145",
+    "username": "rodriguezcaitlyn",
+    "name": "Claudia Wood",
+    "favorite_genres": [
+      "Puzzle",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0146",
+    "username": "bradleycooke",
+    "name": "Nicholas Sloan",
+    "favorite_genres": [
+      "Misc",
+      "Puzzle",
+      "Sports"
+    ]
+  },
+  {
+    "user_id": "u_0147",
+    "username": "fuentesrobert",
+    "name": "Marc Miller",
+    "favorite_genres": [
+      "Action",
+      "Sports",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0148",
+    "username": "popeamy",
+    "name": "Brian Foster",
+    "favorite_genres": [
+      "Sports",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0149",
+    "username": "danielledavis",
+    "name": "Michael Ortiz",
+    "favorite_genres": [
+      "Racing",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0150",
+    "username": "elizabeth60",
+    "name": "Keith Howard",
+    "favorite_genres": [
+      "Adventure",
+      "Action",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0151",
+    "username": "xsmith",
+    "name": "Helen Gonzalez PhD",
+    "favorite_genres": [
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0152",
+    "username": "sherihamilton",
+    "name": "Brian Davis",
+    "favorite_genres": [
+      "Puzzle",
+      "Platform",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0153",
+    "username": "steven22",
+    "name": "Juan Davidson",
+    "favorite_genres": [
+      "Platform",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0154",
+    "username": "ndavis",
+    "name": "Nancy Jackson",
+    "favorite_genres": [
+      "Platform",
+      "Action",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0155",
+    "username": "justin82",
+    "name": "Ashley Henry",
+    "favorite_genres": [
+      "Action",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0156",
+    "username": "kevinhood",
+    "name": "Thomas Edwards",
+    "favorite_genres": [
+      "Role-Playing",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0157",
+    "username": "tmiller",
+    "name": "Samantha Martin",
+    "favorite_genres": [
+      "Platform",
+      "Racing",
+      "Role-Playing"
+    ]
+  },
+  {
+    "user_id": "u_0158",
+    "username": "christinemendez",
+    "name": "John Cunningham",
+    "favorite_genres": [
+      "Role-Playing",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0159",
+    "username": "rossapril",
+    "name": "Bryce Wright",
+    "favorite_genres": [
+      "Strategy",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0160",
+    "username": "blakehart",
+    "name": "Amanda Massey",
+    "favorite_genres": [
+      "Simulation",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0161",
+    "username": "pricestephen",
+    "name": "Paula Banks",
+    "favorite_genres": [
+      "Puzzle",
+      "Role-Playing",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0162",
+    "username": "brandi66",
+    "name": "Jillian Gonzales",
+    "favorite_genres": [
+      "Shooter",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0163",
+    "username": "smithvalerie",
+    "name": "Jeremy Montgomery",
+    "favorite_genres": [
+      "Fighting",
+      "Misc",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0164",
+    "username": "zcopeland",
+    "name": "Brian Anderson",
+    "favorite_genres": [
+      "Sports",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0165",
+    "username": "zdiaz",
+    "name": "Jordan Williams",
+    "favorite_genres": [
+      "Shooter",
+      "Strategy",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0166",
+    "username": "christopherquinn",
+    "name": "Kayla Brown",
+    "favorite_genres": [
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0167",
+    "username": "ydelgado",
+    "name": "Scott Ferrell",
+    "favorite_genres": [
+      "Platform",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0168",
+    "username": "leetina",
+    "name": "Tyler Moon Jr.",
+    "favorite_genres": [
+      "Misc",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0169",
+    "username": "cameronbell",
+    "name": "Caitlin Mosley",
+    "favorite_genres": [
+      "Role-Playing",
+      "Strategy",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0170",
+    "username": "rebecca72",
+    "name": "Vincent Castillo",
+    "favorite_genres": [
+      "Fighting",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0171",
+    "username": "christina35",
+    "name": "Cristian Powell",
+    "favorite_genres": [
+      "Simulation",
+      "Sports",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0172",
+    "username": "erin62",
+    "name": "Deborah Tate",
+    "favorite_genres": [
+      "Platform",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0173",
+    "username": "fieldsmichael",
+    "name": "Kristen Carpenter",
+    "favorite_genres": [
+      "Simulation",
+      "Platform",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0174",
+    "username": "kingamanda",
+    "name": "Nancy Watson",
+    "favorite_genres": [
+      "Strategy",
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0175",
+    "username": "kmooney",
+    "name": "Gary Miller",
+    "favorite_genres": [
+      "Misc",
+      "Fighting",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0176",
+    "username": "gregorymanning",
+    "name": "Robert King",
+    "favorite_genres": [
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0177",
+    "username": "jessica03",
+    "name": "Luis Reynolds",
+    "favorite_genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0178",
+    "username": "paula27",
+    "name": "Matthew Johnson",
+    "favorite_genres": [
+      "Platform",
+      "Misc",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0179",
+    "username": "bradleykevin",
+    "name": "Kimberly Gutierrez",
+    "favorite_genres": [
+      "Sports",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0180",
+    "username": "brianna35",
+    "name": "Karen Taylor",
+    "favorite_genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ]
+  },
+  {
+    "user_id": "u_0181",
+    "username": "jasminehayes",
+    "name": "Charles Wade",
+    "favorite_genres": [
+      "Misc",
+      "Role-Playing",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0182",
+    "username": "richard40",
+    "name": "Robert Stafford",
+    "favorite_genres": [
+      "Platform",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0183",
+    "username": "hguzman",
+    "name": "Danielle Berger",
+    "favorite_genres": [
+      "Action",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0184",
+    "username": "brownanthony",
+    "name": "Christopher Buck",
+    "favorite_genres": [
+      "Adventure",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0185",
+    "username": "smithandrea",
+    "name": "Brenda Gonzalez",
+    "favorite_genres": [
+      "Role-Playing",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0186",
+    "username": "lli",
+    "name": "Amy Garrett",
+    "favorite_genres": [
+      "Sports",
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0187",
+    "username": "abaldwin",
+    "name": "Jeffrey Barr",
+    "favorite_genres": [
+      "Misc",
+      "Action",
+      "Puzzle"
+    ]
+  },
+  {
+    "user_id": "u_0188",
+    "username": "harmonshaun",
+    "name": "Brian Hall",
+    "favorite_genres": [
+      "Fighting",
+      "Action",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0189",
+    "username": "martinezpatricia",
+    "name": "Terri Baker",
+    "favorite_genres": [
+      "Action",
+      "Simulation",
+      "Misc"
+    ]
+  },
+  {
+    "user_id": "u_0190",
+    "username": "adamsangela",
+    "name": "Richard Mills",
+    "favorite_genres": [
+      "Puzzle",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0191",
+    "username": "kenneth31",
+    "name": "Alexis Green",
+    "favorite_genres": [
+      "Fighting",
+      "Simulation",
+      "Platform"
+    ]
+  },
+  {
+    "user_id": "u_0192",
+    "username": "meaganharris",
+    "name": "Thomas Lee",
+    "favorite_genres": [
+      "Misc",
+      "Action"
+    ]
+  },
+  {
+    "user_id": "u_0193",
+    "username": "pmurphy",
+    "name": "Samuel Dorsey",
+    "favorite_genres": [
+      "Shooter",
+      "Role-Playing",
+      "Adventure"
+    ]
+  },
+  {
+    "user_id": "u_0194",
+    "username": "hkennedy",
+    "name": "Shannon Kim",
+    "favorite_genres": [
+      "Adventure",
+      "Racing",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0195",
+    "username": "ashleyparker",
+    "name": "Marcus Miller",
+    "favorite_genres": [
+      "Sports",
+      "Shooter"
+    ]
+  },
+  {
+    "user_id": "u_0196",
+    "username": "duanejohnson",
+    "name": "Timothy Cooper",
+    "favorite_genres": [
+      "Sports",
+      "Fighting"
+    ]
+  },
+  {
+    "user_id": "u_0197",
+    "username": "jaclynjohnson",
+    "name": "Mason Williams",
+    "favorite_genres": [
+      "Strategy",
+      "Platform",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0198",
+    "username": "doylecameron",
+    "name": "Heidi Roth",
+    "favorite_genres": [
+      "Sports",
+      "Platform",
+      "Racing"
+    ]
+  },
+  {
+    "user_id": "u_0199",
+    "username": "hobbskatelyn",
+    "name": "Janet Wright",
+    "favorite_genres": [
+      "Platform",
+      "Simulation"
+    ]
+  },
+  {
+    "user_id": "u_0200",
+    "username": "danieljohnson",
+    "name": "Robin Walters",
+    "favorite_genres": [
+      "Racing",
+      "Strategy",
+      "Action"
+    ]
+  }
+]

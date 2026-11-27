@@ -1,0 +1,7426 @@
+[
+  {
+    "game_id": "g_0001",
+    "title": "Over G Fighters",
+    "developer": "Taito Corporation",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 49.0,
+    "user_score": 6.0,
+    "average_rating": 3.18,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0002",
+    "title": "Fatal Frame: Maiden of Black Water",
+    "developer": "Koei Tecmo Games",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "WiiU"
+    ],
+    "release_year": 2014,
+    "age_rating": "M",
+    "critic_score": 67.0,
+    "user_score": 7.6,
+    "average_rating": 3.86,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0003",
+    "title": "Sid Meier's Civilization Revolution",
+    "developer": "Firaxis Games",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "DS"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 83.0,
+    "user_score": 7.7,
+    "average_rating": 4.21,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0004",
+    "title": "Bounty Hounds",
+    "developer": "Xpec",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 63.0,
+    "user_score": 6.0,
+    "average_rating": 3.46,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0005",
+    "title": "College Hoops 2K7",
+    "developer": "2K Sports",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 81.5,
+    "user_score": 7.6,
+    "average_rating": 4.16,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0006",
+    "title": "Dead or Alive Paradise",
+    "developer": "Team Ninja",
+    "publisher": "Ubisoft Annecy",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2010,
+    "age_rating": "M",
+    "critic_score": 38.0,
+    "user_score": 5.6,
+    "average_rating": 2.88,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0007",
+    "title": "Risen 2: Dark Waters",
+    "developer": "Piranha Bytes",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC",
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 58.7,
+    "user_score": 5.6,
+    "average_rating": 3.29,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0008",
+    "title": "Call of Duty 4: Modern Warfare",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC",
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "M",
+    "critic_score": 88.8,
+    "user_score": 8.1,
+    "average_rating": 4.38,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0009",
+    "title": "WWII Aces",
+    "developer": "Arcade Moon",
+    "publisher": "Destineer",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 41.0,
+    "user_score": 5.4,
+    "average_rating": 2.9,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0010",
+    "title": "Journey",
+    "developer": "ThatGameCompany",
+    "publisher": "Sony Computer Entertainment Europe",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2012,
+    "age_rating": "E",
+    "critic_score": 92.0,
+    "user_score": 8.8,
+    "average_rating": 4.6,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0011",
+    "title": "Beowulf: The Game",
+    "developer": "Ubisoft Shanghai",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PSP"
+    ],
+    "release_year": 2007,
+    "age_rating": "M",
+    "critic_score": 48.7,
+    "user_score": 5.1,
+    "average_rating": 2.99,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0012",
+    "title": "Dance Dance Revolution Ultramix",
+    "developer": "Konami Computer Entertainment Hawaii",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 82.0,
+    "user_score": 8.8,
+    "average_rating": 4.4,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0013",
+    "title": "Super Monkey Ball: Banana Blitz",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 5.7,
+    "average_rating": 3.62,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0014",
+    "title": "Star Fox: Zero",
+    "developer": "PlatinumGames",
+    "publisher": "Nintendo",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "WiiU"
+    ],
+    "release_year": 2016,
+    "age_rating": "E10+",
+    "critic_score": 69.0,
+    "user_score": 7.4,
+    "average_rating": 3.86,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0015",
+    "title": "Close Combat: First to Fight",
+    "developer": "Destineer",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 69.0,
+    "user_score": 7.8,
+    "average_rating": 3.94,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0016",
+    "title": "Luigi's Mansion: Dark Moon",
+    "developer": "Next Level Games",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2013,
+    "age_rating": "E",
+    "critic_score": 86.0,
+    "user_score": 8.4,
+    "average_rating": 4.4,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0017",
+    "title": "Darkstone",
+    "developer": "Delphine Software International",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 58.0,
+    "user_score": 8.3,
+    "average_rating": 3.82,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0018",
+    "title": "Steambot Chronicles: Battle Tournament",
+    "developer": "Irem",
+    "publisher": "Irem Software Engineering",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 54.0,
+    "user_score": 6.3,
+    "average_rating": 3.34,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0019",
+    "title": "Call of Duty: Modern Warfare 3",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC",
+      "Wii"
+    ],
+    "release_year": 2011,
+    "age_rating": "M",
+    "critic_score": 81.0,
+    "user_score": 2.7,
+    "average_rating": 3.17,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0020",
+    "title": "Dungeon Siege II",
+    "developer": "Gas Powered Games",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 80.0,
+    "user_score": 7.9,
+    "average_rating": 4.18,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0021",
+    "title": "Kingdom Hearts 3D: Dream Drop Distance",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2012,
+    "age_rating": "E10+",
+    "critic_score": 75.0,
+    "user_score": 8.2,
+    "average_rating": 4.14,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0022",
+    "title": "Cars: Race-O-Rama",
+    "developer": "Incinerator Games",
+    "publisher": "THQ",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 54.0,
+    "user_score": 5.8,
+    "average_rating": 3.24,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0023",
+    "title": "Silent Hunter 5: Battle of the Atlantic",
+    "developer": "Ubisoft Romania",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 62.0,
+    "user_score": 3.5,
+    "average_rating": 2.94,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0024",
+    "title": "Bravely Second: End Layer",
+    "developer": "Silicon Studio",
+    "publisher": "Nintendo",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2015,
+    "age_rating": "T",
+    "critic_score": 81.0,
+    "user_score": 7.4,
+    "average_rating": 4.1,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0025",
+    "title": "Killzone: Shadow Fall",
+    "developer": "Guerrilla",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2013,
+    "age_rating": "M",
+    "critic_score": 73.0,
+    "user_score": 6.8,
+    "average_rating": 3.82,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0026",
+    "title": "Bomberman",
+    "developer": "Hudson",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "PSP",
+      "DS"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 7.0,
+    "average_rating": 3.88,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0027",
+    "title": "Emergency 2012",
+    "developer": "ValuSoft",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 61.0,
+    "user_score": 6.2,
+    "average_rating": 3.46,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0028",
+    "title": "NBA 2K11",
+    "developer": "Visual Concepts",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "E",
+    "critic_score": 86.7,
+    "user_score": 8.1,
+    "average_rating": 4.35,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0029",
+    "title": "Star Trek: Conquest",
+    "developer": "4J Studios",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 49.0,
+    "user_score": 4.9,
+    "average_rating": 2.96,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0030",
+    "title": "FIFA Soccer 10",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PSP",
+      "Wii",
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 82.2,
+    "user_score": 6.6,
+    "average_rating": 3.96,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0031",
+    "title": "Dragon Blade: Wrath of Fire",
+    "developer": "D3Publisher",
+    "publisher": "D3Publisher",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 51.0,
+    "user_score": 7.5,
+    "average_rating": 3.52,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0032",
+    "title": "Naruto: The Broken Bond",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 80.0,
+    "user_score": 7.8,
+    "average_rating": 4.16,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0033",
+    "title": "Gran Turismo 5",
+    "developer": "Polyphony Digital",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2010,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 7.5,
+    "average_rating": 4.18,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0034",
+    "title": "Digimon World 4",
+    "developer": "Bandai",
+    "publisher": "Atari",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2",
+      "GC",
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 52.3,
+    "user_score": 7.9,
+    "average_rating": 3.63,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0035",
+    "title": "Guitar Hero III: Legends of Rock",
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PS2",
+      "Wii",
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 83.0,
+    "user_score": 7.9,
+    "average_rating": 4.24,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0036",
+    "title": "Rugby Challenge 3",
+    "developer": "Wicked Witch Software",
+    "publisher": "Alternative Software",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2016,
+    "age_rating": "E",
+    "critic_score": 64.0,
+    "user_score": 6.8,
+    "average_rating": 3.64,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0037",
+    "title": "Def Jam Vendetta",
+    "developer": "Aki Corp.",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2",
+      "GC"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 80.5,
+    "user_score": 8.7,
+    "average_rating": 4.35,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0038",
+    "title": "Castlevania: Aria of Sorrow",
+    "developer": "KCET",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 91.0,
+    "user_score": 9.1,
+    "average_rating": 4.64,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0039",
+    "title": "Call of Juarez: Bound in Blood",
+    "developer": "Techland",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 77.7,
+    "user_score": 7.8,
+    "average_rating": 4.11,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0040",
+    "title": "ISS Pro Evolution",
+    "developer": "KCET",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 1998,
+    "age_rating": "E",
+    "critic_score": 94.0,
+    "user_score": 8.7,
+    "average_rating": 4.62,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0041",
+    "title": "Uncharted: Golden Abyss",
+    "developer": "Naughty Dog",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 80.0,
+    "user_score": 7.4,
+    "average_rating": 4.08,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0042",
+    "title": "Zoo Keeper",
+    "developer": "Buddiez",
+    "publisher": "Ignition Entertainment",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 7.5,
+    "average_rating": 3.98,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0043",
+    "title": "Street Hoops",
+    "developer": "Black Ops Entertainment",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 58.0,
+    "user_score": 8.0,
+    "average_rating": 3.76,
+    "total_players": 3
+  },
+  {
+    "game_id": "g_0044",
+    "title": "Nickelodeon Party Blast",
+    "developer": "Data Design Interactive",
+    "publisher": "Infogrames",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 19.0,
+    "user_score": 4.3,
+    "average_rating": 2.24,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0045",
+    "title": "The Sims 2: Bon Voyage",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 74.0,
+    "user_score": 7.3,
+    "average_rating": 3.94,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0046",
+    "title": "The Godfather: Mob Wars",
+    "developer": "Page 44 Studios",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "M",
+    "critic_score": 59.0,
+    "user_score": 7.9,
+    "average_rating": 3.76,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0047",
+    "title": "Resistance 3",
+    "developer": "Insomniac Games",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2011,
+    "age_rating": "M",
+    "critic_score": 83.0,
+    "user_score": 7.8,
+    "average_rating": 4.22,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0048",
+    "title": "NFL Head Coach",
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 67.5,
+    "user_score": 7.0,
+    "average_rating": 3.75,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0049",
+    "title": "Madden NFL 10",
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 82.3,
+    "user_score": 6.7,
+    "average_rating": 3.99,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0050",
+    "title": "Grabbed by the Ghoulies",
+    "developer": "Rare Ltd.",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 66.0,
+    "user_score": 7.3,
+    "average_rating": 3.78,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0051",
+    "title": "MLB Front Office Manager",
+    "developer": "Blue Castle Games",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 48.0,
+    "user_score": 5.5,
+    "average_rating": 3.07,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0052",
+    "title": "Cruis'n",
+    "developer": "Midway Studios - San Diego",
+    "publisher": "Midway Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 25.0,
+    "user_score": 3.7,
+    "average_rating": 2.24,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0053",
+    "title": "NFL Street 2",
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 77.5,
+    "user_score": 7.6,
+    "average_rating": 4.07,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0054",
+    "title": "X-Men: Destiny",
+    "developer": "Silicon Knights",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "Wii",
+      "DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 41.5,
+    "user_score": 5.0,
+    "average_rating": 2.83,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0055",
+    "title": "Ultimate Ghosts 'n Goblins",
+    "developer": "TOSE",
+    "publisher": "Capcom",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "E10+",
+    "critic_score": 72.0,
+    "user_score": 7.7,
+    "average_rating": 3.98,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0056",
+    "title": "Pro Evolution Soccer 2014",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2013,
+    "age_rating": "E",
+    "critic_score": 77.3,
+    "user_score": 4.3,
+    "average_rating": 3.4,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0057",
+    "title": "The Beatles: Rock Band",
+    "developer": "Harmonix Music Systems",
+    "publisher": "MTV Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii",
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2009,
+    "age_rating": "T",
+    "critic_score": 88.7,
+    "user_score": 8.7,
+    "average_rating": 4.52,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0058",
+    "title": "NASCAR Heat Evolution",
+    "developer": "Dusenberry Martin Racing",
+    "publisher": "Dusenberry Martin Racing",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2016,
+    "age_rating": "E",
+    "critic_score": 66.0,
+    "user_score": 3.8,
+    "average_rating": 3.08,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0059",
+    "title": "Combat of Giants: Dinosaurs 3D",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 44.0,
+    "user_score": 5.3,
+    "average_rating": 2.94,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0060",
+    "title": "Dragon Quest IV: Chapters of the Chosen",
+    "developer": "ArtePiazza",
+    "publisher": "Square Enix",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 80.0,
+    "user_score": 7.9,
+    "average_rating": 4.18,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0061",
+    "title": "Wave Race: Blue Storm",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 80.0,
+    "user_score": 8.3,
+    "average_rating": 4.26,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0062",
+    "title": "Freedom Wings",
+    "developer": "Beluga Computer",
+    "publisher": "Natsume",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2006,
+    "age_rating": "E10+",
+    "critic_score": 46.0,
+    "user_score": 7.7,
+    "average_rating": 3.46,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0063",
+    "title": "Prince of Persia: The Two Thrones",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GC"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 84.7,
+    "user_score": 8.3,
+    "average_rating": 4.36,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0064",
+    "title": "Fight Club",
+    "developer": "Genuine Games",
+    "publisher": "Vivendi Games",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 36.5,
+    "user_score": 4.6,
+    "average_rating": 2.64,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0065",
+    "title": "Transformers: Fall of Cybertron",
+    "developer": "High Moon Studios",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2012,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.1,
+    "average_rating": 4.19,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0066",
+    "title": "Star Wars: Demolition",
+    "developer": "Luxoflux",
+    "publisher": "Activision",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 63.0,
+    "user_score": 6.5,
+    "average_rating": 3.56,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0067",
+    "title": "BioShock 2",
+    "developer": "2K Marin",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2010,
+    "age_rating": "M",
+    "critic_score": 88.0,
+    "user_score": 8.2,
+    "average_rating": 4.4,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0068",
+    "title": "Counter-Strike",
+    "developer": "Valve Software",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 74.0,
+    "user_score": 7.6,
+    "average_rating": 4.0,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0069",
+    "title": "New Super Mario Bros. Wii",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 87.0,
+    "user_score": 8.4,
+    "average_rating": 4.42,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0070",
+    "title": "Power Rangers: Dino Thunder",
+    "developer": "Pacific Coast Power & Light",
+    "publisher": "THQ",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 49.0,
+    "user_score": 6.2,
+    "average_rating": 3.22,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0071",
+    "title": "RLH: Run Like Hell",
+    "developer": "Digital Mayhem",
+    "publisher": "Virgin Interactive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "M",
+    "critic_score": 56.5,
+    "user_score": 8.1,
+    "average_rating": 3.75,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0072",
+    "title": "Undead Knights",
+    "developer": "Now Production",
+    "publisher": "Ubisoft Annecy",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 63.0,
+    "user_score": 8.0,
+    "average_rating": 3.86,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0073",
+    "title": "The King of Fighters XIII",
+    "developer": "SNK Playmore",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.2,
+    "average_rating": 4.2,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0074",
+    "title": "Classic NES Series: Donkey Kong",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 55.0,
+    "user_score": 4.8,
+    "average_rating": 3.06,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0075",
+    "title": "Dead Space Extraction",
+    "developer": "Eurocom Entertainment Software",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 82.0,
+    "user_score": 8.1,
+    "average_rating": 4.26,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0076",
+    "title": "Meteos: Disney Magic",
+    "developer": "Q Entertainment",
+    "publisher": "Disney Interactive Studios",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 6.6,
+    "average_rating": 3.8,
+    "total_players": 17
+  },
+  {
+    "game_id": "g_0077",
+    "title": "Tiger Woods PGA Tour 08",
+    "developer": "EA Salt Lake",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii",
+      "PS3",
+      "X360",
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 78.0,
+    "user_score": 7.2,
+    "average_rating": 4.01,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0078",
+    "title": "Champions of Norrath",
+    "developer": "Snowblind Studios",
+    "publisher": "Sony Online Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 85.0,
+    "user_score": 8.4,
+    "average_rating": 4.38,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0079",
+    "title": "Capcom vs. SNK 2: Mark of the Millennium 2001",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 81.0,
+    "user_score": 7.9,
+    "average_rating": 4.2,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0080",
+    "title": "Naughty Bear",
+    "developer": "Artificial Mind and Movement",
+    "publisher": "505 Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 43.0,
+    "user_score": 5.5,
+    "average_rating": 2.97,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0081",
+    "title": "Tenchu: Stealth Assassins",
+    "developer": "Acquire",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 1997,
+    "age_rating": "M",
+    "critic_score": 87.0,
+    "user_score": 8.8,
+    "average_rating": 4.5,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0082",
+    "title": "Mushroom Men: The Spore Wars",
+    "developer": "Red Fly Studio",
+    "publisher": "SouthPeak Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 72.0,
+    "user_score": 8.7,
+    "average_rating": 4.18,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0083",
+    "title": "Senran Kagura 2: Deep Crimson ",
+    "developer": "Tamsoft",
+    "publisher": "Marvelous Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2014,
+    "age_rating": "M",
+    "critic_score": 58.0,
+    "user_score": 6.8,
+    "average_rating": 3.52,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0084",
+    "title": "Pure",
+    "developer": "Black Rock Studio",
+    "publisher": "Disney Interactive Studios",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 7.8,
+    "average_rating": 4.23,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0085",
+    "title": "Arx Fatalis",
+    "developer": "Arkane Studios",
+    "publisher": "Mindscape",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 71.0,
+    "user_score": 8.2,
+    "average_rating": 4.06,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0086",
+    "title": "The Lost Vikings",
+    "developer": "Mass Media",
+    "publisher": "Activision",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 75.0,
+    "user_score": 9.1,
+    "average_rating": 4.32,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0087",
+    "title": "Rayman Origins",
+    "developer": "UBlart Montpellier",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "Wii",
+      "PSV",
+      "3DS",
+      "PC"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 85.2,
+    "user_score": 8.0,
+    "average_rating": 4.3,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0088",
+    "title": "Fullmetal Alchemist and the Broken Angel",
+    "developer": "Racjin",
+    "publisher": "Square Enix",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 56.0,
+    "user_score": 8.1,
+    "average_rating": 3.74,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0089",
+    "title": "Dragon Ball: Raging Blast",
+    "developer": "Spike",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2009,
+    "age_rating": "T",
+    "critic_score": 56.5,
+    "user_score": 7.3,
+    "average_rating": 3.6,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0090",
+    "title": "UEFA Euro 2016",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2016,
+    "age_rating": "E",
+    "critic_score": 72.0,
+    "user_score": 6.6,
+    "average_rating": 3.76,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0091",
+    "title": "Call of Duty: Infinite Warfare",
+    "developer": "Infinity Ward",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS4",
+      "XOne",
+      "PC"
+    ],
+    "release_year": 2016,
+    "age_rating": "M",
+    "critic_score": 76.0,
+    "user_score": 3.2,
+    "average_rating": 3.15,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0092",
+    "title": "Karaoke Revolution",
+    "developer": "Harmonix Music Systems",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 81.5,
+    "user_score": 8.8,
+    "average_rating": 4.39,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0093",
+    "title": "NASCAR 09",
+    "developer": "EA Games",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 67.0,
+    "user_score": 7.7,
+    "average_rating": 3.87,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0094",
+    "title": "ESPN NBA Basketball",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 88.0,
+    "user_score": 8.3,
+    "average_rating": 4.42,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0095",
+    "title": "Madagascar",
+    "developer": "Toys for Bob",
+    "publisher": "Activision",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "E10+",
+    "critic_score": 69.0,
+    "user_score": 7.4,
+    "average_rating": 3.86,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0096",
+    "title": "SimCity 2000",
+    "developer": "Full-Fat",
+    "publisher": "Zoo Digital Publishing",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 62.0,
+    "user_score": 7.8,
+    "average_rating": 3.8,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0097",
+    "title": "Shin Megami Tensei: Digital Devil Saga",
+    "developer": "Atlus Co.",
+    "publisher": "Ghostlight",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 78.0,
+    "user_score": 8.2,
+    "average_rating": 4.2,
+    "total_players": 3
+  },
+  {
+    "game_id": "g_0098",
+    "title": "Uncharted: The Nathan Drake Collection",
+    "developer": "Bluepoint Games",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2015,
+    "age_rating": "T",
+    "critic_score": 86.0,
+    "user_score": 8.1,
+    "average_rating": 4.34,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0099",
+    "title": "Criminal Girls: Invite Only",
+    "developer": "Image Epoch",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2013,
+    "age_rating": "M",
+    "critic_score": 55.0,
+    "user_score": 6.7,
+    "average_rating": 3.44,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0100",
+    "title": "Frogger: The Great Quest",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 32.0,
+    "user_score": 4.6,
+    "average_rating": 2.56,
+    "total_players": 20
+  },
+  {
+    "game_id": "g_0101",
+    "title": "The Book of Unwritten Tales",
+    "developer": "KING Art",
+    "publisher": "HMH Interactive",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "T",
+    "critic_score": 82.0,
+    "user_score": 8.2,
+    "average_rating": 4.28,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0102",
+    "title": "Sly 2: Band of Thieves",
+    "developer": "Sucker Punch",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 88.0,
+    "user_score": 9.0,
+    "average_rating": 4.56,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0103",
+    "title": "Monster Jam",
+    "developer": "Torus Games",
+    "publisher": "Activision",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 43.0,
+    "user_score": 6.4,
+    "average_rating": 3.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0104",
+    "title": "Etrian Odyssey III: The Drowned City",
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 77.0,
+    "user_score": 8.0,
+    "average_rating": 4.14,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0105",
+    "title": "Summer Heat Beach Volleyball",
+    "developer": "Acclaim Studios Cheltenham",
+    "publisher": "Acclaim Entertainment",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 65.0,
+    "user_score": 7.7,
+    "average_rating": 3.84,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0106",
+    "title": "Monster Madness: Battle for Suburbia",
+    "developer": "Artificial Studios",
+    "publisher": "SouthPeak Games",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 55.0,
+    "user_score": 5.2,
+    "average_rating": 3.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0107",
+    "title": "Spore Hero",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E10+",
+    "critic_score": 61.0,
+    "user_score": 7.1,
+    "average_rating": 3.64,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0108",
+    "title": "Rengoku: The Tower of Purgatory",
+    "developer": "Neverland",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 43.0,
+    "user_score": 5.6,
+    "average_rating": 2.98,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0109",
+    "title": "Samurai Warriors",
+    "developer": "Omega Force",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 72.0,
+    "user_score": 8.8,
+    "average_rating": 4.21,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0110",
+    "title": "LEGO Star Wars III: The Clone Wars",
+    "developer": "Traveller's Tales",
+    "publisher": "LucasArts",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii",
+      "X360",
+      "PS3",
+      "3DS",
+      "PC"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 74.0,
+    "user_score": 7.3,
+    "average_rating": 3.94,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0111",
+    "title": "Fatal Fury: Battle Archives Volume 1",
+    "developer": "SNK Playmore",
+    "publisher": "Ignition Entertainment",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 8.3,
+    "average_rating": 4.02,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0112",
+    "title": "Culdcept",
+    "developer": "NEC Interchannel",
+    "publisher": "Sega",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.9,
+    "average_rating": 4.34,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0113",
+    "title": "Go Vacation",
+    "developer": "Namco Bandai Games",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 64.0,
+    "user_score": 7.8,
+    "average_rating": 3.84,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0114",
+    "title": "Fear Effect 2: Retro Helix",
+    "developer": "Kronos Digital Entertainment",
+    "publisher": "Eidos Interactive",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2001,
+    "age_rating": "M",
+    "critic_score": 84.0,
+    "user_score": 8.9,
+    "average_rating": 4.46,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0115",
+    "title": "Le Mans 24 Hours",
+    "developer": "Atari",
+    "publisher": "Infogrames",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 75.0,
+    "user_score": 7.6,
+    "average_rating": 4.02,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0116",
+    "title": "Legendary",
+    "developer": "Spark Unlimited",
+    "publisher": "Atari",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 49.0,
+    "user_score": 6.9,
+    "average_rating": 3.37,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0117",
+    "title": "Alone in the Dark: Inferno",
+    "developer": "Eden Studios",
+    "publisher": "Atari",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 69.0,
+    "user_score": 5.6,
+    "average_rating": 3.5,
+    "total_players": 17
+  },
+  {
+    "game_id": "g_0118",
+    "title": "Top Gun: Hard Lock",
+    "developer": "505 Games",
+    "publisher": "505 Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2012,
+    "age_rating": "T",
+    "critic_score": 54.0,
+    "user_score": 3.5,
+    "average_rating": 2.78,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0119",
+    "title": "Grand Theft Auto: Liberty City Stories",
+    "developer": "Rockstar Leeds",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSP",
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 83.0,
+    "user_score": 7.7,
+    "average_rating": 4.2,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0120",
+    "title": "Medieval II: Total War",
+    "developer": "Creative Assembly",
+    "publisher": "Sega",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 88.0,
+    "user_score": 8.9,
+    "average_rating": 4.54,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0121",
+    "title": "MotoGP 08",
+    "developer": "Milestone S.r.l",
+    "publisher": "Capcom",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 66.5,
+    "user_score": 5.8,
+    "average_rating": 3.49,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0122",
+    "title": "ATV Offroad Fury: Blazin' Trails",
+    "developer": "Climax Group",
+    "publisher": "SouthPeak Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 63.0,
+    "user_score": 7.8,
+    "average_rating": 3.82,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0123",
+    "title": "Fable",
+    "developer": "Big Blue Box",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 85.0,
+    "user_score": 8.5,
+    "average_rating": 4.4,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0124",
+    "title": "Star Trek Online",
+    "developer": "Cryptic Studios",
+    "publisher": "Atari",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 66.0,
+    "user_score": 6.2,
+    "average_rating": 3.56,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0125",
+    "title": "Rogue Galaxy",
+    "developer": "Level 5",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 83.0,
+    "user_score": 8.4,
+    "average_rating": 4.34,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0126",
+    "title": "Oddworld: Stranger's Wrath",
+    "developer": "Oddworld Inhabitants",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 88.0,
+    "user_score": 9.1,
+    "average_rating": 4.58,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0127",
+    "title": "Dynasty Warriors 4 Empires",
+    "developer": "Omega Force",
+    "publisher": "Tecmo Koei",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 71.0,
+    "user_score": 8.8,
+    "average_rating": 4.18,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0128",
+    "title": "Wild ARMs: Alter Code F",
+    "developer": "Media Vision",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 73.0,
+    "user_score": 8.3,
+    "average_rating": 4.12,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0129",
+    "title": "Burnout 2: Point of Impact",
+    "developer": "Criterion Games",
+    "publisher": "Acclaim Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 87.7,
+    "user_score": 7.3,
+    "average_rating": 4.21,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0130",
+    "title": "The LEGO Movie Videogame",
+    "developer": "TT Games",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PS4",
+      "WiiU",
+      "XOne",
+      "PC"
+    ],
+    "release_year": 2014,
+    "age_rating": "E10+",
+    "critic_score": 70.8,
+    "user_score": 7.1,
+    "average_rating": 3.83,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0131",
+    "title": "Shining Soul",
+    "developer": "Next Entertainment",
+    "publisher": "Atari",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 58.0,
+    "user_score": 8.5,
+    "average_rating": 3.86,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0132",
+    "title": "SimCity 4",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 8.7,
+    "average_rating": 4.42,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0133",
+    "title": "SingStar Dance",
+    "developer": "SCEE London Studio",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 65.0,
+    "user_score": 3.9,
+    "average_rating": 3.08,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0134",
+    "title": "Shrek SuperSlam",
+    "developer": "Shaba Games",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "GC",
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "E10+",
+    "critic_score": 69.3,
+    "user_score": 8.7,
+    "average_rating": 4.13,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0135",
+    "title": "Dino Crisis 2",
+    "developer": "Capcom",
+    "publisher": "Virgin Interactive",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2000,
+    "age_rating": "M",
+    "critic_score": 86.0,
+    "user_score": 9.0,
+    "average_rating": 4.52,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0136",
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "developer": "Ubisoft Shanghai",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "XB",
+      "PS2",
+      "GC",
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 81.5,
+    "user_score": 7.8,
+    "average_rating": 4.2,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0137",
+    "title": "Skies of Arcadia Legends",
+    "developer": "Overworks",
+    "publisher": "Atari",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 84.0,
+    "user_score": 9.2,
+    "average_rating": 4.52,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0138",
+    "title": "Castle Shikigami 2",
+    "developer": "Alfa System",
+    "publisher": "Play It",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 67.0,
+    "user_score": 7.4,
+    "average_rating": 3.82,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0139",
+    "title": "Hakuoki: Demon of the Fleeting Blossom",
+    "developer": "Idea Factory",
+    "publisher": "Idea Factory",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 79.0,
+    "user_score": 8.3,
+    "average_rating": 4.24,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0140",
+    "title": "Chrono Cross",
+    "developer": "SquareSoft",
+    "publisher": "SquareSoft",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 1999,
+    "age_rating": "T",
+    "critic_score": 94.0,
+    "user_score": 8.1,
+    "average_rating": 4.5,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0141",
+    "title": "Innocent Life: A Futuristic Harvest Moon",
+    "developer": "ArtePiazza",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 67.0,
+    "user_score": 7.8,
+    "average_rating": 3.9,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0142",
+    "title": "Tales of Phantasia",
+    "developer": "Namco",
+    "publisher": "Nintendo",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2003,
+    "age_rating": "E10+",
+    "critic_score": 76.0,
+    "user_score": 8.1,
+    "average_rating": 4.14,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0143",
+    "title": "Ford Racing 3",
+    "developer": "Razorworks Studios",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 50.0,
+    "user_score": 6.6,
+    "average_rating": 3.32,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0144",
+    "title": "Doctor Lautrec and the Forgotten Knights",
+    "developer": "WinkySoft",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 53.0,
+    "user_score": 6.1,
+    "average_rating": 3.28,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0145",
+    "title": "Power Gig: Rise of the SixString",
+    "developer": "Seven45 Studios",
+    "publisher": "Unknown",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 36.0,
+    "user_score": 1.3,
+    "average_rating": 1.98,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0146",
+    "title": "Bubble Bobble Double Shot",
+    "developer": "Marvelous Entertainment",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 50.0,
+    "user_score": 4.8,
+    "average_rating": 2.96,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0147",
+    "title": "Digimon All-Star Rumble",
+    "developer": "Prope",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2014,
+    "age_rating": "E10+",
+    "critic_score": 49.0,
+    "user_score": 5.8,
+    "average_rating": 3.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0148",
+    "title": ".hack//Infection Part 1",
+    "developer": "CyberConnect2",
+    "publisher": "Atari",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 75.0,
+    "user_score": 8.5,
+    "average_rating": 4.2,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0149",
+    "title": "DiRT Showdown",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2012,
+    "age_rating": "E10+",
+    "critic_score": 75.0,
+    "user_score": 6.3,
+    "average_rating": 3.77,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0150",
+    "title": "Ride to Hell",
+    "developer": "Eutechnyx",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2013,
+    "age_rating": "M",
+    "critic_score": 16.0,
+    "user_score": 1.1,
+    "average_rating": 1.55,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0151",
+    "title": "Astro Boy: The Video Game",
+    "developer": "High Voltage Software",
+    "publisher": "D3Publisher",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E10+",
+    "critic_score": 52.0,
+    "user_score": 4.2,
+    "average_rating": 2.89,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0152",
+    "title": "Code Lyoko: Fall of X.A.N.A.",
+    "developer": "The Game Factory",
+    "publisher": "Game Factory",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 51.0,
+    "user_score": 6.3,
+    "average_rating": 3.28,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0153",
+    "title": "Infamous: First Light",
+    "developer": "Sucker Punch",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2014,
+    "age_rating": "T",
+    "critic_score": 73.0,
+    "user_score": 7.5,
+    "average_rating": 3.96,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0154",
+    "title": "SOCOM: U.S. Navy SEALs",
+    "developer": "Zipper Interactive",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "M",
+    "critic_score": 82.0,
+    "user_score": 7.9,
+    "average_rating": 4.22,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0155",
+    "title": "Fantasy Life",
+    "developer": "Level 5",
+    "publisher": "Nintendo",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2012,
+    "age_rating": "E10+",
+    "critic_score": 73.0,
+    "user_score": 8.6,
+    "average_rating": 4.18,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0156",
+    "title": "Major League Baseball 2K6",
+    "developer": "Kush Games",
+    "publisher": "Spike",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "X360",
+      "XB"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 69.0,
+    "user_score": 4.9,
+    "average_rating": 3.37,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0157",
+    "title": "Purr Pals",
+    "developer": "Brain Toys",
+    "publisher": "THQ",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 67.0,
+    "user_score": 6.8,
+    "average_rating": 3.7,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0158",
+    "title": "Ridge Racer DS",
+    "developer": "Namco",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 63.0,
+    "user_score": 6.7,
+    "average_rating": 3.6,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0159",
+    "title": "Tiger Woods PGA Tour 09",
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PSP"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 73.0,
+    "user_score": 6.8,
+    "average_rating": 3.83,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0160",
+    "title": "Duel Masters: Sempai Legends",
+    "developer": "Mistic Software",
+    "publisher": "Atari",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 69.0,
+    "user_score": 8.0,
+    "average_rating": 3.98,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0161",
+    "title": "Dragon Ball Z: Harukanaru Densetsu",
+    "developer": "Bec",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 57.0,
+    "user_score": 6.2,
+    "average_rating": 3.38,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0162",
+    "title": "TrackMania DS",
+    "developer": "Firebrand Games",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 75.0,
+    "user_score": 6.9,
+    "average_rating": 3.88,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0163",
+    "title": "The Sims 2: Open for Business",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.6,
+    "average_rating": 4.28,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0164",
+    "title": "Tom Clancy's Rainbow Six: Vegas 2",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 80.3,
+    "user_score": 7.7,
+    "average_rating": 4.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0165",
+    "title": "Tony Hawk's Underground 2",
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GC"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 82.7,
+    "user_score": 8.5,
+    "average_rating": 4.35,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0166",
+    "title": "Need for Speed: Shift",
+    "developer": "Slightly Mad Studios",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PSP",
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 79.8,
+    "user_score": 6.4,
+    "average_rating": 3.88,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0167",
+    "title": "Dance Dance Revolution SuperNOVA",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2006,
+    "age_rating": "E10+",
+    "critic_score": 73.0,
+    "user_score": 8.7,
+    "average_rating": 4.2,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0168",
+    "title": "FIFA Soccer 09 All-Play",
+    "developer": "EA Canada",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 80.0,
+    "user_score": 8.4,
+    "average_rating": 4.28,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0169",
+    "title": "Die Hard: Vendetta",
+    "developer": "Bits Studios",
+    "publisher": "NDA Productions",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "M",
+    "critic_score": 54.0,
+    "user_score": 7.0,
+    "average_rating": 3.48,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0170",
+    "title": "Prison Architect",
+    "developer": "Introversion",
+    "publisher": "Introversion Software",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS4"
+    ],
+    "release_year": 2016,
+    "age_rating": "M",
+    "critic_score": 80.0,
+    "user_score": 8.0,
+    "average_rating": 4.2,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0171",
+    "title": "Mega Man X: Command Mission",
+    "developer": "Valuewave Co.",
+    "publisher": "Capcom",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2",
+      "GC"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 68.0,
+    "user_score": 7.2,
+    "average_rating": 3.8,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0172",
+    "title": "Tom Clancy's Ghost Recon 2: Summit Strike",
+    "developer": "Red Storm Entertainment",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 84.0,
+    "user_score": 7.2,
+    "average_rating": 4.12,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0173",
+    "title": "Football Manager 2016",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2015,
+    "age_rating": "E",
+    "critic_score": 81.0,
+    "user_score": 6.9,
+    "average_rating": 4.0,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0174",
+    "title": "Winter Sports: The Ultimate Challenge",
+    "developer": "49Games",
+    "publisher": "RTL",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 52.0,
+    "user_score": 6.8,
+    "average_rating": 3.4,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0175",
+    "title": "Assassin's Creed Chronicles",
+    "developer": "Climax Studios",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2016,
+    "age_rating": "T",
+    "critic_score": 70.0,
+    "user_score": 8.0,
+    "average_rating": 4.0,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0176",
+    "title": "IHRA Drag Racing 2004",
+    "developer": "Bethesda Softworks",
+    "publisher": "Bethesda Softworks",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 40.0,
+    "user_score": 7.4,
+    "average_rating": 3.28,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0177",
+    "title": "Yakuza 5",
+    "developer": "Ryu ga Gotoku Studios",
+    "publisher": "Sega",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 83.0,
+    "user_score": 8.5,
+    "average_rating": 4.36,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0178",
+    "title": "Resistance: Burning Skies",
+    "developer": "Nihilistic",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 60.0,
+    "user_score": 6.8,
+    "average_rating": 3.56,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0179",
+    "title": "Fairy Fencer F",
+    "developer": "Compile Heart",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2013,
+    "age_rating": "T",
+    "critic_score": 65.0,
+    "user_score": 7.4,
+    "average_rating": 3.78,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0180",
+    "title": "Attack on Titan: Humanity in Chains",
+    "developer": "Spike Chunsoft",
+    "publisher": "Screenlife",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2013,
+    "age_rating": "M",
+    "critic_score": 46.0,
+    "user_score": 4.5,
+    "average_rating": 2.82,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0181",
+    "title": "Yakuza 3",
+    "developer": "Ryu ga Gotoku Studios",
+    "publisher": "Sega",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 79.0,
+    "user_score": 8.1,
+    "average_rating": 4.2,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0182",
+    "title": "NERF N-Strike",
+    "developer": "EA Redwood Shores",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 66.0,
+    "user_score": 4.4,
+    "average_rating": 3.2,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0183",
+    "title": "Data East Arcade Classics",
+    "developer": "G1M2",
+    "publisher": "Majesco Entertainment",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 56.0,
+    "user_score": 8.2,
+    "average_rating": 3.76,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0184",
+    "title": "Medal of Honor",
+    "developer": "EA DICE",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "PS",
+      "X360",
+      "PC"
+    ],
+    "release_year": 1998,
+    "age_rating": "M",
+    "critic_score": 78.2,
+    "user_score": 7.3,
+    "average_rating": 4.03,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0185",
+    "title": "Woody Woodpecker: Escape from Buzz Buzzard Park",
+    "developer": "EKO Software",
+    "publisher": "DreamCatcher Interactive",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 64.0,
+    "user_score": 7.4,
+    "average_rating": 3.76,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0186",
+    "title": "RoboCop",
+    "developer": "Titus Software",
+    "publisher": "Titus",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 30.0,
+    "user_score": 3.6,
+    "average_rating": 2.32,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0187",
+    "title": "Frontlines: Fuel of War",
+    "developer": "Kaos Studios",
+    "publisher": "THQ",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 74.0,
+    "user_score": 7.3,
+    "average_rating": 3.95,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0188",
+    "title": "Rayman Raving Rabbids 2",
+    "developer": "Ubisoft Montpellier",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii",
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 62.0,
+    "user_score": 7.7,
+    "average_rating": 3.77,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0189",
+    "title": "King's Field: The Ancient City",
+    "developer": "From Software",
+    "publisher": "Metro 3D",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 60.0,
+    "user_score": 8.5,
+    "average_rating": 3.9,
+    "total_players": 3
+  },
+  {
+    "game_id": "g_0190",
+    "title": "Zumba Fitness Core",
+    "developer": "Zoe Mode",
+    "publisher": "505 Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2012,
+    "age_rating": "E10+",
+    "critic_score": 77.0,
+    "user_score": 6.7,
+    "average_rating": 3.88,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0191",
+    "title": "Viking: Battle for Asgard",
+    "developer": "Creative Assembly",
+    "publisher": "Sega",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 66.5,
+    "user_score": 7.7,
+    "average_rating": 3.87,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0192",
+    "title": "Persona 4: Dancing All Night",
+    "developer": "Atlus",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2015,
+    "age_rating": "T",
+    "critic_score": 76.0,
+    "user_score": 8.6,
+    "average_rating": 4.24,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0193",
+    "title": "Kingdom Hearts 358/2 Days",
+    "developer": "h.a.n.d. Inc.",
+    "publisher": "Square Enix",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2009,
+    "age_rating": "E10+",
+    "critic_score": 75.0,
+    "user_score": 7.8,
+    "average_rating": 4.06,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0194",
+    "title": "Harvest Moon: Hero of Leaf Valley",
+    "developer": "Marvelous Entertainment",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 7.9,
+    "average_rating": 4.06,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0195",
+    "title": "Lost Planet: Extreme Condition",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 73.0,
+    "user_score": 7.0,
+    "average_rating": 3.87,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0196",
+    "title": "Skylanders Giants",
+    "developer": "Toys for Bob",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii",
+      "X360",
+      "PS3",
+      "WiiU",
+      "3DS"
+    ],
+    "release_year": 2012,
+    "age_rating": "E10+",
+    "critic_score": 74.8,
+    "user_score": 6.4,
+    "average_rating": 3.77,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0197",
+    "title": "Knights of Honor",
+    "developer": "Black Sea Studios",
+    "publisher": "Sunflowers",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2004,
+    "age_rating": "E10+",
+    "critic_score": 77.0,
+    "user_score": 9.1,
+    "average_rating": 4.36,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0198",
+    "title": "Hitman: Absolution",
+    "developer": "Io Interactive",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 80.3,
+    "user_score": 7.2,
+    "average_rating": 4.05,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0199",
+    "title": "Wolfenstein",
+    "developer": "id Software",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 72.3,
+    "user_score": 7.4,
+    "average_rating": 3.93,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0200",
+    "title": "Two Worlds",
+    "developer": "Reality Pump",
+    "publisher": "SouthPeak Games",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "M",
+    "critic_score": 50.0,
+    "user_score": 5.5,
+    "average_rating": 3.1,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0201",
+    "title": "Rayman Raving Rabbids",
+    "developer": "Ubisoft Montpellier",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii",
+      "X360",
+      "DS",
+      "PC"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 64.2,
+    "user_score": 7.2,
+    "average_rating": 3.73,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0202",
+    "title": "Baja: Edge of Control",
+    "developer": "2XL Games",
+    "publisher": "THQ",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 63.0,
+    "user_score": 6.0,
+    "average_rating": 3.47,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0203",
+    "title": "BIT.TRIP COMPLETE",
+    "developer": "Gaijin Games",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2011,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 8.7,
+    "average_rating": 4.42,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0204",
+    "title": "Monsters, Inc.",
+    "developer": "Artificial Mind and Movement",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 52.0,
+    "user_score": 7.2,
+    "average_rating": 3.48,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0205",
+    "title": "The X Files: Resist or Serve",
+    "developer": "Black Ops Entertainment",
+    "publisher": "Vivendi Games",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 67.0,
+    "user_score": 8.4,
+    "average_rating": 4.02,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0206",
+    "title": "Mass Effect",
+    "developer": "BioWare",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "X360",
+      "PC"
+    ],
+    "release_year": 2007,
+    "age_rating": "M",
+    "critic_score": 90.0,
+    "user_score": 8.6,
+    "average_rating": 4.53,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0207",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "developer": "Visual Impact",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "DS",
+      "Wii",
+      "PSP",
+      "X360",
+      "PS2",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 61.6,
+    "user_score": 6.9,
+    "average_rating": 3.61,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0208",
+    "title": "Professor Layton and the Azran Legacy",
+    "developer": "Level 5",
+    "publisher": "Nintendo",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2013,
+    "age_rating": "E10+",
+    "critic_score": 81.0,
+    "user_score": 7.9,
+    "average_rating": 4.2,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0209",
+    "title": "Tetris DS",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 8.7,
+    "average_rating": 4.42,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0210",
+    "title": "R: Racing Evolution",
+    "developer": "Namco",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 66.0,
+    "user_score": 6.2,
+    "average_rating": 3.56,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0211",
+    "title": "Ring of Red",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 82.0,
+    "user_score": 8.7,
+    "average_rating": 4.38,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0212",
+    "title": "Crime Life: Gang Wars",
+    "developer": "Hothouse Creations",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 30.0,
+    "user_score": 3.4,
+    "average_rating": 2.28,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0213",
+    "title": "Killzone",
+    "developer": "Guerrilla",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 70.0,
+    "user_score": 7.4,
+    "average_rating": 3.88,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0214",
+    "title": "Diddy Kong Racing DS",
+    "developer": "Rare Ltd.",
+    "publisher": "Nintendo",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 63.0,
+    "user_score": 7.5,
+    "average_rating": 3.76,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0215",
+    "title": "Knockout Kings 2001",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 84.0,
+    "user_score": 8.5,
+    "average_rating": 4.38,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0216",
+    "title": "The Testament of Sherlock Holmes",
+    "developer": "Frogwares",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "PC",
+      "X360"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 67.3,
+    "user_score": 7.7,
+    "average_rating": 3.88,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0217",
+    "title": "Haze",
+    "developer": "Free Radical Design",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 55.0,
+    "user_score": 6.5,
+    "average_rating": 3.4,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0218",
+    "title": "Pokemon Rumble Blast",
+    "developer": "Ambrella",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 56.0,
+    "user_score": 7.1,
+    "average_rating": 3.54,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0219",
+    "title": "Hyperdevotion Noire: Goddess Black Heart",
+    "developer": "Sting",
+    "publisher": "Idea Factory",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2014,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 7.1,
+    "average_rating": 3.78,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0220",
+    "title": "Tony Hawk's Downhill Jam",
+    "developer": "Vicarious Visions",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2006,
+    "age_rating": "E",
+    "critic_score": 76.0,
+    "user_score": 7.0,
+    "average_rating": 3.92,
+    "total_players": 3
+  },
+  {
+    "game_id": "g_0221",
+    "title": "25 to Life",
+    "developer": "Ritual Entertainment",
+    "publisher": "Eidos Interactive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2006,
+    "age_rating": "M",
+    "critic_score": 40.0,
+    "user_score": 6.1,
+    "average_rating": 3.01,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0222",
+    "title": "Tom Clancy's Ghost Recon: Shadow Wars",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 77.0,
+    "user_score": 7.9,
+    "average_rating": 4.12,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0223",
+    "title": "Pro Race Driver",
+    "developer": "Codemasters",
+    "publisher": "Codemasters",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 80.5,
+    "user_score": 8.0,
+    "average_rating": 4.21,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0224",
+    "title": "Damage Inc.: Pacific Squadron WWII",
+    "developer": "Mad Catz",
+    "publisher": "Mad Catz",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2012,
+    "age_rating": "T",
+    "critic_score": 49.0,
+    "user_score": 5.5,
+    "average_rating": 3.08,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0225",
+    "title": "Drakengard 2",
+    "developer": "Cavia Inc.",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 58.0,
+    "user_score": 5.5,
+    "average_rating": 3.26,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0226",
+    "title": "Shark Tale",
+    "developer": "Edge of Reality",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 66.0,
+    "user_score": 7.8,
+    "average_rating": 3.87,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0227",
+    "title": "Hidden Invasion",
+    "developer": "Toka",
+    "publisher": "Swing! Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 39.0,
+    "user_score": 5.8,
+    "average_rating": 2.94,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0228",
+    "title": "Tokyo Xtreme Racer Zero",
+    "developer": "Genki",
+    "publisher": "Crave Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2000,
+    "age_rating": "E",
+    "critic_score": 76.0,
+    "user_score": 8.9,
+    "average_rating": 4.3,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0229",
+    "title": "Godzilla: Save the Earth",
+    "developer": "Pipeworks Software",
+    "publisher": "Atari",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 62.5,
+    "user_score": 8.4,
+    "average_rating": 3.94,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0230",
+    "title": "Super Princess Peach",
+    "developer": "TOSE",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 75.0,
+    "user_score": 7.6,
+    "average_rating": 4.02,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0231",
+    "title": "Piglet's Big Game",
+    "developer": "Doki Denki",
+    "publisher": "Gotham Games",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 70.0,
+    "user_score": 8.0,
+    "average_rating": 4.0,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0232",
+    "title": "Dance Dance Revolution X",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 55.0,
+    "user_score": 6.2,
+    "average_rating": 3.34,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0233",
+    "title": "Silent Hill 3",
+    "developer": "KCET",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 85.0,
+    "user_score": 8.8,
+    "average_rating": 4.46,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0234",
+    "title": "The Outfit",
+    "developer": "Relic",
+    "publisher": "THQ",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2006,
+    "age_rating": "M",
+    "critic_score": 70.0,
+    "user_score": 7.5,
+    "average_rating": 3.9,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0235",
+    "title": "Sled Storm",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 73.0,
+    "user_score": 7.7,
+    "average_rating": 4.0,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0236",
+    "title": "Damnation",
+    "developer": "Blue Omega",
+    "publisher": "Codemasters",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 36.0,
+    "user_score": 4.2,
+    "average_rating": 2.56,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0237",
+    "title": "Fire Pro Wrestling Returns",
+    "developer": "S-Neo",
+    "publisher": "505 Games",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.5,
+    "average_rating": 4.26,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0238",
+    "title": "GT Advance 2: Rally Racing",
+    "developer": "MTO",
+    "publisher": "THQ",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 77.0,
+    "user_score": 6.0,
+    "average_rating": 3.74,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0239",
+    "title": "Dynasty Warriors 8: Xtreme Legends",
+    "developer": "Omega Force",
+    "publisher": "Tecmo Koei",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2013,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 6.8,
+    "average_rating": 3.72,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0240",
+    "title": "Azure Striker Gunvolt",
+    "developer": "Inti Creates",
+    "publisher": "Yacht Club Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2016,
+    "age_rating": "E10+",
+    "critic_score": 77.0,
+    "user_score": 8.4,
+    "average_rating": 4.22,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0241",
+    "title": "Fate/Extra",
+    "developer": "Image Epoch",
+    "publisher": "Marvelous Interactive",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 58.0,
+    "user_score": 8.1,
+    "average_rating": 3.78,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0242",
+    "title": "The Sims 2: Apartment Life",
+    "developer": "Electronic Arts",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 75.0,
+    "user_score": 7.7,
+    "average_rating": 4.04,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0243",
+    "title": "Fable: The Lost Chapters",
+    "developer": "Lionhead Studios",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 83.0,
+    "user_score": 8.7,
+    "average_rating": 4.4,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0244",
+    "title": "Tiger Woods PGA Tour 09 All-Play",
+    "developer": "EA Tiburon",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 81.0,
+    "user_score": 8.7,
+    "average_rating": 4.36,
+    "total_players": 20
+  },
+  {
+    "game_id": "g_0245",
+    "title": "RPG Maker 3",
+    "developer": "Runtime",
+    "publisher": "Enterbrain",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E10+",
+    "critic_score": 69.0,
+    "user_score": 7.9,
+    "average_rating": 3.96,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0246",
+    "title": "Final Fantasy VIII",
+    "developer": "SquareSoft",
+    "publisher": "SquareSoft",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 1999,
+    "age_rating": "T",
+    "critic_score": 90.0,
+    "user_score": 8.6,
+    "average_rating": 4.52,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0247",
+    "title": "Earth Defense Force 2: Invaders from Planet Space",
+    "developer": "Sandlot",
+    "publisher": "Xseed Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2014,
+    "age_rating": "T",
+    "critic_score": 72.0,
+    "user_score": 8.5,
+    "average_rating": 4.14,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0248",
+    "title": "Army Men: Sarge's War",
+    "developer": "3DO",
+    "publisher": "Global Star",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 56.0,
+    "user_score": 6.7,
+    "average_rating": 3.46,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0249",
+    "title": "Angry Birds Star Wars",
+    "developer": "Exient Entertainment",
+    "publisher": "Activision",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PS4",
+      "XOne"
+    ],
+    "release_year": 2013,
+    "age_rating": "E",
+    "critic_score": 52.0,
+    "user_score": 4.5,
+    "average_rating": 2.95,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0250",
+    "title": "Digimon Rumble Arena 2",
+    "developer": "Black Ship Games",
+    "publisher": "Atari",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2",
+      "GC",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 66.3,
+    "user_score": 8.1,
+    "average_rating": 3.94,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0251",
+    "title": "XGRA: Extreme G-Racing Association",
+    "developer": "Acclaim Studios Cheltenham",
+    "publisher": "Eidos Interactive",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 8.6,
+    "average_rating": 4.08,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0252",
+    "title": "Exit",
+    "developer": "Taito Corporation",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 77.0,
+    "user_score": 7.7,
+    "average_rating": 4.08,
+    "total_players": 17
+  },
+  {
+    "game_id": "g_0253",
+    "title": "Super Paper Mario",
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 85.0,
+    "user_score": 7.9,
+    "average_rating": 4.28,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0254",
+    "title": "Harvest Moon: Back to Nature",
+    "developer": "Victor Interactive Software",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 1999,
+    "age_rating": "E",
+    "critic_score": 82.0,
+    "user_score": 9.3,
+    "average_rating": 4.5,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0255",
+    "title": "JU-ON: The Grudge",
+    "developer": "FeelPlus",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 39.0,
+    "user_score": 5.6,
+    "average_rating": 2.9,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0256",
+    "title": "BIT.TRIP SAGA",
+    "developer": "Gaijin Games",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E",
+    "critic_score": 75.0,
+    "user_score": 7.8,
+    "average_rating": 4.06,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0257",
+    "title": "Major League Baseball 2K11",
+    "developer": "Visual Concepts",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2011,
+    "age_rating": "E",
+    "critic_score": 71.7,
+    "user_score": 6.3,
+    "average_rating": 3.7,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0258",
+    "title": "James Noir's Hollywood Crimes",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 60.0,
+    "user_score": 6.6,
+    "average_rating": 3.52,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0259",
+    "title": "NBA Live 14",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS4",
+      "XOne"
+    ],
+    "release_year": 2013,
+    "age_rating": "E",
+    "critic_score": 39.5,
+    "user_score": 2.9,
+    "average_rating": 2.37,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0260",
+    "title": "Van Helsing",
+    "developer": "Saffire",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 53.3,
+    "user_score": 7.5,
+    "average_rating": 3.56,
+    "total_players": 2
+  },
+  {
+    "game_id": "g_0261",
+    "title": "Luigi's Mansion",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 78.0,
+    "user_score": 8.5,
+    "average_rating": 4.26,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0262",
+    "title": "Pac-Man Party 3D",
+    "developer": "Namco Bandai Games",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E",
+    "critic_score": 43.0,
+    "user_score": 5.4,
+    "average_rating": 2.94,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0263",
+    "title": "Mass Effect 2",
+    "developer": "BioWare",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "M",
+    "critic_score": 94.7,
+    "user_score": 8.7,
+    "average_rating": 4.64,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0264",
+    "title": "Captain America: Super Soldier",
+    "developer": "Next Level Games",
+    "publisher": "Sega",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 57.3,
+    "user_score": 6.2,
+    "average_rating": 3.39,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0265",
+    "title": "Rave Master",
+    "developer": "Konami",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 60.0,
+    "user_score": 6.3,
+    "average_rating": 3.46,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0266",
+    "title": "The Legend of Kage 2",
+    "developer": "Taito Corporation",
+    "publisher": "Square Enix",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 70.0,
+    "user_score": 6.3,
+    "average_rating": 3.66,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0267",
+    "title": "WipEout HD Fury",
+    "developer": "Studio Liverpool",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2009,
+    "age_rating": "E10+",
+    "critic_score": 89.0,
+    "user_score": 8.4,
+    "average_rating": 4.46,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0268",
+    "title": "Star Wars Racer Revenge",
+    "developer": "Rainbow Studios",
+    "publisher": "LucasArts",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 73.0,
+    "user_score": 8.5,
+    "average_rating": 4.16,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0269",
+    "title": "Venetica",
+    "developer": "Deck 13",
+    "publisher": "DTP Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2009,
+    "age_rating": "T",
+    "critic_score": 50.0,
+    "user_score": 6.9,
+    "average_rating": 3.37,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0270",
+    "title": "Earth Defense Force 2017 Portable",
+    "developer": "Sandlot",
+    "publisher": "D3Publisher",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2012,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 7.9,
+    "average_rating": 3.94,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0271",
+    "title": "Zoo Tycoon 2",
+    "developer": "Blue Fang Games",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 72.0,
+    "user_score": 8.1,
+    "average_rating": 4.06,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0272",
+    "title": "Ferrari F355 Challenge",
+    "developer": "Sega AM2",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 70.0,
+    "user_score": 4.4,
+    "average_rating": 3.28,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0273",
+    "title": "Worms Reloaded",
+    "developer": "Team 17",
+    "publisher": "Team17 Software",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 79.0,
+    "user_score": 6.8,
+    "average_rating": 3.94,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0274",
+    "title": "Warriors Orochi",
+    "developer": "Omega Force",
+    "publisher": "Tecmo Koei",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2",
+      "PSP",
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 56.7,
+    "user_score": 7.4,
+    "average_rating": 3.61,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0275",
+    "title": "Area 51",
+    "developer": "Midway Studios - Austin",
+    "publisher": "Midway Games",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 73.5,
+    "user_score": 8.2,
+    "average_rating": 4.12,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0276",
+    "title": "Take On Helicopters",
+    "developer": "Bohemia Interactive",
+    "publisher": "Unknown",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 70.0,
+    "user_score": 6.7,
+    "average_rating": 3.74,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0277",
+    "title": "Grandia Xtreme",
+    "developer": "Game Arts",
+    "publisher": "Enix Corporation",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 6.5,
+    "average_rating": 3.66,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0278",
+    "title": "ATV Offroad Fury 3",
+    "developer": "Climax Group",
+    "publisher": "SouthPeak Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 78.0,
+    "user_score": 8.4,
+    "average_rating": 4.24,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0279",
+    "title": "Farming Simulator 17",
+    "developer": "Giants Software",
+    "publisher": "Focus Home Interactive",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC",
+      "PS4"
+    ],
+    "release_year": 2016,
+    "age_rating": "E",
+    "critic_score": 66.5,
+    "user_score": 8.3,
+    "average_rating": 4.0,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0280",
+    "title": "Gardening Mama",
+    "developer": "Taito Corporation",
+    "publisher": "505 Games",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 60.0,
+    "user_score": 9.3,
+    "average_rating": 4.06,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0281",
+    "title": "F1 2002",
+    "developer": "Visual Sciences",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2",
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 76.5,
+    "user_score": 7.1,
+    "average_rating": 3.95,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0282",
+    "title": "Thrillville: Off the Rails",
+    "developer": "Frontier Developments",
+    "publisher": "LucasArts",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "Wii",
+      "PS2",
+      "X360",
+      "PSP",
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 68.8,
+    "user_score": 2.8,
+    "average_rating": 2.94,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0283",
+    "title": "Drawn to Life",
+    "developer": "5TH Cell",
+    "publisher": "THQ",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 73.0,
+    "user_score": 8.2,
+    "average_rating": 4.1,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0284",
+    "title": "Cars: Mater-National Championship",
+    "developer": "Rainbow Studios",
+    "publisher": "THQ",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "DS",
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 63.3,
+    "user_score": 6.5,
+    "average_rating": 3.56,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0285",
+    "title": "Zero Escape: Virtue's Last Reward",
+    "developer": "ChunSoft",
+    "publisher": "Rising Star Games",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 88.0,
+    "user_score": 8.8,
+    "average_rating": 4.52,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0286",
+    "title": "Tony Hawk's American Wasteland",
+    "developer": "Neversoft Entertainment",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "XB",
+      "GC",
+      "X360"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 76.0,
+    "user_score": 7.5,
+    "average_rating": 4.03,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0287",
+    "title": "Disney Guilty Party",
+    "developer": "Wideload Games Inc.",
+    "publisher": "Disney Interactive Studios",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2010,
+    "age_rating": "E",
+    "critic_score": 78.0,
+    "user_score": 8.0,
+    "average_rating": 4.16,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0288",
+    "title": "Cabela's Deer Hunt 2005 Season",
+    "developer": "Sand Grain Studios",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 59.0,
+    "user_score": 7.5,
+    "average_rating": 3.68,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0289",
+    "title": "Halo 3",
+    "developer": "Bungie Software",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2007,
+    "age_rating": "M",
+    "critic_score": 94.0,
+    "user_score": 7.8,
+    "average_rating": 4.44,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0290",
+    "title": "Monster 4x4: Masters of Metal",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 48.0,
+    "user_score": 8.3,
+    "average_rating": 3.62,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0291",
+    "title": "BlazBlue: Continuum Shift",
+    "developer": "Arc System Works",
+    "publisher": "PQube",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 86.0,
+    "user_score": 8.3,
+    "average_rating": 4.39,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0292",
+    "title": "Defender",
+    "developer": "7 Studios",
+    "publisher": "Midway Games",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 73.0,
+    "user_score": 7.8,
+    "average_rating": 4.02,
+    "total_players": 23
+  },
+  {
+    "game_id": "g_0293",
+    "title": "Wall-E",
+    "developer": "Heavy Iron Studios",
+    "publisher": "THQ",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Wii",
+      "PS2",
+      "X360",
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "E",
+    "critic_score": 55.4,
+    "user_score": 6.0,
+    "average_rating": 3.31,
+    "total_players": 21
+  },
+  {
+    "game_id": "g_0294",
+    "title": "The Fast and the Furious",
+    "developer": "Eutechnyx",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2",
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 58.5,
+    "user_score": 5.9,
+    "average_rating": 3.36,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0295",
+    "title": "Castlevania: Lament of Innocence",
+    "developer": "KCET",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 79.0,
+    "user_score": 8.4,
+    "average_rating": 4.26,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0296",
+    "title": "Teenage Mutant Ninja Turtles: Arcade Attack",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2009,
+    "age_rating": "E10+",
+    "critic_score": 36.0,
+    "user_score": 4.8,
+    "average_rating": 2.68,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0297",
+    "title": "Pac-Man Collection",
+    "developer": "Mass Media",
+    "publisher": "Atari",
+    "genres": [
+      "Puzzle"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 79.0,
+    "user_score": 7.8,
+    "average_rating": 4.14,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0298",
+    "title": "WWE Day of Reckoning",
+    "developer": "Yuke's",
+    "publisher": "THQ",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 79.0,
+    "user_score": 9.1,
+    "average_rating": 4.4,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0299",
+    "title": "Way of the Samurai 2",
+    "developer": "Acquire",
+    "publisher": "Capcom",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 59.0,
+    "user_score": 9.0,
+    "average_rating": 3.98,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0300",
+    "title": "High Heat Major League Baseball 2003",
+    "developer": "3DO",
+    "publisher": "3DO",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 7.9,
+    "average_rating": 4.26,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0301",
+    "title": "Monster Hunter",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 68.0,
+    "user_score": 8.9,
+    "average_rating": 4.14,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0302",
+    "title": "The Fight: Lights Out",
+    "developer": "Coldwood Interactive",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 48.0,
+    "user_score": 7.5,
+    "average_rating": 3.46,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0303",
+    "title": "WarJetz",
+    "developer": "3DO",
+    "publisher": "3DO",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 59.0,
+    "user_score": 5.5,
+    "average_rating": 3.28,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0304",
+    "title": "de Blob 2",
+    "developer": "Blue Tongue Entertainment",
+    "publisher": "THQ",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS3",
+      "Wii",
+      "X360",
+      "DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 76.2,
+    "user_score": 7.7,
+    "average_rating": 4.07,
+    "total_players": 17
+  },
+  {
+    "game_id": "g_0305",
+    "title": "Worms 4: Mayhem",
+    "developer": "Team 17",
+    "publisher": "Codemasters",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 69.0,
+    "user_score": 9.2,
+    "average_rating": 4.22,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0306",
+    "title": "Mat Hoffman's Pro BMX",
+    "developer": "Shaba Games",
+    "publisher": "Activision",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 80.0,
+    "user_score": 8.6,
+    "average_rating": 4.32,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0307",
+    "title": "Hot Wheels Velocity X",
+    "developer": "Beyond Games",
+    "publisher": "THQ",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2",
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 54.5,
+    "user_score": 6.8,
+    "average_rating": 3.44,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0308",
+    "title": "Texas Hold 'Em Poker",
+    "developer": "Skyworks Technologies",
+    "publisher": "Majesco Entertainment",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 49.0,
+    "user_score": 6.8,
+    "average_rating": 3.34,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0309",
+    "title": "Eureka Seven Vol. 2: The New Vision",
+    "developer": "Namco Bandai Games America",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 40.0,
+    "user_score": 7.0,
+    "average_rating": 3.2,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0310",
+    "title": "Spyro: A Hero's Tail",
+    "developer": "Eurocom Entertainment Software",
+    "publisher": "Vivendi Games",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2",
+      "GC",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 62.0,
+    "user_score": 8.5,
+    "average_rating": 3.93,
+    "total_players": 22
+  },
+  {
+    "game_id": "g_0311",
+    "title": "Driver 2",
+    "developer": "Reflections Interactive",
+    "publisher": "Atari",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 62.0,
+    "user_score": 7.7,
+    "average_rating": 3.78,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0312",
+    "title": "Tatsunoko vs. Capcom: Ultimate All-Stars",
+    "developer": "Eighting",
+    "publisher": "Capcom",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 85.0,
+    "user_score": 8.8,
+    "average_rating": 4.46,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0313",
+    "title": "Ninja Gaiden Sigma 2",
+    "developer": "Team Ninja",
+    "publisher": "Ubisoft Annecy",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 83.0,
+    "user_score": 7.7,
+    "average_rating": 4.2,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0314",
+    "title": "College Hoops 2K8",
+    "developer": "Visual Concepts",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360",
+      "PS3"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 81.5,
+    "user_score": 6.1,
+    "average_rating": 3.84,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0315",
+    "title": "Stronghold",
+    "developer": "FireFly Studios",
+    "publisher": "Gathering of Developers",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 81.0,
+    "user_score": 8.9,
+    "average_rating": 4.4,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0316",
+    "title": "James Cameron's Dark Angel",
+    "developer": "Radical Entertainment",
+    "publisher": "Vivendi Games",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 47.0,
+    "user_score": 8.3,
+    "average_rating": 3.6,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0317",
+    "title": "NHL 2K11",
+    "developer": "Visual Concepts",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 62.0,
+    "user_score": 5.8,
+    "average_rating": 3.4,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0318",
+    "title": "Drone Tactics",
+    "developer": "Success",
+    "publisher": "Success",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 74.0,
+    "user_score": 7.4,
+    "average_rating": 3.96,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0319",
+    "title": "Final Fantasy III",
+    "developer": "Matrix Software",
+    "publisher": "Square Enix",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2006,
+    "age_rating": "E10+",
+    "critic_score": 77.0,
+    "user_score": 7.1,
+    "average_rating": 3.96,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0320",
+    "title": "Riviera: The Promised Land",
+    "developer": "Sting",
+    "publisher": "Sting",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "GBA",
+      "PSP"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 72.0,
+    "user_score": 8.4,
+    "average_rating": 4.13,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0321",
+    "title": "FIFA 15",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS4",
+      "XOne",
+      "PC"
+    ],
+    "release_year": 2014,
+    "age_rating": "E",
+    "critic_score": 82.0,
+    "user_score": 5.1,
+    "average_rating": 3.66,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0322",
+    "title": "Mana Khemia: Alchemists of Al-Revis",
+    "developer": "Gust",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 69.0,
+    "user_score": 7.5,
+    "average_rating": 3.88,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0323",
+    "title": "EverBlue 2",
+    "developer": "Arika",
+    "publisher": "Capcom",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "E",
+    "critic_score": 59.0,
+    "user_score": 7.5,
+    "average_rating": 3.68,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0324",
+    "title": "The Sims: Bustin' Out",
+    "developer": "Maxis",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PS2",
+      "GC",
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 81.0,
+    "user_score": 8.8,
+    "average_rating": 4.37,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0325",
+    "title": "Kessen",
+    "developer": "Koei",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 75.0,
+    "user_score": 8.4,
+    "average_rating": 4.18,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0326",
+    "title": "SimCity DS",
+    "developer": "Aki Corp.",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E",
+    "critic_score": 69.0,
+    "user_score": 6.3,
+    "average_rating": 3.64,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0327",
+    "title": "Toukiden: The Age of Demons",
+    "developer": "Omega Force",
+    "publisher": "Tecmo Koei",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PSV"
+    ],
+    "release_year": 2013,
+    "age_rating": "T",
+    "critic_score": 71.0,
+    "user_score": 8.0,
+    "average_rating": 4.02,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0328",
+    "title": "Formula One 2001",
+    "developer": "Studio Liverpool",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 73.0,
+    "user_score": 6.0,
+    "average_rating": 3.66,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0329",
+    "title": "Kingdom Hearts: Birth by Sleep",
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 82.0,
+    "user_score": 8.6,
+    "average_rating": 4.36,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0330",
+    "title": "Super Dragon Ball Z",
+    "developer": "Crafts & Meister",
+    "publisher": "Atari",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2006,
+    "age_rating": "T",
+    "critic_score": 72.0,
+    "user_score": 5.8,
+    "average_rating": 3.6,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0331",
+    "title": "Wildstar",
+    "developer": "Carbine Studios",
+    "publisher": "NCSoft",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2014,
+    "age_rating": "T",
+    "critic_score": 82.0,
+    "user_score": 7.4,
+    "average_rating": 4.12,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0332",
+    "title": "Sniper: Ghost Warrior 2",
+    "developer": "City Interactive",
+    "publisher": "City Interactive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2013,
+    "age_rating": "M",
+    "critic_score": 52.0,
+    "user_score": 5.8,
+    "average_rating": 3.21,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0333",
+    "title": "Pool Hall Pro",
+    "developer": "Icon Games",
+    "publisher": "Playlogic Game Factory",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 62.0,
+    "user_score": 5.3,
+    "average_rating": 3.3,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0334",
+    "title": "Star Wars: Battlefront",
+    "developer": "Pandemic Studios",
+    "publisher": "LucasArts",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "PC"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 7.1,
+    "average_rating": 3.98,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0335",
+    "title": "Harvey Birdman: Attorney at Law",
+    "developer": "High Voltage Software",
+    "publisher": "Capcom",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PSP",
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 61.0,
+    "user_score": 7.9,
+    "average_rating": 3.8,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0336",
+    "title": "Rebelstar: Tactical Command",
+    "developer": "Codo Games",
+    "publisher": "Atari",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2005,
+    "age_rating": "E10+",
+    "critic_score": 78.0,
+    "user_score": 9.1,
+    "average_rating": 4.38,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0337",
+    "title": "Oddworld: Munch's Oddysee",
+    "developer": "Oddworld Inhabitants",
+    "publisher": "Atari",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "XB",
+      "GBA"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 62.0,
+    "user_score": 5.6,
+    "average_rating": 3.36,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0338",
+    "title": "Dead Island Definitive Collection",
+    "developer": "Techland",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS4",
+      "XOne"
+    ],
+    "release_year": 2016,
+    "age_rating": "M",
+    "critic_score": 65.0,
+    "user_score": 5.7,
+    "average_rating": 3.43,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0339",
+    "title": "Risk: Global Domination",
+    "developer": "Cyberlore Studios",
+    "publisher": "Atari",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 60.0,
+    "user_score": 8.8,
+    "average_rating": 3.96,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0340",
+    "title": "Armored Core 2",
+    "developer": "From Software",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2000,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 8.4,
+    "average_rating": 4.24,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0341",
+    "title": "Pokemon Super Mystery Dungeon",
+    "developer": "Spike Chunsoft Co. Ltd.",
+    "publisher": "Nintendo",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2015,
+    "age_rating": "E",
+    "critic_score": 69.0,
+    "user_score": 8.8,
+    "average_rating": 4.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0342",
+    "title": "The Legend of Spyro: The Eternal Night",
+    "developer": "Krome Studios",
+    "publisher": "Vivendi Games",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS2",
+      "DS",
+      "Wii"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 56.7,
+    "user_score": 4.8,
+    "average_rating": 3.1,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0343",
+    "title": "Tales of Legendia",
+    "developer": "Namco",
+    "publisher": "Namco Bandai Games",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 72.0,
+    "user_score": 7.7,
+    "average_rating": 3.98,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0344",
+    "title": "Arcana Heart",
+    "developer": "Examu",
+    "publisher": "AQ Interactive",
+    "genres": [
+      "Fighting"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2007,
+    "age_rating": "T",
+    "critic_score": 77.0,
+    "user_score": 8.1,
+    "average_rating": 4.16,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0345",
+    "title": "Seek and Destroy",
+    "developer": "Barnhouse Effect",
+    "publisher": "Play It",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 63.0,
+    "user_score": 8.8,
+    "average_rating": 4.02,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0346",
+    "title": "Phantom Crash",
+    "developer": "Genki",
+    "publisher": "Phantagram",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 74.0,
+    "user_score": 8.3,
+    "average_rating": 4.14,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0347",
+    "title": "Without Warning",
+    "developer": "CiRCLE",
+    "publisher": "Capcom",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "M",
+    "critic_score": 45.0,
+    "user_score": 6.5,
+    "average_rating": 3.2,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0348",
+    "title": "NCAA Football 06",
+    "developer": "EA Sports",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2005,
+    "age_rating": "E",
+    "critic_score": 87.0,
+    "user_score": 8.4,
+    "average_rating": 4.42,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0349",
+    "title": "Way of the Samurai 3",
+    "developer": "Acquire",
+    "publisher": "Gamebridge",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2008,
+    "age_rating": "M",
+    "critic_score": 56.5,
+    "user_score": 7.3,
+    "average_rating": 3.6,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0350",
+    "title": "Catherine",
+    "developer": "Atlus",
+    "publisher": "Deep Silver",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2011,
+    "age_rating": "M",
+    "critic_score": 80.5,
+    "user_score": 8.0,
+    "average_rating": 4.21,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0351",
+    "title": "Downhill Domination",
+    "developer": "Incognito Inc.",
+    "publisher": "Codemasters",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 79.0,
+    "user_score": 8.9,
+    "average_rating": 4.36,
+    "total_players": 14
+  },
+  {
+    "game_id": "g_0352",
+    "title": "LEGO Batman: The Videogame",
+    "developer": "Traveller's Tales",
+    "publisher": "Warner Bros. Interactive Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360",
+      "DS",
+      "PS3",
+      "PS2",
+      "PC"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 76.0,
+    "user_score": 8.1,
+    "average_rating": 4.13,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0353",
+    "title": "Disgaea 4: A Promise Unforgotten",
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 80.0,
+    "user_score": 7.8,
+    "average_rating": 4.16,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0354",
+    "title": "DECA Sports Freedom",
+    "developer": "AI",
+    "publisher": "Hudson Soft",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 26.0,
+    "user_score": 3.7,
+    "average_rating": 2.26,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0355",
+    "title": "Mega Man Zero Collection",
+    "developer": "Inti",
+    "publisher": "Capcom",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2010,
+    "age_rating": "E",
+    "critic_score": 78.0,
+    "user_score": 8.9,
+    "average_rating": 4.34,
+    "total_players": 16
+  },
+  {
+    "game_id": "g_0356",
+    "title": "Miami Vice: The Game",
+    "developer": "Rebellion",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2006,
+    "age_rating": "M",
+    "critic_score": 63.0,
+    "user_score": 7.0,
+    "average_rating": 3.66,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0357",
+    "title": "Bionic Commando",
+    "developer": "GRIN",
+    "publisher": "Capcom",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "PS3",
+      "X360"
+    ],
+    "release_year": 2009,
+    "age_rating": "M",
+    "critic_score": 70.5,
+    "user_score": 7.3,
+    "average_rating": 3.88,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0358",
+    "title": "Grand Theft Auto",
+    "developer": "Digital Eclipse",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "GBA"
+    ],
+    "release_year": 2004,
+    "age_rating": "M",
+    "critic_score": 68.0,
+    "user_score": 7.1,
+    "average_rating": 3.78,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0359",
+    "title": "Metroid Prime",
+    "developer": "Retro Studios",
+    "publisher": "Nintendo",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 97.0,
+    "user_score": 9.3,
+    "average_rating": 4.8,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0360",
+    "title": "ESPN NFL Football",
+    "developer": "Visual Concepts",
+    "publisher": "Sega",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 91.0,
+    "user_score": 8.7,
+    "average_rating": 4.56,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0361",
+    "title": "Star Wars: Knights of the Old Republic",
+    "developer": "BioWare",
+    "publisher": "Activision",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "XB",
+      "PC"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 93.5,
+    "user_score": 9.1,
+    "average_rating": 4.69,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0362",
+    "title": "Marvel Super Hero Squad: The Infinity Gauntlet",
+    "developer": "THQ",
+    "publisher": "THQ",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2010,
+    "age_rating": "E10+",
+    "critic_score": 55.0,
+    "user_score": 6.3,
+    "average_rating": 3.36,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0363",
+    "title": "Sonic Colors",
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "Wii",
+      "DS"
+    ],
+    "release_year": 2010,
+    "age_rating": "E",
+    "critic_score": 78.5,
+    "user_score": 8.2,
+    "average_rating": 4.21,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0364",
+    "title": "Far Cry Instincts Evolution",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2006,
+    "age_rating": "M",
+    "critic_score": 78.0,
+    "user_score": 6.3,
+    "average_rating": 3.82,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0365",
+    "title": "Wii Sports Resort",
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2009,
+    "age_rating": "E",
+    "critic_score": 80.0,
+    "user_score": 8.0,
+    "average_rating": 4.2,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0366",
+    "title": "Ultimate Band",
+    "developer": "Disney Interactive Studios",
+    "publisher": "Disney Interactive Studios",
+    "genres": [
+      "Misc"
+    ],
+    "platforms": [
+      "Wii"
+    ],
+    "release_year": 2008,
+    "age_rating": "E10+",
+    "critic_score": 59.0,
+    "user_score": 5.5,
+    "average_rating": 3.28,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0367",
+    "title": "Panzer Dragoon Orta",
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 90.0,
+    "user_score": 8.5,
+    "average_rating": 4.5,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0368",
+    "title": "Dark Void",
+    "developer": "Airtight Games",
+    "publisher": "Capcom",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 58.3,
+    "user_score": 5.7,
+    "average_rating": 3.31,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0369",
+    "title": "Monster Tale",
+    "developer": "DreamRift",
+    "publisher": "Majesco Entertainment",
+    "genres": [
+      "Platform"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E",
+    "critic_score": 79.0,
+    "user_score": 8.0,
+    "average_rating": 4.18,
+    "total_players": 19
+  },
+  {
+    "game_id": "g_0370",
+    "title": "Call Of Duty 2: Big Red One",
+    "developer": "Treyarch",
+    "publisher": "Activision",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GC"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 77.0,
+    "user_score": 7.1,
+    "average_rating": 3.95,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0371",
+    "title": "Gravity Falls: Legend of the Gnome Gemulets",
+    "developer": "Ubisoft Osaka",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2015,
+    "age_rating": "E",
+    "critic_score": 46.0,
+    "user_score": 5.8,
+    "average_rating": 3.08,
+    "total_players": 15
+  },
+  {
+    "game_id": "g_0372",
+    "title": "Stella Deus: The Gate of Eternity",
+    "developer": "Pinegrow",
+    "publisher": "505 Games",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2004,
+    "age_rating": "T",
+    "critic_score": 75.0,
+    "user_score": 8.0,
+    "average_rating": 4.1,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0373",
+    "title": "Metal Saga",
+    "developer": "Crea-Tech",
+    "publisher": "Success",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2005,
+    "age_rating": "T",
+    "critic_score": 62.0,
+    "user_score": 7.3,
+    "average_rating": 3.7,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0374",
+    "title": "Apex",
+    "developer": "Milestone S.r.l",
+    "publisher": "Atari",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "XB"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 74.0,
+    "user_score": 9.1,
+    "average_rating": 4.3,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0375",
+    "title": "Dark Cloud 2",
+    "developer": "Level 5",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 87.0,
+    "user_score": 9.1,
+    "average_rating": 4.56,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0376",
+    "title": "Mayhem 3D",
+    "developer": "Zoo Games",
+    "publisher": "Evolved Games",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 47.0,
+    "user_score": 8.6,
+    "average_rating": 3.66,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0377",
+    "title": "DC Universe Online",
+    "developer": "WBIE",
+    "publisher": "Sony Online Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS3",
+      "PC"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 69.5,
+    "user_score": 7.1,
+    "average_rating": 3.81,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0378",
+    "title": "Kinetica",
+    "developer": "SCE Santa Monica",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Racing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "T",
+    "critic_score": 77.0,
+    "user_score": 8.3,
+    "average_rating": 4.2,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0379",
+    "title": "Chicken Shoot",
+    "developer": "Destination Software",
+    "publisher": "Zoo Digital Publishing",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "Wii",
+      "DS"
+    ],
+    "release_year": 2007,
+    "age_rating": "E10+",
+    "critic_score": 23.0,
+    "user_score": 4.0,
+    "average_rating": 2.25,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0380",
+    "title": "Mega Man X7",
+    "developer": "Valuewave Co.",
+    "publisher": "Capcom",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "E",
+    "critic_score": 58.0,
+    "user_score": 5.1,
+    "average_rating": 3.18,
+    "total_players": 8
+  },
+  {
+    "game_id": "g_0381",
+    "title": "The Gunstringer",
+    "developer": "Twisted Pixel Games",
+    "publisher": "Microsoft Game Studios",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "X360"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 77.0,
+    "user_score": 8.1,
+    "average_rating": 4.16,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0382",
+    "title": "All-Star Baseball 2002",
+    "developer": "Acclaim Studios Austin",
+    "publisher": "Acclaim Entertainment",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "GC"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 71.5,
+    "user_score": 6.6,
+    "average_rating": 3.75,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0383",
+    "title": "Star Fox Adventures",
+    "developer": "Rare Ltd.",
+    "publisher": "Nintendo",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 82.0,
+    "user_score": 7.7,
+    "average_rating": 4.18,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0384",
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "developer": "Kojima Productions",
+    "publisher": "Konami Digital Entertainment",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS4",
+      "PS3",
+      "XOne",
+      "PC"
+    ],
+    "release_year": 2014,
+    "age_rating": "M",
+    "critic_score": 74.2,
+    "user_score": 6.3,
+    "average_rating": 3.74,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0385",
+    "title": "ESPN NBA 2K5",
+    "developer": "Visual Concepts",
+    "publisher": "Global Star",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2",
+      "XB"
+    ],
+    "release_year": 2004,
+    "age_rating": "E",
+    "critic_score": 84.0,
+    "user_score": 8.1,
+    "average_rating": 4.3,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0386",
+    "title": "Bleach: The 3rd Phantom",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "DS"
+    ],
+    "release_year": 2008,
+    "age_rating": "T",
+    "critic_score": 59.0,
+    "user_score": 8.0,
+    "average_rating": 3.78,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0387",
+    "title": "Xblaze: Lost Memories",
+    "developer": "Arc System Works",
+    "publisher": "Arc System Works",
+    "genres": [
+      "Adventure"
+    ],
+    "platforms": [
+      "PS3"
+    ],
+    "release_year": 2015,
+    "age_rating": "M",
+    "critic_score": 63.0,
+    "user_score": 6.2,
+    "average_rating": 3.5,
+    "total_players": 6
+  },
+  {
+    "game_id": "g_0388",
+    "title": "Lost Dimension",
+    "developer": "FuRyu",
+    "publisher": "Nippon Ichi Software",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSV",
+      "PS3"
+    ],
+    "release_year": 2014,
+    "age_rating": "T",
+    "critic_score": 71.5,
+    "user_score": 7.8,
+    "average_rating": 3.99,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0389",
+    "title": "Divinity II: Flames of Vengeance",
+    "developer": "Larian Studios",
+    "publisher": "DTP Entertainment",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2010,
+    "age_rating": "M",
+    "critic_score": 72.0,
+    "user_score": 8.3,
+    "average_rating": 4.1,
+    "total_players": 10
+  },
+  {
+    "game_id": "g_0390",
+    "title": "Medal of Honor: Frontline",
+    "developer": "EA LA",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PS2",
+      "XB",
+      "GC"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 83.0,
+    "user_score": 7.8,
+    "average_rating": 4.21,
+    "total_players": 9
+  },
+  {
+    "game_id": "g_0391",
+    "title": "Breath of Fire: Dragon Quarter",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2002,
+    "age_rating": "T",
+    "critic_score": 78.0,
+    "user_score": 6.9,
+    "average_rating": 3.94,
+    "total_players": 4
+  },
+  {
+    "game_id": "g_0392",
+    "title": "Grand Ages: Medieval",
+    "developer": "Gaming Minds Studios",
+    "publisher": "Kalypso Media",
+    "genres": [
+      "Strategy"
+    ],
+    "platforms": [
+      "PS4",
+      "PC"
+    ],
+    "release_year": 2015,
+    "age_rating": "T",
+    "critic_score": 63.5,
+    "user_score": 6.2,
+    "average_rating": 3.52,
+    "total_players": 18
+  },
+  {
+    "game_id": "g_0393",
+    "title": "Hot Shots Golf 3",
+    "developer": "Clap Hanz",
+    "publisher": "Sony Computer Entertainment",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2001,
+    "age_rating": "E",
+    "critic_score": 85.0,
+    "user_score": 8.9,
+    "average_rating": 4.48,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0394",
+    "title": "Need for Speed: The Run",
+    "developer": "Black Box",
+    "publisher": "Electronic Arts",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS3",
+      "X360",
+      "PC",
+      "Wii",
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "T",
+    "critic_score": 66.0,
+    "user_score": 5.6,
+    "average_rating": 3.43,
+    "total_players": 13
+  },
+  {
+    "game_id": "g_0395",
+    "title": "Nano Assault",
+    "developer": "Shin'en",
+    "publisher": "Majesco Entertainment",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "3DS"
+    ],
+    "release_year": 2011,
+    "age_rating": "E10+",
+    "critic_score": 75.0,
+    "user_score": 7.7,
+    "average_rating": 4.04,
+    "total_players": 11
+  },
+  {
+    "game_id": "g_0396",
+    "title": "ZombiU",
+    "developer": "Ubisoft Montpellier",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "WiiU"
+    ],
+    "release_year": 2012,
+    "age_rating": "M",
+    "critic_score": 77.0,
+    "user_score": 7.7,
+    "average_rating": 4.08,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0397",
+    "title": "IL-2 Sturmovik: Forgotten Battles",
+    "developer": "1C",
+    "publisher": "Ubisoft",
+    "genres": [
+      "Simulation"
+    ],
+    "platforms": [
+      "PC"
+    ],
+    "release_year": 2003,
+    "age_rating": "T",
+    "critic_score": 86.0,
+    "user_score": 8.6,
+    "average_rating": 4.44,
+    "total_players": 12
+  },
+  {
+    "game_id": "g_0398",
+    "title": "NBA 2K14",
+    "developer": "Visual Concepts",
+    "publisher": "Take-Two Interactive",
+    "genres": [
+      "Sports"
+    ],
+    "platforms": [
+      "X360",
+      "PS3",
+      "PS4",
+      "XOne"
+    ],
+    "release_year": 2013,
+    "age_rating": "E",
+    "critic_score": 85.5,
+    "user_score": 5.5,
+    "average_rating": 3.81,
+    "total_players": 7
+  },
+  {
+    "game_id": "g_0399",
+    "title": "Tenchu: Wrath of Heaven",
+    "developer": "K2 LLC",
+    "publisher": "Activision",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PS2"
+    ],
+    "release_year": 2003,
+    "age_rating": "M",
+    "critic_score": 79.0,
+    "user_score": 8.4,
+    "average_rating": 4.26,
+    "total_players": 5
+  },
+  {
+    "game_id": "g_0400",
+    "title": "Valkyria Chronicles II",
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genres": [
+      "Role-Playing"
+    ],
+    "platforms": [
+      "PSP"
+    ],
+    "release_year": 2010,
+    "age_rating": "T",
+    "critic_score": 83.0,
+    "user_score": 8.1,
+    "average_rating": 4.28,
+    "total_players": 4
+  }
+]

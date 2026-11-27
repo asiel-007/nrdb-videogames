@@ -1,0 +1,3598 @@
+[
+  {
+    "game_id": "g_0001",
+    "similar_id": "g_0009"
+  },
+  {
+    "game_id": "g_0001",
+    "similar_id": "g_0062"
+  },
+  {
+    "game_id": "g_0001",
+    "similar_id": "g_0107"
+  },
+  {
+    "game_id": "g_0002",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0002",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0002",
+    "similar_id": "g_0396"
+  },
+  {
+    "game_id": "g_0003",
+    "similar_id": "g_0318"
+  },
+  {
+    "game_id": "g_0003",
+    "similar_id": "g_0120"
+  },
+  {
+    "game_id": "g_0003",
+    "similar_id": "g_0222"
+  },
+  {
+    "game_id": "g_0004",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0004",
+    "similar_id": "g_0046"
+  },
+  {
+    "game_id": "g_0004",
+    "similar_id": "g_0072"
+  },
+  {
+    "game_id": "g_0005",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0005",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0005",
+    "similar_id": "g_0077"
+  },
+  {
+    "game_id": "g_0006",
+    "similar_id": "g_0133"
+  },
+  {
+    "game_id": "g_0006",
+    "similar_id": "g_0262"
+  },
+  {
+    "game_id": "g_0006",
+    "similar_id": "g_0366"
+  },
+  {
+    "game_id": "g_0007",
+    "similar_id": "g_0124"
+  },
+  {
+    "game_id": "g_0007",
+    "similar_id": "g_0179"
+  },
+  {
+    "game_id": "g_0007",
+    "similar_id": "g_0269"
+  },
+  {
+    "game_id": "g_0008",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0008",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0008",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0009",
+    "similar_id": "g_0023"
+  },
+  {
+    "game_id": "g_0009",
+    "similar_id": "g_0107"
+  },
+  {
+    "game_id": "g_0010",
+    "similar_id": "g_0350"
+  },
+  {
+    "game_id": "g_0010",
+    "similar_id": "g_0101"
+  },
+  {
+    "game_id": "g_0010",
+    "similar_id": "g_0139"
+  },
+  {
+    "game_id": "g_0011",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0011",
+    "similar_id": "g_0108"
+  },
+  {
+    "game_id": "g_0012",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0012",
+    "similar_id": "g_0346"
+  },
+  {
+    "game_id": "g_0012",
+    "similar_id": "g_0132"
+  },
+  {
+    "game_id": "g_0013",
+    "similar_id": "g_0188"
+  },
+  {
+    "game_id": "g_0013",
+    "similar_id": "g_0201"
+  },
+  {
+    "game_id": "g_0013",
+    "similar_id": "g_0366"
+  },
+  {
+    "game_id": "g_0014",
+    "similar_id": "g_0025"
+  },
+  {
+    "game_id": "g_0014",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0014",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0015",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0015",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0015",
+    "similar_id": "g_0172"
+  },
+  {
+    "game_id": "g_0016",
+    "similar_id": "g_0264"
+  },
+  {
+    "game_id": "g_0016",
+    "similar_id": "g_0021"
+  },
+  {
+    "game_id": "g_0016",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0017",
+    "similar_id": "g_0085"
+  },
+  {
+    "game_id": "g_0017",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0017",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0018",
+    "similar_id": "g_0089"
+  },
+  {
+    "game_id": "g_0018",
+    "similar_id": "g_0302"
+  },
+  {
+    "game_id": "g_0018",
+    "similar_id": "g_0330"
+  },
+  {
+    "game_id": "g_0019",
+    "similar_id": "g_0091"
+  },
+  {
+    "game_id": "g_0019",
+    "similar_id": "g_0116"
+  },
+  {
+    "game_id": "g_0020",
+    "similar_id": "g_0206"
+  },
+  {
+    "game_id": "g_0020",
+    "similar_id": "g_0243"
+  },
+  {
+    "game_id": "g_0020",
+    "similar_id": "g_0060"
+  },
+  {
+    "game_id": "g_0021",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0021",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0022",
+    "similar_id": "g_0103"
+  },
+  {
+    "game_id": "g_0022",
+    "similar_id": "g_0121"
+  },
+  {
+    "game_id": "g_0022",
+    "similar_id": "g_0202"
+  },
+  {
+    "game_id": "g_0023",
+    "similar_id": "g_0027"
+  },
+  {
+    "game_id": "g_0023",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0024",
+    "similar_id": "g_0155"
+  },
+  {
+    "game_id": "g_0024",
+    "similar_id": "g_0341"
+  },
+  {
+    "game_id": "g_0024",
+    "similar_id": "g_0179"
+  },
+  {
+    "game_id": "g_0025",
+    "similar_id": "g_0213"
+  },
+  {
+    "game_id": "g_0025",
+    "similar_id": "g_0041"
+  },
+  {
+    "game_id": "g_0026",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0026",
+    "similar_id": "g_0076"
+  },
+  {
+    "game_id": "g_0026",
+    "similar_id": "g_0252"
+  },
+  {
+    "game_id": "g_0027",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0027",
+    "similar_id": "g_0276"
+  },
+  {
+    "game_id": "g_0028",
+    "similar_id": "g_0032"
+  },
+  {
+    "game_id": "g_0028",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0028",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0029",
+    "similar_id": "g_0282"
+  },
+  {
+    "game_id": "g_0029",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0029",
+    "similar_id": "g_0059"
+  },
+  {
+    "game_id": "g_0030",
+    "similar_id": "g_0321"
+  },
+  {
+    "game_id": "g_0030",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0031",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0031",
+    "similar_id": "g_0004"
+  },
+  {
+    "game_id": "g_0031",
+    "similar_id": "g_0046"
+  },
+  {
+    "game_id": "g_0032",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0032",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0033",
+    "similar_id": "g_0084"
+  },
+  {
+    "game_id": "g_0033",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0033",
+    "similar_id": "g_0149"
+  },
+  {
+    "game_id": "g_0034",
+    "similar_id": "g_0085"
+  },
+  {
+    "game_id": "g_0034",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0034",
+    "similar_id": "g_0128"
+  },
+  {
+    "game_id": "g_0035",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0035",
+    "similar_id": "g_0183"
+  },
+  {
+    "game_id": "g_0035",
+    "similar_id": "g_0188"
+  },
+  {
+    "game_id": "g_0036",
+    "similar_id": "g_0090"
+  },
+  {
+    "game_id": "g_0036",
+    "similar_id": "g_0321"
+  },
+  {
+    "game_id": "g_0036",
+    "similar_id": "g_0398"
+  },
+  {
+    "game_id": "g_0037",
+    "similar_id": "g_0079"
+  },
+  {
+    "game_id": "g_0037",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0037",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0038",
+    "similar_id": "g_0074"
+  },
+  {
+    "game_id": "g_0038",
+    "similar_id": "g_0102"
+  },
+  {
+    "game_id": "g_0038",
+    "similar_id": "g_0337"
+  },
+  {
+    "game_id": "g_0039",
+    "similar_id": "g_0047"
+  },
+  {
+    "game_id": "g_0039",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0040",
+    "similar_id": "g_0306"
+  },
+  {
+    "game_id": "g_0040",
+    "similar_id": "g_0393"
+  },
+  {
+    "game_id": "g_0040",
+    "similar_id": "g_0005"
+  },
+  {
+    "game_id": "g_0041",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0041",
+    "similar_id": "g_0047"
+  },
+  {
+    "game_id": "g_0042",
+    "similar_id": "g_0076"
+  },
+  {
+    "game_id": "g_0042",
+    "similar_id": "g_0209"
+  },
+  {
+    "game_id": "g_0043",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0043",
+    "similar_id": "g_0286"
+  },
+  {
+    "game_id": "g_0043",
+    "similar_id": "g_0288"
+  },
+  {
+    "game_id": "g_0044",
+    "similar_id": "g_0092"
+  },
+  {
+    "game_id": "g_0044",
+    "similar_id": "g_0145"
+  },
+  {
+    "game_id": "g_0044",
+    "similar_id": "g_0160"
+  },
+  {
+    "game_id": "g_0045",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0045",
+    "similar_id": "g_0107"
+  },
+  {
+    "game_id": "g_0045",
+    "similar_id": "g_0132"
+  },
+  {
+    "game_id": "g_0046",
+    "similar_id": "g_0072"
+  },
+  {
+    "game_id": "g_0046",
+    "similar_id": "g_0119"
+  },
+  {
+    "game_id": "g_0047",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0047",
+    "similar_id": "g_0164"
+  },
+  {
+    "game_id": "g_0048",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0048",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0048",
+    "similar_id": "g_0159"
+  },
+  {
+    "game_id": "g_0049",
+    "similar_id": "g_0159"
+  },
+  {
+    "game_id": "g_0049",
+    "similar_id": "g_0244"
+  },
+  {
+    "game_id": "g_0050",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0050",
+    "similar_id": "g_0134"
+  },
+  {
+    "game_id": "g_0050",
+    "similar_id": "g_0136"
+  },
+  {
+    "game_id": "g_0051",
+    "similar_id": "g_0156"
+  },
+  {
+    "game_id": "g_0051",
+    "similar_id": "g_0005"
+  },
+  {
+    "game_id": "g_0051",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0052",
+    "similar_id": "g_0022"
+  },
+  {
+    "game_id": "g_0052",
+    "similar_id": "g_0033"
+  },
+  {
+    "game_id": "g_0052",
+    "similar_id": "g_0084"
+  },
+  {
+    "game_id": "g_0053",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0054",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0054",
+    "similar_id": "g_0118"
+  },
+  {
+    "game_id": "g_0054",
+    "similar_id": "g_0151"
+  },
+  {
+    "game_id": "g_0055",
+    "similar_id": "g_0230"
+  },
+  {
+    "game_id": "g_0055",
+    "similar_id": "g_0069"
+  },
+  {
+    "game_id": "g_0055",
+    "similar_id": "g_0095"
+  },
+  {
+    "game_id": "g_0056",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0056",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0056",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0057",
+    "similar_id": "g_0092"
+  },
+  {
+    "game_id": "g_0057",
+    "similar_id": "g_0203"
+  },
+  {
+    "game_id": "g_0058",
+    "similar_id": "g_0022"
+  },
+  {
+    "game_id": "g_0058",
+    "similar_id": "g_0066"
+  },
+  {
+    "game_id": "g_0058",
+    "similar_id": "g_0103"
+  },
+  {
+    "game_id": "g_0059",
+    "similar_id": "g_0222"
+  },
+  {
+    "game_id": "g_0059",
+    "similar_id": "g_0249"
+  },
+  {
+    "game_id": "g_0059",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0060",
+    "similar_id": "g_0104"
+  },
+  {
+    "game_id": "g_0060",
+    "similar_id": "g_0193"
+  },
+  {
+    "game_id": "g_0060",
+    "similar_id": "g_0319"
+  },
+  {
+    "game_id": "g_0061",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0061",
+    "similar_id": "g_0281"
+  },
+  {
+    "game_id": "g_0061",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0062",
+    "similar_id": "g_0157"
+  },
+  {
+    "game_id": "g_0062",
+    "similar_id": "g_0326"
+  },
+  {
+    "game_id": "g_0063",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0063",
+    "similar_id": "g_0119"
+  },
+  {
+    "game_id": "g_0064",
+    "similar_id": "g_0037"
+  },
+  {
+    "game_id": "g_0064",
+    "similar_id": "g_0079"
+  },
+  {
+    "game_id": "g_0064",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0065",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0065",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0066",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0066",
+    "similar_id": "g_0176"
+  },
+  {
+    "game_id": "g_0066",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0068",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0068",
+    "similar_id": "g_0172"
+  },
+  {
+    "game_id": "g_0069",
+    "similar_id": "g_0087"
+  },
+  {
+    "game_id": "g_0069",
+    "similar_id": "g_0253"
+  },
+  {
+    "game_id": "g_0069",
+    "similar_id": "g_0304"
+  },
+  {
+    "game_id": "g_0070",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0070",
+    "similar_id": "g_0260"
+  },
+  {
+    "game_id": "g_0070",
+    "similar_id": "g_0274"
+  },
+  {
+    "game_id": "g_0071",
+    "similar_id": "g_0138"
+  },
+  {
+    "game_id": "g_0072",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0073",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0073",
+    "similar_id": "g_0291"
+  },
+  {
+    "game_id": "g_0073",
+    "similar_id": "g_0089"
+  },
+  {
+    "game_id": "g_0074",
+    "similar_id": "g_0337"
+  },
+  {
+    "game_id": "g_0074",
+    "similar_id": "g_0069"
+  },
+  {
+    "game_id": "g_0075",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0075",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0075",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0076",
+    "similar_id": "g_0280"
+  },
+  {
+    "game_id": "g_0077",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0077",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0078",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0078",
+    "similar_id": "g_0125"
+  },
+  {
+    "game_id": "g_0078",
+    "similar_id": "g_0128"
+  },
+  {
+    "game_id": "g_0079",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0079",
+    "similar_id": "g_0250"
+  },
+  {
+    "game_id": "g_0081",
+    "similar_id": "g_0135"
+  },
+  {
+    "game_id": "g_0081",
+    "similar_id": "g_0114"
+  },
+  {
+    "game_id": "g_0081",
+    "similar_id": "g_0299"
+  },
+  {
+    "game_id": "g_0082",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0082",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0082",
+    "similar_id": "g_0031"
+  },
+  {
+    "game_id": "g_0083",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0083",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0083",
+    "similar_id": "g_0218"
+  },
+  {
+    "game_id": "g_0084",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0084",
+    "similar_id": "g_0166"
+  },
+  {
+    "game_id": "g_0085",
+    "similar_id": "g_0123"
+  },
+  {
+    "game_id": "g_0086",
+    "similar_id": "g_0297"
+  },
+  {
+    "game_id": "g_0086",
+    "similar_id": "g_0026"
+  },
+  {
+    "game_id": "g_0086",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0087",
+    "similar_id": "g_0304"
+  },
+  {
+    "game_id": "g_0087",
+    "similar_id": "g_0357"
+  },
+  {
+    "game_id": "g_0088",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0088",
+    "similar_id": "g_0128"
+  },
+  {
+    "game_id": "g_0089",
+    "similar_id": "g_0302"
+  },
+  {
+    "game_id": "g_0090",
+    "similar_id": "g_0321"
+  },
+  {
+    "game_id": "g_0090",
+    "similar_id": "g_0398"
+  },
+  {
+    "game_id": "g_0091",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0091",
+    "similar_id": "g_0332"
+  },
+  {
+    "game_id": "g_0092",
+    "similar_id": "g_0292"
+  },
+  {
+    "game_id": "g_0092",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0093",
+    "similar_id": "g_0121"
+  },
+  {
+    "game_id": "g_0094",
+    "similar_id": "g_0360"
+  },
+  {
+    "game_id": "g_0094",
+    "similar_id": "g_0385"
+  },
+  {
+    "game_id": "g_0094",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0095",
+    "similar_id": "g_0310"
+  },
+  {
+    "game_id": "g_0095",
+    "similar_id": "g_0102"
+  },
+  {
+    "game_id": "g_0096",
+    "similar_id": "g_0062"
+  },
+  {
+    "game_id": "g_0096",
+    "similar_id": "g_0141"
+  },
+  {
+    "game_id": "g_0096",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0097",
+    "similar_id": "g_0125"
+  },
+  {
+    "game_id": "g_0098",
+    "similar_id": "g_0153"
+  },
+  {
+    "game_id": "g_0098",
+    "similar_id": "g_0170"
+  },
+  {
+    "game_id": "g_0098",
+    "similar_id": "g_0002"
+  },
+  {
+    "game_id": "g_0099",
+    "similar_id": "g_0241"
+  },
+  {
+    "game_id": "g_0099",
+    "similar_id": "g_0219"
+  },
+  {
+    "game_id": "g_0099",
+    "similar_id": "g_0007"
+  },
+  {
+    "game_id": "g_0100",
+    "similar_id": "g_0074"
+  },
+  {
+    "game_id": "g_0100",
+    "similar_id": "g_0102"
+  },
+  {
+    "game_id": "g_0100",
+    "similar_id": "g_0185"
+  },
+  {
+    "game_id": "g_0101",
+    "similar_id": "g_0216"
+  },
+  {
+    "game_id": "g_0101",
+    "similar_id": "g_0139"
+  },
+  {
+    "game_id": "g_0103",
+    "similar_id": "g_0121"
+  },
+  {
+    "game_id": "g_0103",
+    "similar_id": "g_0202"
+  },
+  {
+    "game_id": "g_0104",
+    "similar_id": "g_0193"
+  },
+  {
+    "game_id": "g_0104",
+    "similar_id": "g_0386"
+  },
+  {
+    "game_id": "g_0105",
+    "similar_id": "g_0048"
+  },
+  {
+    "game_id": "g_0105",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0105",
+    "similar_id": "g_0156"
+  },
+  {
+    "game_id": "g_0106",
+    "similar_id": "g_0116"
+  },
+  {
+    "game_id": "g_0106",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0106",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0107",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0108",
+    "similar_id": "g_0004"
+  },
+  {
+    "game_id": "g_0108",
+    "similar_id": "g_0046"
+  },
+  {
+    "game_id": "g_0109",
+    "similar_id": "g_0127"
+  },
+  {
+    "game_id": "g_0109",
+    "similar_id": "g_0274"
+  },
+  {
+    "game_id": "g_0110",
+    "similar_id": "g_0352"
+  },
+  {
+    "game_id": "g_0111",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0112",
+    "similar_id": "g_0211"
+  },
+  {
+    "game_id": "g_0112",
+    "similar_id": "g_0325"
+  },
+  {
+    "game_id": "g_0112",
+    "similar_id": "g_0339"
+  },
+  {
+    "game_id": "g_0113",
+    "similar_id": "g_0183"
+  },
+  {
+    "game_id": "g_0113",
+    "similar_id": "g_0262"
+  },
+  {
+    "game_id": "g_0113",
+    "similar_id": "g_0287"
+  },
+  {
+    "game_id": "g_0114",
+    "similar_id": "g_0135"
+  },
+  {
+    "game_id": "g_0114",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0115",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0115",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0115",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0116",
+    "similar_id": "g_0195"
+  },
+  {
+    "game_id": "g_0117",
+    "similar_id": "g_0144"
+  },
+  {
+    "game_id": "g_0117",
+    "similar_id": "g_0152"
+  },
+  {
+    "game_id": "g_0117",
+    "similar_id": "g_0216"
+  },
+  {
+    "game_id": "g_0118",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0118",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0119",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0120",
+    "similar_id": "g_0197"
+  },
+  {
+    "game_id": "g_0120",
+    "similar_id": "g_0271"
+  },
+  {
+    "game_id": "g_0122",
+    "similar_id": "g_0278"
+  },
+  {
+    "game_id": "g_0122",
+    "similar_id": "g_0294"
+  },
+  {
+    "game_id": "g_0122",
+    "similar_id": "g_0084"
+  },
+  {
+    "game_id": "g_0123",
+    "similar_id": "g_0361"
+  },
+  {
+    "game_id": "g_0123",
+    "similar_id": "g_0020"
+  },
+  {
+    "game_id": "g_0124",
+    "similar_id": "g_0269"
+  },
+  {
+    "game_id": "g_0124",
+    "similar_id": "g_0377"
+  },
+  {
+    "game_id": "g_0125",
+    "similar_id": "g_0375"
+  },
+  {
+    "game_id": "g_0126",
+    "similar_id": "g_0383"
+  },
+  {
+    "game_id": "g_0126",
+    "similar_id": "g_0010"
+  },
+  {
+    "game_id": "g_0126",
+    "similar_id": "g_0101"
+  },
+  {
+    "game_id": "g_0127",
+    "similar_id": "g_0274"
+  },
+  {
+    "game_id": "g_0127",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0129",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0131",
+    "similar_id": "g_0142"
+  },
+  {
+    "game_id": "g_0131",
+    "similar_id": "g_0320"
+  },
+  {
+    "game_id": "g_0131",
+    "similar_id": "g_0017"
+  },
+  {
+    "game_id": "g_0132",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0132",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0133",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0133",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0134",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0134",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0135",
+    "similar_id": "g_0233"
+  },
+  {
+    "game_id": "g_0136",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0136",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0137",
+    "similar_id": "g_0020"
+  },
+  {
+    "game_id": "g_0137",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0137",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0138",
+    "similar_id": "g_0154"
+  },
+  {
+    "game_id": "g_0138",
+    "similar_id": "g_0213"
+  },
+  {
+    "game_id": "g_0139",
+    "similar_id": "g_0335"
+  },
+  {
+    "game_id": "g_0140",
+    "similar_id": "g_0246"
+  },
+  {
+    "game_id": "g_0140",
+    "similar_id": "g_0017"
+  },
+  {
+    "game_id": "g_0140",
+    "similar_id": "g_0137"
+  },
+  {
+    "game_id": "g_0141",
+    "similar_id": "g_0194"
+  },
+  {
+    "game_id": "g_0141",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0141",
+    "similar_id": "g_0062"
+  },
+  {
+    "game_id": "g_0142",
+    "similar_id": "g_0343"
+  },
+  {
+    "game_id": "g_0142",
+    "similar_id": "g_0320"
+  },
+  {
+    "game_id": "g_0143",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0143",
+    "similar_id": "g_0272"
+  },
+  {
+    "game_id": "g_0143",
+    "similar_id": "g_0290"
+  },
+  {
+    "game_id": "g_0144",
+    "similar_id": "g_0258"
+  },
+  {
+    "game_id": "g_0144",
+    "similar_id": "g_0152"
+  },
+  {
+    "game_id": "g_0145",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0145",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0145",
+    "similar_id": "g_0133"
+  },
+  {
+    "game_id": "g_0146",
+    "similar_id": "g_0026"
+  },
+  {
+    "game_id": "g_0146",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0146",
+    "similar_id": "g_0076"
+  },
+  {
+    "game_id": "g_0147",
+    "similar_id": "g_0073"
+  },
+  {
+    "game_id": "g_0147",
+    "similar_id": "g_0089"
+  },
+  {
+    "game_id": "g_0147",
+    "similar_id": "g_0302"
+  },
+  {
+    "game_id": "g_0148",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0148",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0148",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0149",
+    "similar_id": "g_0166"
+  },
+  {
+    "game_id": "g_0149",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0150",
+    "similar_id": "g_0033"
+  },
+  {
+    "game_id": "g_0150",
+    "similar_id": "g_0149"
+  },
+  {
+    "game_id": "g_0150",
+    "similar_id": "g_0294"
+  },
+  {
+    "game_id": "g_0151",
+    "similar_id": "g_0255"
+  },
+  {
+    "game_id": "g_0151",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0152",
+    "similar_id": "g_0258"
+  },
+  {
+    "game_id": "g_0153",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0153",
+    "similar_id": "g_0170"
+  },
+  {
+    "game_id": "g_0154",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0154",
+    "similar_id": "g_0213"
+  },
+  {
+    "game_id": "g_0155",
+    "similar_id": "g_0125"
+  },
+  {
+    "game_id": "g_0155",
+    "similar_id": "g_0341"
+  },
+  {
+    "game_id": "g_0156",
+    "similar_id": "g_0048"
+  },
+  {
+    "game_id": "g_0157",
+    "similar_id": "g_0326"
+  },
+  {
+    "game_id": "g_0157",
+    "similar_id": "g_0027"
+  },
+  {
+    "game_id": "g_0158",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0158",
+    "similar_id": "g_0214"
+  },
+  {
+    "game_id": "g_0158",
+    "similar_id": "g_0284"
+  },
+  {
+    "game_id": "g_0159",
+    "similar_id": "g_0005"
+  },
+  {
+    "game_id": "g_0160",
+    "similar_id": "g_0013"
+  },
+  {
+    "game_id": "g_0160",
+    "similar_id": "g_0092"
+  },
+  {
+    "game_id": "g_0160",
+    "similar_id": "g_0201"
+  },
+  {
+    "game_id": "g_0161",
+    "similar_id": "g_0386"
+  },
+  {
+    "game_id": "g_0161",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0161",
+    "similar_id": "g_0060"
+  },
+  {
+    "game_id": "g_0162",
+    "similar_id": "g_0214"
+  },
+  {
+    "game_id": "g_0162",
+    "similar_id": "g_0284"
+  },
+  {
+    "game_id": "g_0162",
+    "similar_id": "g_0033"
+  },
+  {
+    "game_id": "g_0163",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0164",
+    "similar_id": "g_0364"
+  },
+  {
+    "game_id": "g_0164",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0164",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0165",
+    "similar_id": "g_0286"
+  },
+  {
+    "game_id": "g_0165",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0165",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0166",
+    "similar_id": "g_0033"
+  },
+  {
+    "game_id": "g_0166",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0167",
+    "similar_id": "g_0232"
+  },
+  {
+    "game_id": "g_0167",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0167",
+    "similar_id": "g_0012"
+  },
+  {
+    "game_id": "g_0168",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0168",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0168",
+    "similar_id": "g_0077"
+  },
+  {
+    "game_id": "g_0169",
+    "similar_id": "g_0248"
+  },
+  {
+    "game_id": "g_0169",
+    "similar_id": "g_0370"
+  },
+  {
+    "game_id": "g_0169",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0170",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0171",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0171",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0171",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0172",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0173",
+    "similar_id": "g_0279"
+  },
+  {
+    "game_id": "g_0173",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0173",
+    "similar_id": "g_0132"
+  },
+  {
+    "game_id": "g_0174",
+    "similar_id": "g_0317"
+  },
+  {
+    "game_id": "g_0174",
+    "similar_id": "g_0333"
+  },
+  {
+    "game_id": "g_0174",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0175",
+    "similar_id": "g_0247"
+  },
+  {
+    "game_id": "g_0175",
+    "similar_id": "g_0327"
+  },
+  {
+    "game_id": "g_0175",
+    "similar_id": "g_0002"
+  },
+  {
+    "game_id": "g_0176",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0176",
+    "similar_id": "g_0143"
+  },
+  {
+    "game_id": "g_0177",
+    "similar_id": "g_0181"
+  },
+  {
+    "game_id": "g_0177",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0177",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0178",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0178",
+    "similar_id": "g_0025"
+  },
+  {
+    "game_id": "g_0178",
+    "similar_id": "g_0041"
+  },
+  {
+    "game_id": "g_0179",
+    "similar_id": "g_0353"
+  },
+  {
+    "game_id": "g_0179",
+    "similar_id": "g_0377"
+  },
+  {
+    "game_id": "g_0180",
+    "similar_id": "g_0371"
+  },
+  {
+    "game_id": "g_0180",
+    "similar_id": "g_0016"
+  },
+  {
+    "game_id": "g_0180",
+    "similar_id": "g_0021"
+  },
+  {
+    "game_id": "g_0181",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0181",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0182",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0182",
+    "similar_id": "g_0075"
+  },
+  {
+    "game_id": "g_0182",
+    "similar_id": "g_0106"
+  },
+  {
+    "game_id": "g_0183",
+    "similar_id": "g_0188"
+  },
+  {
+    "game_id": "g_0184",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0184",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0184",
+    "similar_id": "g_0047"
+  },
+  {
+    "game_id": "g_0185",
+    "similar_id": "g_0310"
+  },
+  {
+    "game_id": "g_0185",
+    "similar_id": "g_0095"
+  },
+  {
+    "game_id": "g_0186",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0186",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0186",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0187",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0187",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0187",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0188",
+    "similar_id": "g_0201"
+  },
+  {
+    "game_id": "g_0189",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0189",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0189",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0190",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0190",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0190",
+    "similar_id": "g_0113"
+  },
+  {
+    "game_id": "g_0191",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0191",
+    "similar_id": "g_0032"
+  },
+  {
+    "game_id": "g_0191",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0192",
+    "similar_id": "g_0190"
+  },
+  {
+    "game_id": "g_0192",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0192",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0193",
+    "similar_id": "g_0319"
+  },
+  {
+    "game_id": "g_0194",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0194",
+    "similar_id": "g_0107"
+  },
+  {
+    "game_id": "g_0195",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0195",
+    "similar_id": "g_0164"
+  },
+  {
+    "game_id": "g_0197",
+    "similar_id": "g_0271"
+  },
+  {
+    "game_id": "g_0197",
+    "similar_id": "g_0315"
+  },
+  {
+    "game_id": "g_0198",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0198",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0198",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0199",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0199",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0199",
+    "similar_id": "g_0047"
+  },
+  {
+    "game_id": "g_0200",
+    "similar_id": "g_0269"
+  },
+  {
+    "game_id": "g_0200",
+    "similar_id": "g_0007"
+  },
+  {
+    "game_id": "g_0200",
+    "similar_id": "g_0124"
+  },
+  {
+    "game_id": "g_0201",
+    "similar_id": "g_0366"
+  },
+  {
+    "game_id": "g_0202",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0203",
+    "similar_id": "g_0256"
+  },
+  {
+    "game_id": "g_0203",
+    "similar_id": "g_0287"
+  },
+  {
+    "game_id": "g_0204",
+    "similar_id": "g_0323"
+  },
+  {
+    "game_id": "g_0204",
+    "similar_id": "g_0205"
+  },
+  {
+    "game_id": "g_0204",
+    "similar_id": "g_0117"
+  },
+  {
+    "game_id": "g_0205",
+    "similar_id": "g_0323"
+  },
+  {
+    "game_id": "g_0205",
+    "similar_id": "g_0383"
+  },
+  {
+    "game_id": "g_0206",
+    "similar_id": "g_0263"
+  },
+  {
+    "game_id": "g_0206",
+    "similar_id": "g_0361"
+  },
+  {
+    "game_id": "g_0207",
+    "similar_id": "g_0004"
+  },
+  {
+    "game_id": "g_0207",
+    "similar_id": "g_0046"
+  },
+  {
+    "game_id": "g_0208",
+    "similar_id": "g_0026"
+  },
+  {
+    "game_id": "g_0208",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0208",
+    "similar_id": "g_0076"
+  },
+  {
+    "game_id": "g_0209",
+    "similar_id": "g_0280"
+  },
+  {
+    "game_id": "g_0209",
+    "similar_id": "g_0026"
+  },
+  {
+    "game_id": "g_0211",
+    "similar_id": "g_0325"
+  },
+  {
+    "game_id": "g_0211",
+    "similar_id": "g_0339"
+  },
+  {
+    "game_id": "g_0212",
+    "similar_id": "g_0050"
+  },
+  {
+    "game_id": "g_0212",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0212",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0213",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0214",
+    "similar_id": "g_0284"
+  },
+  {
+    "game_id": "g_0215",
+    "similar_id": "g_0037"
+  },
+  {
+    "game_id": "g_0215",
+    "similar_id": "g_0079"
+  },
+  {
+    "game_id": "g_0215",
+    "similar_id": "g_0073"
+  },
+  {
+    "game_id": "g_0216",
+    "similar_id": "g_0350"
+  },
+  {
+    "game_id": "g_0216",
+    "similar_id": "g_0387"
+  },
+  {
+    "game_id": "g_0217",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0217",
+    "similar_id": "g_0116"
+  },
+  {
+    "game_id": "g_0217",
+    "similar_id": "g_0195"
+  },
+  {
+    "game_id": "g_0218",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0218",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0219",
+    "similar_id": "g_0320"
+  },
+  {
+    "game_id": "g_0219",
+    "similar_id": "g_0388"
+  },
+  {
+    "game_id": "g_0220",
+    "similar_id": "g_0077"
+  },
+  {
+    "game_id": "g_0220",
+    "similar_id": "g_0005"
+  },
+  {
+    "game_id": "g_0220",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0221",
+    "similar_id": "g_0309"
+  },
+  {
+    "game_id": "g_0221",
+    "similar_id": "g_0347"
+  },
+  {
+    "game_id": "g_0221",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0222",
+    "similar_id": "g_0273"
+  },
+  {
+    "game_id": "g_0224",
+    "similar_id": "g_0001"
+  },
+  {
+    "game_id": "g_0224",
+    "similar_id": "g_0023"
+  },
+  {
+    "game_id": "g_0224",
+    "similar_id": "g_0027"
+  },
+  {
+    "game_id": "g_0225",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0225",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0225",
+    "similar_id": "g_0277"
+  },
+  {
+    "game_id": "g_0226",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0226",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0226",
+    "similar_id": "g_0119"
+  },
+  {
+    "game_id": "g_0227",
+    "similar_id": "g_0303"
+  },
+  {
+    "game_id": "g_0227",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0227",
+    "similar_id": "g_0138"
+  },
+  {
+    "game_id": "g_0228",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0228",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0228",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0230",
+    "similar_id": "g_0095"
+  },
+  {
+    "game_id": "g_0230",
+    "similar_id": "g_0231"
+  },
+  {
+    "game_id": "g_0231",
+    "similar_id": "g_0310"
+  },
+  {
+    "game_id": "g_0231",
+    "similar_id": "g_0055"
+  },
+  {
+    "game_id": "g_0231",
+    "similar_id": "g_0095"
+  },
+  {
+    "game_id": "g_0232",
+    "similar_id": "g_0001"
+  },
+  {
+    "game_id": "g_0232",
+    "similar_id": "g_0009"
+  },
+  {
+    "game_id": "g_0233",
+    "similar_id": "g_0295"
+  },
+  {
+    "game_id": "g_0233",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0233",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0234",
+    "similar_id": "g_0032"
+  },
+  {
+    "game_id": "g_0234",
+    "similar_id": "g_0191"
+  },
+  {
+    "game_id": "g_0234",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0235",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0235",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0235",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0236",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0236",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0236",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0237",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0237",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0237",
+    "similar_id": "g_0105"
+  },
+  {
+    "game_id": "g_0238",
+    "similar_id": "g_0066"
+  },
+  {
+    "game_id": "g_0238",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0238",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0239",
+    "similar_id": "g_0327"
+  },
+  {
+    "game_id": "g_0239",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0239",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0240",
+    "similar_id": "g_0016"
+  },
+  {
+    "game_id": "g_0240",
+    "similar_id": "g_0002"
+  },
+  {
+    "game_id": "g_0240",
+    "similar_id": "g_0021"
+  },
+  {
+    "game_id": "g_0241",
+    "similar_id": "g_0007"
+  },
+  {
+    "game_id": "g_0241",
+    "similar_id": "g_0060"
+  },
+  {
+    "game_id": "g_0242",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0242",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0242",
+    "similar_id": "g_0276"
+  },
+  {
+    "game_id": "g_0243",
+    "similar_id": "g_0206"
+  },
+  {
+    "game_id": "g_0243",
+    "similar_id": "g_0361"
+  },
+  {
+    "game_id": "g_0244",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0244",
+    "similar_id": "g_0048"
+  },
+  {
+    "game_id": "g_0245",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0245",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0245",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0246",
+    "similar_id": "g_0017"
+  },
+  {
+    "game_id": "g_0246",
+    "similar_id": "g_0137"
+  },
+  {
+    "game_id": "g_0247",
+    "similar_id": "g_0270"
+  },
+  {
+    "game_id": "g_0247",
+    "similar_id": "g_0327"
+  },
+  {
+    "game_id": "g_0248",
+    "similar_id": "g_0303"
+  },
+  {
+    "game_id": "g_0248",
+    "similar_id": "g_0370"
+  },
+  {
+    "game_id": "g_0249",
+    "similar_id": "g_0282"
+  },
+  {
+    "game_id": "g_0249",
+    "similar_id": "g_0392"
+  },
+  {
+    "game_id": "g_0250",
+    "similar_id": "g_0037"
+  },
+  {
+    "game_id": "g_0250",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0251",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0251",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0251",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0252",
+    "similar_id": "g_0280"
+  },
+  {
+    "game_id": "g_0252",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0253",
+    "similar_id": "g_0363"
+  },
+  {
+    "game_id": "g_0253",
+    "similar_id": "g_0055"
+  },
+  {
+    "game_id": "g_0254",
+    "similar_id": "g_0340"
+  },
+  {
+    "game_id": "g_0254",
+    "similar_id": "g_0346"
+  },
+  {
+    "game_id": "g_0254",
+    "similar_id": "g_0012"
+  },
+  {
+    "game_id": "g_0255",
+    "similar_id": "g_0054"
+  },
+  {
+    "game_id": "g_0255",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0256",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0256",
+    "similar_id": "g_0113"
+  },
+  {
+    "game_id": "g_0257",
+    "similar_id": "g_0398"
+  },
+  {
+    "game_id": "g_0257",
+    "similar_id": "g_0314"
+  },
+  {
+    "game_id": "g_0257",
+    "similar_id": "g_0317"
+  },
+  {
+    "game_id": "g_0258",
+    "similar_id": "g_0117"
+  },
+  {
+    "game_id": "g_0259",
+    "similar_id": "g_0321"
+  },
+  {
+    "game_id": "g_0259",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0259",
+    "similar_id": "g_0036"
+  },
+  {
+    "game_id": "g_0260",
+    "similar_id": "g_0050"
+  },
+  {
+    "game_id": "g_0260",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0261",
+    "similar_id": "g_0136"
+  },
+  {
+    "game_id": "g_0261",
+    "similar_id": "g_0050"
+  },
+  {
+    "game_id": "g_0261",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0262",
+    "similar_id": "g_0133"
+  },
+  {
+    "game_id": "g_0263",
+    "similar_id": "g_0361"
+  },
+  {
+    "game_id": "g_0263",
+    "similar_id": "g_0353"
+  },
+  {
+    "game_id": "g_0264",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0264",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0265",
+    "similar_id": "g_0250"
+  },
+  {
+    "game_id": "g_0265",
+    "similar_id": "g_0037"
+  },
+  {
+    "game_id": "g_0265",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0266",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0266",
+    "similar_id": "g_0283"
+  },
+  {
+    "game_id": "g_0266",
+    "similar_id": "g_0352"
+  },
+  {
+    "game_id": "g_0267",
+    "similar_id": "g_0033"
+  },
+  {
+    "game_id": "g_0267",
+    "similar_id": "g_0084"
+  },
+  {
+    "game_id": "g_0267",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0268",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0268",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0268",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0270",
+    "similar_id": "g_0327"
+  },
+  {
+    "game_id": "g_0270",
+    "similar_id": "g_0002"
+  },
+  {
+    "game_id": "g_0271",
+    "similar_id": "g_0315"
+  },
+  {
+    "game_id": "g_0272",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0272",
+    "similar_id": "g_0290"
+  },
+  {
+    "game_id": "g_0273",
+    "similar_id": "g_0305"
+  },
+  {
+    "game_id": "g_0273",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0273",
+    "similar_id": "g_0197"
+  },
+  {
+    "game_id": "g_0274",
+    "similar_id": "g_0004"
+  },
+  {
+    "game_id": "g_0275",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0275",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0275",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0276",
+    "similar_id": "g_0023"
+  },
+  {
+    "game_id": "g_0277",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0277",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0277",
+    "similar_id": "g_0128"
+  },
+  {
+    "game_id": "g_0278",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0278",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0279",
+    "similar_id": "g_0045"
+  },
+  {
+    "game_id": "g_0279",
+    "similar_id": "g_0132"
+  },
+  {
+    "game_id": "g_0281",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0281",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0282",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0283",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0283",
+    "similar_id": "g_0352"
+  },
+  {
+    "game_id": "g_0284",
+    "similar_id": "g_0022"
+  },
+  {
+    "game_id": "g_0284",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0284",
+    "similar_id": "g_0103"
+  },
+  {
+    "game_id": "g_0285",
+    "similar_id": "g_0010"
+  },
+  {
+    "game_id": "g_0285",
+    "similar_id": "g_0101"
+  },
+  {
+    "game_id": "g_0285",
+    "similar_id": "g_0139"
+  },
+  {
+    "game_id": "g_0286",
+    "similar_id": "g_0005"
+  },
+  {
+    "game_id": "g_0287",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0287",
+    "similar_id": "g_0057"
+  },
+  {
+    "game_id": "g_0288",
+    "similar_id": "g_0048"
+  },
+  {
+    "game_id": "g_0288",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0289",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0289",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0289",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0290",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0290",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0291",
+    "similar_id": "g_0089"
+  },
+  {
+    "game_id": "g_0291",
+    "similar_id": "g_0302"
+  },
+  {
+    "game_id": "g_0292",
+    "similar_id": "g_0035"
+  },
+  {
+    "game_id": "g_0292",
+    "similar_id": "g_0160"
+  },
+  {
+    "game_id": "g_0293",
+    "similar_id": "g_0342"
+  },
+  {
+    "game_id": "g_0293",
+    "similar_id": "g_0069"
+  },
+  {
+    "game_id": "g_0293",
+    "similar_id": "g_0087"
+  },
+  {
+    "game_id": "g_0294",
+    "similar_id": "g_0143"
+  },
+  {
+    "game_id": "g_0294",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0295",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0295",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0296",
+    "similar_id": "g_0054"
+  },
+  {
+    "game_id": "g_0296",
+    "similar_id": "g_0379"
+  },
+  {
+    "game_id": "g_0296",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0297",
+    "similar_id": "g_0042"
+  },
+  {
+    "game_id": "g_0297",
+    "similar_id": "g_0026"
+  },
+  {
+    "game_id": "g_0298",
+    "similar_id": "g_0037"
+  },
+  {
+    "game_id": "g_0298",
+    "similar_id": "g_0250"
+  },
+  {
+    "game_id": "g_0298",
+    "similar_id": "g_0079"
+  },
+  {
+    "game_id": "g_0299",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0299",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0299",
+    "similar_id": "g_0119"
+  },
+  {
+    "game_id": "g_0300",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0300",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0300",
+    "similar_id": "g_0105"
+  },
+  {
+    "game_id": "g_0301",
+    "similar_id": "g_0391"
+  },
+  {
+    "game_id": "g_0301",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0301",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0302",
+    "similar_id": "g_0073"
+  },
+  {
+    "game_id": "g_0303",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0304",
+    "similar_id": "g_0355"
+  },
+  {
+    "game_id": "g_0305",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0305",
+    "similar_id": "g_0112"
+  },
+  {
+    "game_id": "g_0306",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0306",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0307",
+    "similar_id": "g_0143"
+  },
+  {
+    "game_id": "g_0307",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0307",
+    "similar_id": "g_0272"
+  },
+  {
+    "game_id": "g_0308",
+    "similar_id": "g_0013"
+  },
+  {
+    "game_id": "g_0308",
+    "similar_id": "g_0160"
+  },
+  {
+    "game_id": "g_0308",
+    "similar_id": "g_0188"
+  },
+  {
+    "game_id": "g_0309",
+    "similar_id": "g_0347"
+  },
+  {
+    "game_id": "g_0309",
+    "similar_id": "g_0106"
+  },
+  {
+    "game_id": "g_0311",
+    "similar_id": "g_0050"
+  },
+  {
+    "game_id": "g_0311",
+    "similar_id": "g_0081"
+  },
+  {
+    "game_id": "g_0311",
+    "similar_id": "g_0114"
+  },
+  {
+    "game_id": "g_0312",
+    "similar_id": "g_0073"
+  },
+  {
+    "game_id": "g_0312",
+    "similar_id": "g_0291"
+  },
+  {
+    "game_id": "g_0312",
+    "similar_id": "g_0344"
+  },
+  {
+    "game_id": "g_0313",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0313",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0313",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0314",
+    "similar_id": "g_0317"
+  },
+  {
+    "game_id": "g_0314",
+    "similar_id": "g_0385"
+  },
+  {
+    "game_id": "g_0315",
+    "similar_id": "g_0112"
+  },
+  {
+    "game_id": "g_0316",
+    "similar_id": "g_0050"
+  },
+  {
+    "game_id": "g_0316",
+    "similar_id": "g_0260"
+  },
+  {
+    "game_id": "g_0316",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0317",
+    "similar_id": "g_0398"
+  },
+  {
+    "game_id": "g_0318",
+    "similar_id": "g_0197"
+  },
+  {
+    "game_id": "g_0318",
+    "similar_id": "g_0271"
+  },
+  {
+    "game_id": "g_0319",
+    "similar_id": "g_0386"
+  },
+  {
+    "game_id": "g_0322",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0322",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0322",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0323",
+    "similar_id": "g_0383"
+  },
+  {
+    "game_id": "g_0325",
+    "similar_id": "g_0339"
+  },
+  {
+    "game_id": "g_0326",
+    "similar_id": "g_0001"
+  },
+  {
+    "game_id": "g_0327",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0327",
+    "similar_id": "g_0127"
+  },
+  {
+    "game_id": "g_0328",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0328",
+    "similar_id": "g_0143"
+  },
+  {
+    "game_id": "g_0328",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0329",
+    "similar_id": "g_0400"
+  },
+  {
+    "game_id": "g_0329",
+    "similar_id": "g_0060"
+  },
+  {
+    "game_id": "g_0329",
+    "similar_id": "g_0104"
+  },
+  {
+    "game_id": "g_0330",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0330",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0330",
+    "similar_id": "g_0250"
+  },
+  {
+    "game_id": "g_0331",
+    "similar_id": "g_0377"
+  },
+  {
+    "game_id": "g_0331",
+    "similar_id": "g_0007"
+  },
+  {
+    "game_id": "g_0331",
+    "similar_id": "g_0020"
+  },
+  {
+    "game_id": "g_0332",
+    "similar_id": "g_0019"
+  },
+  {
+    "game_id": "g_0332",
+    "similar_id": "g_0047"
+  },
+  {
+    "game_id": "g_0333",
+    "similar_id": "g_0317"
+  },
+  {
+    "game_id": "g_0333",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0334",
+    "similar_id": "g_0008"
+  },
+  {
+    "game_id": "g_0334",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0334",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0335",
+    "similar_id": "g_0101"
+  },
+  {
+    "game_id": "g_0335",
+    "similar_id": "g_0117"
+  },
+  {
+    "game_id": "g_0336",
+    "similar_id": "g_0003"
+  },
+  {
+    "game_id": "g_0336",
+    "similar_id": "g_0112"
+  },
+  {
+    "game_id": "g_0336",
+    "similar_id": "g_0120"
+  },
+  {
+    "game_id": "g_0337",
+    "similar_id": "g_0185"
+  },
+  {
+    "game_id": "g_0338",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0338",
+    "similar_id": "g_0384"
+  },
+  {
+    "game_id": "g_0338",
+    "similar_id": "g_0002"
+  },
+  {
+    "game_id": "g_0340",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0340",
+    "similar_id": "g_0012"
+  },
+  {
+    "game_id": "g_0340",
+    "similar_id": "g_0096"
+  },
+  {
+    "game_id": "g_0341",
+    "similar_id": "g_0179"
+  },
+  {
+    "game_id": "g_0342",
+    "similar_id": "g_0069"
+  },
+  {
+    "game_id": "g_0342",
+    "similar_id": "g_0074"
+  },
+  {
+    "game_id": "g_0343",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0343",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0344",
+    "similar_id": "g_0111"
+  },
+  {
+    "game_id": "g_0344",
+    "similar_id": "g_0229"
+  },
+  {
+    "game_id": "g_0344",
+    "similar_id": "g_0250"
+  },
+  {
+    "game_id": "g_0345",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0345",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0345",
+    "similar_id": "g_0210"
+  },
+  {
+    "game_id": "g_0346",
+    "similar_id": "g_0324"
+  },
+  {
+    "game_id": "g_0346",
+    "similar_id": "g_0096"
+  },
+  {
+    "game_id": "g_0347",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0348",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0348",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0348",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0349",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0349",
+    "similar_id": "g_0191"
+  },
+  {
+    "game_id": "g_0349",
+    "similar_id": "g_0207"
+  },
+  {
+    "game_id": "g_0350",
+    "similar_id": "g_0101"
+  },
+  {
+    "game_id": "g_0351",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0351",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0351",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0352",
+    "similar_id": "g_0028"
+  },
+  {
+    "game_id": "g_0352",
+    "similar_id": "g_0032"
+  },
+  {
+    "game_id": "g_0353",
+    "similar_id": "g_0377"
+  },
+  {
+    "game_id": "g_0354",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0354",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0354",
+    "similar_id": "g_0051"
+  },
+  {
+    "game_id": "g_0355",
+    "similar_id": "g_0363"
+  },
+  {
+    "game_id": "g_0355",
+    "similar_id": "g_0369"
+  },
+  {
+    "game_id": "g_0356",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0356",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0356",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0357",
+    "similar_id": "g_0304"
+  },
+  {
+    "game_id": "g_0357",
+    "similar_id": "g_0055"
+  },
+  {
+    "game_id": "g_0358",
+    "similar_id": "g_0136"
+  },
+  {
+    "game_id": "g_0358",
+    "similar_id": "g_0226"
+  },
+  {
+    "game_id": "g_0358",
+    "similar_id": "g_0260"
+  },
+  {
+    "game_id": "g_0359",
+    "similar_id": "g_0169"
+  },
+  {
+    "game_id": "g_0359",
+    "similar_id": "g_0248"
+  },
+  {
+    "game_id": "g_0359",
+    "similar_id": "g_0367"
+  },
+  {
+    "game_id": "g_0360",
+    "similar_id": "g_0385"
+  },
+  {
+    "game_id": "g_0360",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0362",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0362",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0362",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0363",
+    "similar_id": "g_0069"
+  },
+  {
+    "game_id": "g_0363",
+    "similar_id": "g_0087"
+  },
+  {
+    "game_id": "g_0364",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0364",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0365",
+    "similar_id": "g_0030"
+  },
+  {
+    "game_id": "g_0365",
+    "similar_id": "g_0049"
+  },
+  {
+    "game_id": "g_0365",
+    "similar_id": "g_0077"
+  },
+  {
+    "game_id": "g_0366",
+    "similar_id": "g_0183"
+  },
+  {
+    "game_id": "g_0366",
+    "similar_id": "g_0188"
+  },
+  {
+    "game_id": "g_0367",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0367",
+    "similar_id": "g_0172"
+  },
+  {
+    "game_id": "g_0367",
+    "similar_id": "g_0275"
+  },
+  {
+    "game_id": "g_0368",
+    "similar_id": "g_0011"
+  },
+  {
+    "game_id": "g_0368",
+    "similar_id": "g_0054"
+  },
+  {
+    "game_id": "g_0368",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0369",
+    "similar_id": "g_0304"
+  },
+  {
+    "game_id": "g_0369",
+    "similar_id": "g_0363"
+  },
+  {
+    "game_id": "g_0370",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0370",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0370",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0371",
+    "similar_id": "g_0083"
+  },
+  {
+    "game_id": "g_0371",
+    "similar_id": "g_0016"
+  },
+  {
+    "game_id": "g_0372",
+    "similar_id": "g_0112"
+  },
+  {
+    "game_id": "g_0372",
+    "similar_id": "g_0339"
+  },
+  {
+    "game_id": "g_0372",
+    "similar_id": "g_0120"
+  },
+  {
+    "game_id": "g_0373",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0373",
+    "similar_id": "g_0088"
+  },
+  {
+    "game_id": "g_0373",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0374",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0374",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0374",
+    "similar_id": "g_0061"
+  },
+  {
+    "game_id": "g_0375",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0375",
+    "similar_id": "g_0097"
+  },
+  {
+    "game_id": "g_0376",
+    "similar_id": "g_0022"
+  },
+  {
+    "game_id": "g_0376",
+    "similar_id": "g_0093"
+  },
+  {
+    "game_id": "g_0376",
+    "similar_id": "g_0121"
+  },
+  {
+    "game_id": "g_0377",
+    "similar_id": "g_0269"
+  },
+  {
+    "game_id": "g_0378",
+    "similar_id": "g_0115"
+  },
+  {
+    "game_id": "g_0378",
+    "similar_id": "g_0129"
+  },
+  {
+    "game_id": "g_0378",
+    "similar_id": "g_0223"
+  },
+  {
+    "game_id": "g_0379",
+    "similar_id": "g_0031"
+  },
+  {
+    "game_id": "g_0379",
+    "similar_id": "g_0082"
+  },
+  {
+    "game_id": "g_0380",
+    "similar_id": "g_0070"
+  },
+  {
+    "game_id": "g_0380",
+    "similar_id": "g_0260"
+  },
+  {
+    "game_id": "g_0380",
+    "similar_id": "g_0004"
+  },
+  {
+    "game_id": "g_0381",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0381",
+    "similar_id": "g_0067"
+  },
+  {
+    "game_id": "g_0381",
+    "similar_id": "g_0164"
+  },
+  {
+    "game_id": "g_0382",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0382",
+    "similar_id": "g_0105"
+  },
+  {
+    "game_id": "g_0382",
+    "similar_id": "g_0043"
+  },
+  {
+    "game_id": "g_0384",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0384",
+    "similar_id": "g_0065"
+  },
+  {
+    "game_id": "g_0384",
+    "similar_id": "g_0110"
+  },
+  {
+    "game_id": "g_0386",
+    "similar_id": "g_0060"
+  },
+  {
+    "game_id": "g_0387",
+    "similar_id": "g_0010"
+  },
+  {
+    "game_id": "g_0387",
+    "similar_id": "g_0117"
+  },
+  {
+    "game_id": "g_0388",
+    "similar_id": "g_0179"
+  },
+  {
+    "game_id": "g_0388",
+    "similar_id": "g_0353"
+  },
+  {
+    "game_id": "g_0389",
+    "similar_id": "g_0206"
+  },
+  {
+    "game_id": "g_0389",
+    "similar_id": "g_0377"
+  },
+  {
+    "game_id": "g_0389",
+    "similar_id": "g_0007"
+  },
+  {
+    "game_id": "g_0390",
+    "similar_id": "g_0015"
+  },
+  {
+    "game_id": "g_0390",
+    "similar_id": "g_0068"
+  },
+  {
+    "game_id": "g_0390",
+    "similar_id": "g_0071"
+  },
+  {
+    "game_id": "g_0391",
+    "similar_id": "g_0034"
+  },
+  {
+    "game_id": "g_0391",
+    "similar_id": "g_0078"
+  },
+  {
+    "game_id": "g_0392",
+    "similar_id": "g_0273"
+  },
+  {
+    "game_id": "g_0392",
+    "similar_id": "g_0120"
+  },
+  {
+    "game_id": "g_0393",
+    "similar_id": "g_0053"
+  },
+  {
+    "game_id": "g_0393",
+    "similar_id": "g_0094"
+  },
+  {
+    "game_id": "g_0393",
+    "similar_id": "g_0165"
+  },
+  {
+    "game_id": "g_0394",
+    "similar_id": "g_0056"
+  },
+  {
+    "game_id": "g_0394",
+    "similar_id": "g_0080"
+  },
+  {
+    "game_id": "g_0394",
+    "similar_id": "g_0083"
+  },
+  {
+    "game_id": "g_0395",
+    "similar_id": "g_0025"
+  },
+  {
+    "game_id": "g_0395",
+    "similar_id": "g_0039"
+  },
+  {
+    "game_id": "g_0395",
+    "similar_id": "g_0041"
+  },
+  {
+    "game_id": "g_0396",
+    "similar_id": "g_0130"
+  },
+  {
+    "game_id": "g_0396",
+    "similar_id": "g_0196"
+  },
+  {
+    "game_id": "g_0397",
+    "similar_id": "g_0132"
+  },
+  {
+    "game_id": "g_0397",
+    "similar_id": "g_0163"
+  },
+  {
+    "game_id": "g_0397",
+    "similar_id": "g_0012"
+  },
+  {
+    "game_id": "g_0398",
+    "similar_id": "g_0314"
+  },
+  {
+    "game_id": "g_0399",
+    "similar_id": "g_0063"
+  },
+  {
+    "game_id": "g_0399",
+    "similar_id": "g_0109"
+  },
+  {
+    "game_id": "g_0399",
+    "similar_id": "g_0119"
+  },
+  {
+    "game_id": "g_0400",
+    "similar_id": "g_0386"
+  },
+  {
+    "game_id": "g_0400",
+    "similar_id": "g_0060"
+  }
+]
